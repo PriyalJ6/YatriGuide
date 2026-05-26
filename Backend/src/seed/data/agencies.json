@@ -1,0 +1,1820 @@
+[
+  {
+    "name": "Mumbai Magic Private Tours",
+    "slug": "mumbai-magic-private-tours",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Mumbai Magic is one of the city's oldest and most decorated private tour companies, established in 2006 and consistently winning TripAdvisor Traveller's Choice Awards every year since 2012. Approved by the Ministry of Tourism, Government of India, and listed in Frommer's and Lonely Planet, they specialise in private, custom-designed tours of Mumbai that go well beyond the typical sightseeing circuit. Their guides are highly educated, English-speaking locals who are deeply passionate about the city — covering not just monuments but the layered social, religious, and cultural history that most visitors never access. Tours range from half-day heritage walks through the Fort precinct to full-day combination tours covering Dharavi, Dhobi Ghat, Elephanta Caves, and South Mumbai's colonial district. They also arrange multi-day trips to Aurangabad (Ajanta and Ellora Caves), Nashik, Mahabaleshwar, and Goa. Particularly noted for their Jewish heritage tours, Parsi community tours, and their evening Dharavi dinner experience — dining above the settlement with a view of the city. Trusted by 100,000+ global travellers with 4,100+ TripAdvisor reviews.",
+    "tagline": "Mumbai since 2006. Ministry of Tourism approved. Lonely Planet listed.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "private city tours",
+      "Dharavi tours",
+      "Jewish heritage tours",
+      "Parsi community tours",
+      "Ajanta Ellora day trips",
+      "Elephanta Island tours",
+      "food tours",
+      "night tours",
+      "Nashik day trips",
+      "multi-day Maharashtra packages"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 2000,
+      "max": 18000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9867205547",
+      "email": "info@mumbaimagic.com",
+      "website": "https://www.mumbaimagic.com",
+      "whatsapp": "+91-9867205547"
+    },
+    "address": "Mumbai, Maharashtra",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8347, 18.9322]
+    },
+    "packages": [
+      {
+        "title": "Mumbai Highlights Private Tour",
+        "duration": "Full day",
+        "price": 5500,
+        "description": "Private full-day tour covering Gateway of India, CSMT, Dhobi Ghat, Dharavi, Marine Drive, Mani Bhavan, and Haji Ali with a licensed, Ministry-approved guide. Includes AC transport."
+      },
+      {
+        "title": "Dharavi Slum + Dinner Experience",
+        "duration": "4 hours evening",
+        "price": 4500,
+        "description": "Evening Dharavi walking tour followed by a private dinner above the settlement — a rooftop meal with a local family and city views. Max 8 guests."
+      },
+      {
+        "title": "Ajanta & Ellora Caves Day Trip",
+        "duration": "2 days / 1 night",
+        "price": 9500,
+        "description": "Aurangabad overnight trip — Ajanta Caves (Buddhist paintings, 2nd century BCE), Ellora Caves (Hindu, Buddhist, Jain), and Bibi Ka Maqbara. AC transport from Mumbai, hotel, and licensed guide."
+      },
+      {
+        "title": "Mumbai Jewish Heritage Tour",
+        "duration": "3 hours",
+        "price": 3000,
+        "description": "Explore Mumbai's centuries-old Bene Israel Jewish community — covering the Keneseth Eliyahoo Synagogue in Fort, the Magen David Synagogue in Byculla, and the remarkable history of Jews in Bombay."
+      }
+    ],
+    "languages": ["English", "Hindi", "Marathi", "German", "French"],
+    "yearEstablished": 2006,
+    "rating": 4.8,
+    "reviewCount": 4128,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Magical Mumbai Tours",
+    "slug": "magical-mumbai-tours",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Magical Mumbai Tours (MMT) is one of the most reviewed private tour operators in Mumbai, founded by Sahil Kamble and trusted by over 100,000 global travellers. Ranked #1 on TripAdvisor for Mumbai tour operators with 900+ verified reviews on TripAdvisor and Viator combined. Their USP is providing certified English-speaking guides, 24/7 customer support, transparent pricing with no hidden charges, and a social impact model — 20% of profits are reinvested into community welfare programmes. They operate private city sightseeing tours, Dharavi slum tours, Kanheri Caves tours, night tours, and customised multi-day packages across Maharashtra. Particularly popular with international travellers visiting India for the first time who want a safe, well-organised, and informative introduction to Mumbai. Known for excellent guide quality — their guides are frequently named individually in reviews for their knowledge, warmth, and ability to contextualise what visitors see. Available 7 days a week with instant booking confirmation.",
+    "tagline": "#1 on TripAdvisor. Certified guides. No hidden charges. 20% back to community.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "private city sightseeing",
+      "Dharavi slum tours",
+      "Kanheri Caves tours",
+      "night city tours",
+      "Elephanta Island tours",
+      "first-time India visitors",
+      "airport transfer tours",
+      "customised private packages"
+    ],
+    "travelStyles": ["mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 2500,
+      "max": 12000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9967500001",
+      "email": "info@magicalmumbaitours.com",
+      "website": "https://magicalmumbaitours.com",
+      "whatsapp": "+91-9967500001"
+    },
+    "address": "Shop No. 7, Daginawala Mansion, Colaba, Mumbai 400001",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8330, 18.9165]
+    },
+    "packages": [
+      {
+        "title": "Private Mumbai City Sightseeing Tour",
+        "duration": "8 hours",
+        "price": 4500,
+        "description": "Full day private tour — Gateway of India, CSMT, Marine Drive, Dhobi Ghat, Haji Ali, Siddhivinayak, Mani Bhavan, and Crawford Market. AC vehicle and certified guide included."
+      },
+      {
+        "title": "Dharavi Slum Tour with Combo Sightseeing",
+        "duration": "5 hours",
+        "price": 3500,
+        "description": "Half-day Dharavi tour followed by South Mumbai highlights. Covers pottery colony, leather district, recycling units, and residential lanes — then Gateway of India, CSMT, and Marine Drive."
+      },
+      {
+        "title": "Mumbai Night Tour",
+        "duration": "3 hours",
+        "price": 2500,
+        "description": "Mumbai after dark — the illuminated Gateway of India, lit-up Sea Link, Marine Drive Queen's Necklace, and CSMT at night. Includes Chowpatty Beach street food stop."
+      },
+      {
+        "title": "Kanheri Caves & Sanjay Gandhi National Park",
+        "duration": "5 hours",
+        "price": 3800,
+        "description": "Half-day trip to Borivali — Sanjay Gandhi National Park entry, Kanheri Caves guided tour, and nature walk through the forest. Transport, entry fees, and guide included."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 2015,
+    "rating": 4.8,
+    "reviewCount": 4350,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Kesari Tours",
+    "slug": "kesari-tours",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Kesari Tours is one of India's oldest and largest travel companies, founded in Mumbai in 1984 and now operating with 750+ employees, 150+ branches across India, and international offices in Dubai, London, Canada, Australia, and Singapore. With over 40 years of legacy, they are the go-to operator for group tours, pilgrimage circuits, family holidays, and Maharashtra darshan packages for the middle-class Mumbai market. Their Maharashtra coverage is the most comprehensive of any Mumbai-based operator — covering the 5 Jyotirlinga temples, Shirdi, Ajanta and Ellora Caves, Nashik wine trail and Trimbakeshwar, Mahabaleshwar and Panchgani, the Konkan coast, Aurangabad, and Kolhapur. They offer tours in multiple Indian languages including Marathi, Hindi, and Gujarati — making them uniquely accessible to the large non-English-speaking Mumbai travel market. Their group tours are escorted by an experienced tour manager throughout, covering transport, accommodation, sightseeing, and most meals. A trusted household name in Maharashtra for three generations of travellers.",
+    "tagline": "Maharashtra's most trusted tour company since 1984. 40 years of happy travels.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Maharashtra group tours",
+      "Jyotirlinga pilgrimage circuits",
+      "Shirdi Sai Baba tours",
+      "Ajanta Ellora packages",
+      "Nashik religious tours",
+      "Mahabaleshwar family packages",
+      "Konkan coast tours",
+      "international group tours",
+      "senior citizen tours",
+      "family packages"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["family", "group", "couple"],
+    "priceRange": {
+      "min": 8000,
+      "max": 45000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "1800-123-5555",
+      "email": "info@kesari.in",
+      "website": "https://www.kesari.in",
+      "whatsapp": "+91-9967000555"
+    },
+    "address": "Neelkanth Corporate Park, Kirol Road, Vidyavihar West, Mumbai 400086",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.1010]
+    },
+    "packages": [
+      {
+        "title": "5 Jyotirlinga Maharashtra Tour",
+        "duration": "7 days / 6 nights",
+        "price": 18500,
+        "description": "Escorted group tour covering Bhimashankar, Aundha Nagnath, Parli Vaijnath, Trimbakeshwar, and Grishneshwar — the five Jyotirlinga temples of Maharashtra — with Shirdi and Shani Shingnapur. AC coach, hotels, meals, and escort manager included."
+      },
+      {
+        "title": "Ajanta Ellora Aurangabad Tour",
+        "duration": "3 days / 2 nights",
+        "price": 9500,
+        "description": "Group tour from Mumbai — Ajanta Caves (Buddhist rock-cut paintings, 2nd century BCE), Ellora Caves (30 Hindu, Buddhist and Jain caves including the Kailasa Temple), Bibi Ka Maqbara, and Daulatabad Fort. AC coach, 3-star hotel, breakfast."
+      },
+      {
+        "title": "Mahabaleshwar Panchgani Family Package",
+        "duration": "3 days / 2 nights",
+        "price": 8500,
+        "description": "Family group tour — Mahabaleshwar hill station, Venna Lake boating, Pratapgad Fort, Wilson Point sunrise, Mapro Gardens, and Panchgani's Table Land. AC coach, hotel, all meals."
+      },
+      {
+        "title": "Konkan Coast Beach Circuit",
+        "duration": "5 days / 4 nights",
+        "price": 14000,
+        "description": "Alibaug, Murud-Janjira Fort (sea fort accessible by boat), Harihareshwar, Ganpatipule temple, Ratnagiri, and Tarkarli beach. AC coach, hotels, seafood meals, and escort manager."
+      }
+    ],
+    "languages": ["Marathi", "Hindi", "Gujarati", "English"],
+    "yearEstablished": 1984,
+    "rating": 4.2,
+    "reviewCount": 1850,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Veena World",
+    "slug": "veena-world",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Veena World is one of India's leading travel companies, founded in Mumbai in 2013 by Veena Patil and headquartered at Vidyavihar West with 150+ branches across India and international offices in Dubai, London, Canada, Australia, and Singapore. With 750+ team members and 2,500+ tour packages covering domestic and international destinations, they excel at group tours, customised holidays, corporate MICE travel, inbound tourism, and destination weddings. Their Maharashtra and near-Mumbai offerings are comprehensive — covering Lonavala, Mahabaleshwar, Alibaug, Nashik vineyard trails, Ajanta and Ellora Caves, the Konkan coast, and Goa. They are particularly strong in honeymoon and couple packages, senior-friendly tours, and NRI-focused India discovery journeys. Their guided group tours are value-driven — escorted, well-organised, and covering transport, accommodation, most meals, and a tour manager. A significant step up in scale and polish from local operators, Veena World brings hospitality industry standards to group travel.",
+    "tagline": "2,500+ packages. Founded in Mumbai. Group tours done right.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "guided group tours",
+      "honeymoon packages",
+      "customised holidays",
+      "corporate MICE travel",
+      "NRI India discovery tours",
+      "Konkan coast packages",
+      "Goa packages",
+      "Nashik wine trail",
+      "Ajanta Ellora tours",
+      "destination weddings",
+      "senior-friendly tours"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 10000,
+      "max": 80000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-8879972221",
+      "email": "info@veenaworld.com",
+      "website": "https://www.veenaworld.com",
+      "whatsapp": "+91-8879972221"
+    },
+    "address": "Neelkanth Corporate Park, Kirol Road, Vidyavihar West, Mumbai 400086",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.1010]
+    },
+    "packages": [
+      {
+        "title": "Goa Honeymoon Package",
+        "duration": "4 days / 3 nights",
+        "price": 18000,
+        "description": "Couple package — North and South Goa sightseeing, Dudhsagar Falls day trip, beach time at Palolem and Anjuna, candlelight dinner, 4-star beach resort. AC transport from Mumbai, all meals."
+      },
+      {
+        "title": "Nashik Wine Trail & Trimbakeshwar",
+        "duration": "2 days / 1 night",
+        "price": 8500,
+        "description": "Weekend group tour — Sula Vineyards wine tasting, Trimbakeshwar Jyotirlinga, Pandu Lena Buddhist caves, and Saptashringi Devi temple. AC coach, hotel, breakfast and dinner."
+      },
+      {
+        "title": "Konkan Coastal Road Trip",
+        "duration": "5 days / 4 nights",
+        "price": 22000,
+        "description": "Alibaug, Kashid Beach, Murud-Janjira Fort, Ganpatipule, Ratnagiri Alphonso mango plantation, and Tarkarli SCUBA diving. Luxury SUV, boutique hotels, and fresh coastal seafood throughout."
+      },
+      {
+        "title": "Maharashtra Darshan Grand Circuit",
+        "duration": "8 days / 7 nights",
+        "price": 32000,
+        "description": "Comprehensive Maharashtra group tour — Lonavala, Nashik, Shirdi, Aurangabad (Ajanta/Ellora), Mahabaleshwar, Kolhapur Mahalaxmi, and Goa. AC coach, 3-star hotels, all meals, escort manager."
+      }
+    ],
+    "languages": ["Hindi", "Marathi", "Gujarati", "English"],
+    "yearEstablished": 2013,
+    "rating": 4.4,
+    "reviewCount": 2200,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Konkan Travel Club",
+    "slug": "konkan-travel-club",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Konkan Travel Club (KTC) is a boutique offbeat travel operator based in the Konkan coast region, 25 km from Arambol, Goa, specialising exclusively in immersive Konkan experiences for travellers from Mumbai and Pune. They are the only operator focused entirely on the lesser-known, unspoilt parts of the Konkan — the stretch of coastline between Mumbai and Goa that most tour operators treat as a transit zone. KTC offers trails, treks, scuba diving, boat safaris, heritage walks, and authentic homestay experiences in fishing villages, forest fringes, and coastal hamlets that have no presence on standard tour circuits. Their stays are in authentic Konkan homes and family-run beach properties — not resorts. They have hosted travellers from Mumbai, Sambhajinagar, Nashik, Nagpur, and Pune, and have been recommended by food and travel bloggers for the quality of their local experiences — Alphonso mango farm visits in summer, monsoon waterfall treks, winter whale shark sightings, and SCUBA at Tarkarli. Ideal for travellers who are tired of the standard Goa package and want the real Konkan.",
+    "tagline": "The real Konkan. Offbeat, authentic, and 25 km from Goa.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "offbeat Konkan tours",
+      "Tarkarli SCUBA diving",
+      "monsoon waterfall treks",
+      "authentic Konkan homestays",
+      "boat safaris Konkan backwaters",
+      "Alphonso mango farm visits",
+      "whale shark sightings",
+      "heritage coastal walks",
+      "Murud-Janjira Fort tours",
+      "slow travel Maharashtra"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "couple", "group"],
+    "priceRange": {
+      "min": 3500,
+      "max": 18000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9175000456",
+      "email": "hello@konkantravelclub.com",
+      "website": "https://konkantravelclub.com",
+      "whatsapp": "+91-9175000456"
+    },
+    "address": "Konkan Coast, near Arambol, Maharashtra-Goa border",
+    "location": {
+      "type": "Point",
+      "coordinates": [73.7078, 15.6925]
+    },
+    "packages": [
+      {
+        "title": "Tarkarli SCUBA & Beach Stay",
+        "duration": "3 days / 2 nights",
+        "price": 8500,
+        "description": "Tarkarli beach — SCUBA diving certification dive in the clearest water on Maharashtra's coast, snorkelling in Malvan Marine Sanctuary, and overnight stay in a traditional Konkan homestay. All meals included."
+      },
+      {
+        "title": "Monsoon Konkan Waterfalls Trek",
+        "duration": "2 days / 1 night",
+        "price": 4500,
+        "description": "Monsoon trek through the Sahyadri foothills of the Konkan — covering hidden waterfalls, village trails, and rice paddy valleys only accessible in the rain. Homestay stay, village meals, and local guide."
+      },
+      {
+        "title": "Murud-Janjira Sea Fort Exploration",
+        "duration": "2 days / 1 night",
+        "price": 5500,
+        "description": "The only sea fort in India never conquered — Murud-Janjira, accessible only by boat from Rajapuri. Includes boat ride, guided fort tour, Murud beach, and Kashid Beach overnight stay."
+      },
+      {
+        "title": "Alphonso Mango Farm & Konkan Village Stay",
+        "duration": "2 days / 1 night",
+        "price": 4000,
+        "description": "Summer (March–May) mango season special — stay with a Ratnagiri Konkan farming family, walk the Alphonso mango orchards, eat freshly picked Hapus, and learn traditional Konkani cooking."
+      }
+    ],
+    "languages": ["Marathi", "Hindi", "English", "Konkani"],
+    "yearEstablished": 2018,
+    "rating": 4.6,
+    "reviewCount": 380,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Mumbai Dream Tours",
+    "slug": "mumbai-dream-tours",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Mumbai Dream Tours is a certified, community-focused tour operator offering immersive, respectful, and well-reviewed city experiences in Mumbai. Founded with the philosophy that tourism should be both informative and responsible, they are excellently rated on TripAdvisor and known for the quality and warmth of their local guides — several of whom are named individually in reviews for their outstanding knowledge and personal approach. They offer heritage walks through Mumbai's UNESCO heritage areas, Dharavi community tours, cultural neighbourhood walks covering Parsi, East Indian, and Koli communities, and multi-day packages across Maharashtra. Their guides carry deep knowledge of Mumbai's colonial history, its religious communities, and its architectural evolution. Particularly popular with international tourists making their first visit to India who want a well-organised, safe, and insightful introduction to the city. They also offer private customised tours — where the itinerary is entirely built around the specific interests of the visitor.",
+    "tagline": "Immersive, respectful, and community-focused Mumbai experiences.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "heritage walks",
+      "Dharavi community tours",
+      "Parsi heritage walks",
+      "East Indian community tours",
+      "Koli fishing village tours",
+      "colonial architecture walks",
+      "custom private tours",
+      "first-time India visitors",
+      "multi-day Maharashtra packages"
+    ],
+    "travelStyles": ["mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 1800,
+      "max": 10000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9820033451",
+      "email": "info@mumbaidreamtours.com",
+      "website": "https://mumbaidreamtours.com",
+      "whatsapp": "+91-9820033451"
+    },
+    "address": "Mumbai, Maharashtra",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8347, 18.9400]
+    },
+    "packages": [
+      {
+        "title": "South Mumbai Heritage Walking Tour",
+        "duration": "3 hours",
+        "price": 1800,
+        "description": "Walk through Mumbai's UNESCO heritage precinct — CSMT, the High Court, University of Mumbai, Rajabai Clock Tower, Flora Fountain, and Kala Ghoda. Led by a certified heritage guide."
+      },
+      {
+        "title": "Parsi Heritage & Community Walk",
+        "duration": "3 hours",
+        "price": 2500,
+        "description": "Explore the history of Mumbai's Zoroastrian community — the Towers of Silence, the Fire Temples of Colaba and Tardeo, Parsi colony architecture, and the Wadia family's contributions to the city."
+      },
+      {
+        "title": "Full Day Mumbai Culture & History Tour",
+        "duration": "8 hours",
+        "price": 5500,
+        "description": "Complete private city tour — morning heritage walk, Dharavi community visit, Dhobi Ghat, Haji Ali, Marine Drive, and Chowpatty street food experience. AC vehicle and certified guide."
+      },
+      {
+        "title": "Custom Private Mumbai Experience",
+        "duration": "Flexible",
+        "price": 7000,
+        "description": "A completely bespoke tour designed around your specific interests — architecture, religion, food, communities, Bollywood, or history. The guide builds the day's itinerary entirely for you."
+      }
+    ],
+    "languages": ["English", "Hindi", "Marathi", "French", "Spanish"],
+    "yearEstablished": 2014,
+    "rating": 4.7,
+    "reviewCount": 920,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "name": "Reality Tours & Travel",
+    "slug": "reality-tours-and-travel",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Reality Tours & Travel is Mumbai's most internationally recognised responsible tourism operator, founded in 2005 and based out of Dharavi. They are best known for their ethical, community-first Dharavi Slum Tour — a 2.5-hour guided walk through Asia's largest informal settlement that reveals its extraordinary industrial ecosystem: pottery, leather, recycling, soap manufacturing, bakery, and poppadom production. 80% of all tour profits are reinvested into Reality Gives, their sister NGO that runs three community centres in Dharavi providing English, computer, and life skills education to local children and youth. Beyond Dharavi, they offer city sightseeing tours, public transport tours of Mumbai, street food walks, Elephanta Island tours, and customised multi-day packages across Maharashtra. Their guides are deeply knowledgeable, English-speaking, and many are from the communities they show you. Ranked among the top tour operators on TripAdvisor Mumbai with thousands of five-star reviews. Trusted by embassies, international schools, and NGOs for responsible urban tourism. Ideal for travellers who want to understand the real Mumbai — not just its monuments.",
+    "tagline": "See the real Mumbai. 80% of profits go back to the community.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "dharavi slum tours",
+      "responsible tourism",
+      "city sightseeing",
+      "street food walks",
+      "public transport tours",
+      "Elephanta Island tours",
+      "community tourism",
+      "customised tours"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 1500,
+      "max": 8000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9820822253",
+      "email": "info@realitytoursandtravel.com",
+      "website": "https://realitytoursandtravel.com",
+      "whatsapp": "+91-9820822253"
+    },
+    "address": "GNMC, A/122, Sant Gora Kumbhar Marg, Opp. Eleven Heights, Kumbharwada, Dharavi, Mumbai 400017",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8541, 19.0432]
+    },
+    "packages": [
+      {
+        "title": "Dharavi Slum Tour (Half Day)",
+        "duration": "2.5 hours",
+        "price": 1500,
+        "description": "Guided walking tour through Dharavi's industrial and residential areas. Groups capped at 6. Departs at 6 AM or 9 AM daily. 80% of profits fund NGO programmes."
+      },
+      {
+        "title": "Mumbai City Highlights Tour",
+        "duration": "Full day",
+        "price": 4500,
+        "description": "Covers Gateway of India, CSMT, Dhobi Ghat, Marine Drive, Mani Bhavan, and Haji Ali with a knowledgeable local guide. Includes local transport."
+      },
+      {
+        "title": "Mumbai Street Food Walk",
+        "duration": "3 hours",
+        "price": 2200,
+        "description": "Guided food walk through Mohammed Ali Road, Crawford Market, and South Mumbai's best khau gallis. Includes 8–10 tastings."
+      },
+      {
+        "title": "Elephanta Caves Day Tour",
+        "duration": "Full day",
+        "price": 3500,
+        "description": "Gateway of India to Elephanta Island by ferry, guided cave tour, return. Includes ferry tickets and cave entry fees."
+      }
+    ],
+    "languages": ["English", "Hindi", "Marathi"],
+    "yearEstablished": 2005,
+    "rating": 4.8,
+    "reviewCount": 3200,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Khaki Tours",
+    "slug": "khaki-tours",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Khaki Tours is Mumbai's foremost heritage evangelism organisation, founded by Bharat Gothoskar — a former marketing professional turned passionate heritage advocate — with the mission of uncovering the city's hidden history for locals and tourists alike. Their guides are called Ambassadors of Mumbai — not professional tour guides, but architects, journalists, historians, and educators who share their knowledge of the city as a personal passion project. Tours cover Mumbai's colonial architecture in the Fort precinct, the Art Deco buildings of Marine Drive, the Ramzan food culture of Mohammed Ali Road, the layered history of Bandra, and hidden neighbourhoods that most Mumbaikars have never explored. They also run an Urban Safari — a heritage tour in an open-top jeep — and a range of international immersive tours. Recognised by Maharashtra Tourism and featured extensively in national media. Rated 4.8 on JustDial with 270+ reviews. Their Ramzan Ramble walk on Mohammed Ali Road is particularly celebrated. Groups are kept small and guides never follow a script — tours are customised based on where you're from and what interests you.",
+    "tagline": "Mumbai's heritage, revealed by those who love it most.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "heritage walks",
+      "colonial architecture tours",
+      "Art Deco tours",
+      "food walks",
+      "neighbourhood walks",
+      "open-top jeep heritage tours",
+      "corporate heritage experiences",
+      "history tours"
+    ],
+    "travelStyles": ["mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 800,
+      "max": 6000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-8828100111",
+      "email": "khakilab@gmail.com",
+      "website": "https://khakitours.com",
+      "whatsapp": "+91-8828100111"
+    },
+    "address": "305, Hari Chambers, 15/64 Shahid Bhagat Singh Marg, Fort, Mumbai 400001",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8347, 18.9322]
+    },
+    "packages": [
+      {
+        "title": "Castle to Gateway Heritage Walk",
+        "duration": "2.5 hours",
+        "price": 900,
+        "description": "Flagship group walk through the Fort precinct — from the Afghan Memorial Church to the Gateway of India. Covers CST, the High Court, University, and Kala Ghoda."
+      },
+      {
+        "title": "Ramzan Ramble – Mohammed Ali Road Food Walk",
+        "duration": "3 hours",
+        "price": 1500,
+        "description": "Curated food and culture walk through the lanes of Mohammed Ali Road during the Ramzan season. Available throughout the holy month. Private bookings year-round."
+      },
+      {
+        "title": "Urban Safari – Open Top Jeep Heritage Tour",
+        "duration": "3 hours",
+        "price": 2500,
+        "description": "Mumbai's hidden heritage from the seat of an open-top jeep. Covers areas inaccessible on foot — mill districts, forgotten colonial precincts, and architectural gems."
+      },
+      {
+        "title": "Bandra Village Heritage Walk",
+        "duration": "2 hours",
+        "price": 900,
+        "description": "Through the Portuguese-era lanes of Bandra — the oldest settlement in the western suburbs — covering churches, bungalows, and the Mount Mary area."
+      }
+    ],
+    "languages": ["English", "Hindi", "Marathi"],
+    "yearEstablished": 2013,
+    "rating": 4.8,
+    "reviewCount": 273,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "No Footprints",
+    "slug": "no-footprints",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "No Footprints is Mumbai's most awarded boutique travel experience company, founded in 2014 by Harshvardhan Tanwar and Eesha Singh. They began with a single tour — Mumbai by Dawn — which became their flagship and won Best of Show at TripAdvisor. In the decade since, they have grown to over 50 experiences across Mumbai, Delhi, and Jaipur, hosting over 50,000 guests and amassing nearly 3,000 five-star reviews. Their philosophy centres on community-based storytelling: every tour surfaces the narratives of communities that urbanisation threatens to erase — the Kolis, the Parsis, the East Indians, the Bohris, and the Queer community of Mumbai. They have won the WTM Global Award for Inclusion and Diversity in Tourism (2021) and the Outlook Responsible Tourism Gold Award (2020). Guests have included celebrities Tom Holland, Zendaya, Gigi Hadid, and Nigella Lawson. Featured in National Geographic UK, The New York Times, The Guardian, and Condé Nast Traveller India. Ranked #1 Tour Company in Mumbai on TripAdvisor. Their Dabbawala Experience, Mumbai by Dawn, Koli Fishing Village Walk, and Queer Mumbai tours are particularly celebrated. The most prestigious and internationally recognised tour operator in the city.",
+    "tagline": "Mumbai's #1 rated tour company. Community stories, world-class experiences.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Mumbai by Dawn early morning tours",
+      "Dabbawala experience",
+      "Koli fishing community tours",
+      "Parsi heritage tours",
+      "food walks",
+      "community cultural tours",
+      "luxury private tours",
+      "responsible tourism",
+      "neighbourhood walks"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 2500,
+      "max": 15000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9930802833",
+      "email": "info@nfpexplore.com",
+      "website": "https://nfpexplore.com",
+      "whatsapp": "+91-9930802833"
+    },
+    "address": "Mumbai, Maharashtra",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.0760]
+    },
+    "packages": [
+      {
+        "title": "Mumbai by Dawn",
+        "duration": "4 hours",
+        "price": 4500,
+        "description": "The flagship tour — begins at 5 AM at Sassoon Docks with the Koli fish auction, continues through Dhobi Ghat, Crawford Market, and ends at a secret breakfast spot. Best experienced on weekdays."
+      },
+      {
+        "title": "A Day with the Dabbawalas",
+        "duration": "Half day",
+        "price": 3500,
+        "description": "Spend a morning with Mumbai's legendary tiffin delivery network. Join a dabbawala on his route, understand the zero-error supply chain, and eat a home-cooked meal delivered to your hands."
+      },
+      {
+        "title": "Koli Village & Fishing Community Walk",
+        "duration": "3 hours",
+        "price": 2800,
+        "description": "Into the Versova Koliwada with a Koli community guide — the original Mumbaikars. Covers the fishing docks, the fish market, and the community's cultural practices."
+      },
+      {
+        "title": "Khau Galli Street Food Walk",
+        "duration": "3 hours",
+        "price": 2500,
+        "description": "Through Mumbai's legendary food lanes in Kalbadevi and Mohammed Ali Road. 8–10 tastings curated by a food-obsessed local guide. Best done on an empty stomach."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 2014,
+    "rating": 4.9,
+    "reviewCount": 2980,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Bombay Heritage Walks",
+    "slug": "bombay-heritage-walks",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Bombay Heritage Walks is one of the oldest and most respected heritage walking tour organisations in Mumbai, founded in April 1999 by city architects Abha Bahl and Brinda Gaitonde Nayak — both graduates of the Academy of Architecture, Mumbai. It was during the inaugural Kala Ghoda Arts Festival in February 1999 that the founders, then fresh architecture graduates, organised their first walk. The group has been conducting tours of Mumbai's Fort precinct and architectural heritage areas ever since. Their USP is architecture: every tour is led by someone with a professional architectural background, and tours focus on the structural, ornamental, and historical details of Mumbai's Victorian Gothic and Art Deco buildings that a general guide simply cannot provide. They now offer only private bespoke tours on request — smaller groups, more depth, completely customised to the interests of the participants. Every tour participant receives a printed keepsake with a route map and detailed information about the buildings covered. Ideal for architects, academics, and serious heritage enthusiasts who want depth over breadth.",
+    "tagline": "Mumbai's architecture, explained by architects since 1999.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "architectural heritage walks",
+      "Fort precinct tours",
+      "Victorian Gothic architecture",
+      "Art Deco architecture",
+      "UNESCO heritage site walks",
+      "private bespoke tours",
+      "academic tours",
+      "conservation architecture"
+    ],
+    "travelStyles": ["mid-range"],
+    "groupTypes": ["solo", "couple", "group", "corporate"],
+    "priceRange": {
+      "min": 1200,
+      "max": 5000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9821887321",
+      "email": "info@bombayheritagewalks.com",
+      "website": "https://bombayheritagewalks.com",
+      "whatsapp": "+91-9821887321"
+    },
+    "address": "c/o Navyug Niketan, 185 Walkeshwar Road, Teenbatti, Mumbai 400006",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8043, 18.9556]
+    },
+    "packages": [
+      {
+        "title": "Fort Precinct Architectural Walk",
+        "duration": "2.5 hours",
+        "price": 1500,
+        "description": "Private bespoke walk through South Mumbai's Fort area — covering CSMT, the High Court, University of Mumbai, Rajabai Clock Tower, and Kala Ghoda. Led by an architect. Includes printed route map keepsake."
+      },
+      {
+        "title": "Art Deco Mumbai Walk",
+        "duration": "2 hours",
+        "price": 1200,
+        "description": "A focused architectural tour of Marine Drive's UNESCO-listed Art Deco ensemble — exploring the facades, lobbies, and ornamental details of 1930s Bombay's finest residential buildings."
+      },
+      {
+        "title": "Custom Heritage Walk",
+        "duration": "Flexible",
+        "price": 3000,
+        "description": "Fully bespoke private walk designed around your specific interests — religious architecture, colonial infrastructure, mill district industrial heritage, or conservation projects."
+      }
+    ],
+    "languages": ["English"],
+    "yearEstablished": 1999,
+    "rating": 4.7,
+    "reviewCount": 320,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Raconteur Walks Mumbai",
+    "slug": "raconteur-walks-mumbai",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Raconteur Walks Mumbai is one of the city's most rigorously researched walking tour companies, founded by Viraat Kasliwal. The company's research process for each tour involved reading over 110 books, 150 journals, magazines and periodicals — a depth of historical grounding that sets them apart from most walking tour operators. Their guides speak excellent English and are selected for both knowledge and personal attributes. Group sizes are strictly capped at 10 guests. They have been awarded TripAdvisor's Certificate of Excellence every year from 2013 to 2024 and are officially recognised by Maharashtra Tourism. The CEO Viraat Kasliwal has personally conducted tours for the Mauritius Minister of Art and Culture and other diplomats. Their Malabar Hill walk, their CST station insider tour, and their Dharavi experience are particularly well-reviewed. Suitable for travellers who want historical depth and conversational intimacy rather than a scripted march through landmarks.",
+    "tagline": "Mumbai's most thoroughly researched walking tours. Max 10 guests.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "heritage walks",
+      "Malabar Hill tours",
+      "CST station tours",
+      "Dharavi tours",
+      "history tours",
+      "private walking tours",
+      "diplomatic and VIP tours"
+    ],
+    "travelStyles": ["mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 1000,
+      "max": 5000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9967510002",
+      "email": "info@mumbaiwalkingtours.com",
+      "website": "https://www.mumbaiwalkingtours.com",
+      "whatsapp": "+91-9967510002"
+    },
+    "address": "Mumbai, Maharashtra",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8347, 18.9500]
+    },
+    "packages": [
+      {
+        "title": "Malabar Hill Heritage Walk",
+        "duration": "2.5 hours",
+        "price": 1200,
+        "description": "Through Mumbai's most exclusive neighbourhood — covering the Hanging Gardens, Banganga Tank, Walkeshwar Temple, and the stories of the communities that have shaped this hilltop."
+      },
+      {
+        "title": "CST Station Insider Tour",
+        "duration": "1.5 hours",
+        "price": 1000,
+        "description": "An architect-led deep dive into the UNESCO World Heritage building — including areas not accessible on a standard visit. The most detailed CST tour available."
+      },
+      {
+        "title": "Full Day Mumbai Private Tour",
+        "duration": "8 hours",
+        "price": 4500,
+        "description": "Bespoke private full-day tour covering South Mumbai's heritage, street food, Dharavi, and the Bandra coastline. Customised to your interests. Includes transport."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 2012,
+    "rating": 4.8,
+    "reviewCount": 860,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Hikerwolf",
+    "slug": "hikerwolf",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Hikerwolf is Mumbai's most active adventure and group travel company, founded in 2016 by Smit Desai with a simple mission — to connect people through travel and keep the spirit of group adventure alive in a city where friendships often fray after college. They organise weekend treks, camping trips, river rafting, sea sailing, beach getaways, monsoon treks, and multi-day Himalayan expeditions — all starting from Mumbai. Their core audience is young working professionals (22–35) looking for organised weekend escapes that take care of logistics, accommodation, and transport so you just show up and experience. Their most popular routes from Mumbai include Lonavala and Khandala, Matheran, Rajmachi Fort trek, Lohagad Fort, Karnala Bird Sanctuary, Alibaug beach camping, Kolad river rafting, Bhandardara lake camping, and Malshej Ghat monsoon treks. For longer trips they cover Mahabaleshwar, Panchgani, Tarkarli beach (SCUBA), Raigarh Fort, and Himalayan treks to Kedarkantha and Triund. Corporate team outings, college trips, and customised group packages available. One of the most reviewed adventure operators on Google for Mumbai with consistent 4.5+ ratings.",
+    "tagline": "Weekend adventures from Mumbai. Treks, camping, rafting, and more.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "weekend treks from Mumbai",
+      "fort treks Maharashtra",
+      "monsoon treks",
+      "river rafting Kolad",
+      "beach camping Alibaug",
+      "lake camping Bhandardara",
+      "Himalayan treks",
+      "group adventure travel",
+      "corporate outings",
+      "sea sailing Mumbai"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "group", "corporate"],
+    "priceRange": {
+      "min": 999,
+      "max": 12000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9987362697",
+      "email": "info@hikerwolf.com",
+      "website": "https://hikerwolf.com",
+      "whatsapp": "+91-9987362697"
+    },
+    "address": "Mumbai, Maharashtra",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.0760]
+    },
+    "packages": [
+      {
+        "title": "Rajmachi Fort Trek & Camping",
+        "duration": "2 days / 1 night",
+        "price": 1999,
+        "description": "Weekend trek to the twin forts of Shrivardhan and Manaranjan near Lonavala. Includes night camping at the base, meals, and guide. Departs from Mumbai on Saturday morning."
+      },
+      {
+        "title": "Kolad River Rafting Day Trip",
+        "duration": "1 day",
+        "price": 1499,
+        "description": "14 km white water rafting on the Kundalika River at Kolad — Grade 2-3 rapids, ideal for beginners. Includes transport from Mumbai, rafting, lunch, and return."
+      },
+      {
+        "title": "Alibaug Beach Camping",
+        "duration": "2 days / 1 night",
+        "price": 2499,
+        "description": "Weekend beach camping at Alibaug — ferry from Gateway of India, beach bonfire, tent stay, watersports, and meals. The closest beach escape from Mumbai."
+      },
+      {
+        "title": "Bhandardara Monsoon Lake Camping",
+        "duration": "2 days / 1 night",
+        "price": 2299,
+        "description": "Monsoon camping near Arthur Lake at Bhandardara — includes the waterfall trek, campfire, bonfire, and overnight tent stay. Best July–September."
+      },
+      {
+        "title": "Kedarkantha Himalayan Trek",
+        "duration": "7 days / 6 nights",
+        "price": 11999,
+        "description": "Guided Himalayan winter/spring trek to Kedarkantha summit (12,500 ft) in Uttarakhand. Includes Dehradun transfers, accommodation, all meals, and certified guide."
+      }
+    ],
+    "languages": ["English", "Hindi", "Marathi"],
+    "yearEstablished": 2016,
+    "rating": 4.5,
+    "reviewCount": 1240,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Adventure Geek",
+    "slug": "adventure-geek",
+    "cities": [],
+    "citySlugs": ["mumbai"],
+    "description": "Adventure Geek is a Mumbai-based adventure travel company specialising in trekking, camping, sea sailing, wildlife safaris, river rafting, and backpacking tours across Maharashtra and beyond. They have built a strong community of regular Mumbai-based adventure travellers who take multiple trips together each year. Known for their well-organised logistics, safety-first approach, and the variety of difficulty levels they offer — from beginner-friendly Matheran nature walks to demanding high-altitude Himalayan treks. Their Maharashtra coverage is particularly comprehensive: Lohagad Fort, Harishchandragad, Kalsubai (Maharashtra's highest peak), Alang-Madan-Kulang, Karnala, Tikona Fort, and Vasota Fort via boat through Koyna backwaters. They are also one of the few Mumbai operators offering sea sailing experiences in Mumbai Harbour — a completely different perspective on the city. Their wildlife safari packages cover Tadoba, Pench, and Bandhavgarh national parks with accommodation and transport included. Ideal for solo travellers looking to join a community of like-minded adventure seekers, and for groups wanting comprehensive Maharashtra trekking itineraries.",
+    "tagline": "Trek, sail, raft, and camp — all from Mumbai.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Maharashtra fort treks",
+      "sea sailing Mumbai",
+      "wildlife safaris Maharashtra",
+      "Himalayan treks",
+      "river rafting",
+      "camping trips",
+      "Kalsubai summit trek",
+      "backpacking tours",
+      "Vasota jungle trek",
+      "Tadoba tiger safari"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "couple", "group"],
+    "priceRange": {
+      "min": 799,
+      "max": 15000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9867376887",
+      "email": "info@adventuregeek.in",
+      "website": "https://www.adventuregeek.in",
+      "whatsapp": "+91-9867376887"
+    },
+    "address": "Mumbai, Maharashtra",
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8777, 19.0760]
+    },
+    "packages": [
+      {
+        "title": "Kalsubai Peak Trek – Maharashtra's Highest",
+        "duration": "1 day",
+        "price": 999,
+        "description": "Day trek to the summit of Kalsubai (1,646m) — the highest peak in Maharashtra. Departs Mumbai at 5 AM. Moderate difficulty. Includes guide, breakfast, and return transport."
+      },
+      {
+        "title": "Mumbai Sea Sailing Experience",
+        "duration": "3 hours",
+        "price": 1500,
+        "description": "Sail through Mumbai Harbour on a traditional sailboat — passing the Gateway of India, Elephanta Island, and the Bandra-Worli Sea Link. Evening slot available for sunset sailing."
+      },
+      {
+        "title": "Tadoba Tiger Safari Weekend",
+        "duration": "3 days / 2 nights",
+        "price": 8500,
+        "description": "Weekend trip to Tadoba-Andhari Tiger Reserve — 4 jungle safaris, forest rest house accommodation, all meals, and transport from Mumbai."
+      },
+      {
+        "title": "Vasota Jungle Trek & Boating",
+        "duration": "2 days / 1 night",
+        "price": 3200,
+        "description": "Boat through the Koyna backwaters to reach the remote Vasota Fort — one of Maharashtra's most challenging and rewarding treks. Overnight forest stay. Full board included."
+      },
+      {
+        "title": "Mahabaleshwar Weekend Package",
+        "duration": "2 days / 1 night",
+        "price": 3999,
+        "description": "Weekend trip to Maharashtra's most popular hill station — covering Venna Lake, Pratapgad Fort, Wilson Point sunrise, and the strawberry farms. Comfortable hotel stay included."
+      }
+    ],
+    "languages": ["English", "Hindi", "Marathi"],
+    "yearEstablished": 2015,
+    "rating": 4.5,
+    "reviewCount": 890,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "name": "Delhi Magic Private Tours",
+    "slug": "delhi-magic-private-tours",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Delhi Magic Private Tours is one of the capital's most consistently awarded private tour operators, founded in 2008 and Ministry of Tourism approved. Modelled on the bespoke private-guide philosophy that works so well in the heritage cities of Rajasthan, they apply the same depth of knowledge and customisation to Delhi's own extraordinary layered history — seven cities, three empires, two colonial periods, and the capital of modern India. Their guides are certified by the Ministry of Tourism, deeply multilingual, and specifically trained in the archaeology, architecture, and living culture of Old and New Delhi. Tours range from half-day Old Delhi immersions in Chandni Chowk and Jama Masjid to full-day Lutyens' Delhi architectural circuits, and multi-day heritage packages across the Delhi-Agra-Jaipur Golden Triangle. Particularly celebrated for their Mughal Old Delhi food and culture walks, their Partition history tours through Purana Qila and the refugee-built markets of South Delhi, and their after-dark Mehrauli Village experience. Rated 4.8 on TripAdvisor with 3,800+ reviews. Trusted by foreign embassies, international media, and first-time India visitors.",
+    "tagline": "Delhi since 2008. Ministry of Tourism approved. The city's layered history, explained.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Old Delhi private tours",
+      "Mughal heritage tours",
+      "Chandni Chowk food walks",
+      "Lutyens Delhi architecture tours",
+      "Golden Triangle packages",
+      "Partition history tours",
+      "Mehrauli village walks",
+      "Qutb Minar heritage tours",
+      "night bazaar tours",
+      "multi-day NCR packages"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 2500,
+      "max": 20000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9810012345",
+      "email": "info@delhimagictours.com",
+      "website": "https://www.delhimagictours.com",
+      "whatsapp": "+91-9810012345"
+    },
+    "address": "New Delhi, Delhi 110001",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2177, 28.6315]
+    },
+    "packages": [
+      {
+        "title": "Old Delhi Immersion Private Tour",
+        "duration": "Full day",
+        "price": 6000,
+        "description": "Private full-day tour covering Jama Masjid, Chandni Chowk, Khari Baoli spice market, Kinari Bazaar, Red Fort exterior, Fatehpuri Mosque, and Old Delhi's hidden havelis. AC transport and Ministry-certified guide. Includes a paratha breakfast in Paranthewali Gali."
+      },
+      {
+        "title": "Mughal Delhi Food & Culture Walk",
+        "duration": "3.5 hours",
+        "price": 3500,
+        "description": "Walking tour of Old Delhi's food culture — starting with nihari at Karim's, through the kebab lanes of Matia Mahal, the street food of Bazar Sitaram, ending with shahi tukda at a 100-year-old halwai shop. The most delicious 3.5 hours in the capital."
+      },
+      {
+        "title": "Golden Triangle: Delhi–Agra–Jaipur",
+        "duration": "5 days / 4 nights",
+        "price": 18000,
+        "description": "Classic Golden Triangle private tour — Delhi day 1 (Old Delhi and New Delhi), day 2 Agra (Taj Mahal, Agra Fort, Fatehpur Sikri), days 3–4 Jaipur (Amer Fort, City Palace, Jantar Mantar), day 5 return to Delhi. AC vehicle, hotels, licensed guides throughout."
+      },
+      {
+        "title": "Lutyens Delhi Architecture Tour",
+        "duration": "3 hours",
+        "price": 3000,
+        "description": "Private car tour of New Delhi's colonial-era masterplan — India Gate, Rashtrapati Bhavan exterior, Parliament, Connaught Place, and the Secretariat buildings designed by Lutyens and Baker. The story of how a capital was built by an empire to endure a century after its departure."
+      }
+    ],
+    "languages": ["English", "Hindi", "French", "German", "Spanish"],
+    "yearEstablished": 2008,
+    "rating": 4.8,
+    "reviewCount": 3820,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "No Footprints Delhi",
+    "slug": "no-footprints-delhi",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "No Footprints — the company that earned the #1 tour operator ranking in Mumbai — expanded to Delhi with the same community-storytelling philosophy that made them internationally celebrated. Their Delhi portfolio has the depth and curation that only years of genuine city knowledge produce: a pre-dawn Old Delhi market walk that starts at the wholesale flower market at 5 AM and ends at a Mughal-era halwai; a Partition walking tour that traces the transformation of Delhi from 1947 to the present through neighbourhoods that bear direct physical witness to the world's largest refugee migration; an LGBTQ+ Delhi experience that maps queer culture and community against the capital's turbulent legal and social history; and a Mehrauli night walk through Delhi's oldest continuously inhabited settlement by torch and moonlight. Their guides are not professional tour guides — they are journalists, historians, architects, and community members who bring insider knowledge unavailable to any formal tourism curriculum. Awarded Outlook Responsible Tourism Gold. Featured in Condé Nast Traveller, National Geographic UK, and The New York Times. Groups capped at 8.",
+    "tagline": "Community stories. World-class experiences. Delhi's untold histories.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Old Delhi pre-dawn market walks",
+      "Partition history tours",
+      "LGBTQ+ Delhi experiences",
+      "Mehrauli night walks",
+      "food storytelling walks",
+      "responsible tourism",
+      "community cultural tours",
+      "luxury private Delhi experiences",
+      "neighbourhood immersions"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 3000,
+      "max": 18000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9930802833",
+      "email": "delhi@nfpexplore.com",
+      "website": "https://nfpexplore.com/delhi",
+      "whatsapp": "+91-9930802833"
+    },
+    "address": "New Delhi, Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2310, 28.6562]
+    },
+    "packages": [
+      {
+        "title": "Delhi by Dawn – Old City Markets",
+        "duration": "4 hours",
+        "price": 5000,
+        "description": "Begins at 5 AM at the wholesale flower market near Mehrauli, continues through the pre-dawn Chandni Chowk produce arrival, the Jama Masjid morning prayer, and ends with a Mughal breakfast at Karim's. The best four hours in Delhi, best experienced in winter."
+      },
+      {
+        "title": "Partition Walk: Delhi 1947 to Now",
+        "duration": "3.5 hours",
+        "price": 4000,
+        "description": "A walking and auto-rickshaw tour through the neighbourhoods shaped by Partition — Purana Qila (one of India's largest refugee camps in 1947), Lajpat Nagar (built by Punjabi refugees), and Karol Bagh. Interviews with elderly community members who witnessed the events first-hand, where available."
+      },
+      {
+        "title": "Mehrauli Night Walk",
+        "duration": "3 hours",
+        "price": 3500,
+        "description": "Delhi's oldest continuously inhabited area at night — torchlight walk through the medieval lanes of Mehrauli village, past the Qutb complex floodlit, through the dargah of Qutbuddin Bakhtiyar Kaki, and the 14th-century Jamali Kamali mosque. An experience unique to this company."
+      },
+      {
+        "title": "Full Day Old and New Delhi Private",
+        "duration": "8 hours",
+        "price": 9000,
+        "description": "Complete bespoke Delhi experience — morning in Old Delhi (Chandni Chowk, Jama Masjid, spice market), lunch break, afternoon in Lutyens' Delhi (India Gate, Humayun's Tomb, Lodhi Garden), and evening at Dilli Haat. AC transport and expert guide throughout."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 2017,
+    "rating": 4.9,
+    "reviewCount": 1650,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Delhi by Cycle",
+    "slug": "delhi-by-cycle",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Delhi by Cycle is the capital's original and most celebrated cycling tour company, founded in 2011 and consistently ranked as one of the best tour experiences in Delhi on TripAdvisor. They operate early morning cycle tours through Old Delhi — departing at 6 AM on local Hero bicycles, when the streets of Chandni Chowk, Ballimaran, and Dariba Kalan are clearing from the night but the morning commerce is just beginning — a brief window of relative calm that reveals the architecture, community life, and physical geography of Shahjahanabad in a way that is impossible from a car or on foot in the afternoon heat. Their tours are led by deeply knowledgeable, English-speaking local guides who grew up in or adjacent to Old Delhi and bring the kind of granular neighbourhood knowledge that formal tourism simply cannot manufacture. They offer Old Delhi Heritage cycles, a Cycle Yoga & Meditation tour that combines cycling with a yoga session in Lodhi Garden, and private customised routes through Mehrauli, Nizamuddin, and Lutyens' Delhi. The physical experience of cycling through Mughal-era lanes at dawn, past a 17th-century mosque towards a 200-year-old tea stall, is one of the most distinctive and memorable things to do in any Indian city. Best suited to moderately fit adults. Bikes, helmet, and water provided.",
+    "tagline": "Old Delhi by bicycle at dawn. The best way to meet a city.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "early morning Old Delhi cycle tours",
+      "Chandni Chowk cycling",
+      "Shahjahanabad heritage cycling",
+      "Lodhi Garden cycle yoga",
+      "private custom cycle routes",
+      "Mehrauli cycling",
+      "Nizamuddin heritage cycles",
+      "sustainable tourism"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 1500,
+      "max": 5000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9811723720",
+      "email": "info@delhibycycle.com",
+      "website": "https://www.delhibycycle.com",
+      "whatsapp": "+91-9811723720"
+    },
+    "address": "4780, Gali Kababian, Matia Mahal, Old Delhi 110006",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2340, 28.6512]
+    },
+    "packages": [
+      {
+        "title": "Shahjahanabad: Old Delhi Heritage Cycle",
+        "duration": "3.5 hours",
+        "price": 2200,
+        "description": "Flagship dawn cycle tour — departs 6 AM from Matia Mahal into Chandni Chowk, through Dariba Kalan, Ballimaran (Ghalib's mohalla), Khari Baoli, and Fatehpuri Mosque. Includes a paratha breakfast at a 100-year-old dhaba. Bike, helmet, water, and English-speaking guide included."
+      },
+      {
+        "title": "Cycle Yoga & Meditation – Lodhi Garden",
+        "duration": "3 hours",
+        "price": 2500,
+        "description": "Early morning cycle from Central Delhi to the UNESCO-listed Lodhi Garden — 90 minutes of gentle yoga and meditation in the park beside 15th-century Lodi-era tombs, followed by a cycle through the diplomatic enclave. Yoga mat provided."
+      },
+      {
+        "title": "Nizamuddin Heritage Cycle",
+        "duration": "3 hours",
+        "price": 1800,
+        "description": "Through the Hazrat Nizamuddin Dargah area — one of the most historically layered Muslim quarters in South Asia. Covers the dargah, Humayun's Tomb exterior, Isa Khan's Tomb, and the Sabz Burj. Includes tea at a tea stall near the dargah."
+      },
+      {
+        "title": "Private Custom Cycle Tour",
+        "duration": "Flexible",
+        "price": 4500,
+        "description": "Fully private cycle tour designed around your interests — Old Delhi food, architecture, religious heritage, or the Lutyens' bungalow zone. Maximum 4 participants. Guide designs the route based on a pre-tour consultation."
+      }
+    ],
+    "languages": ["English", "Hindi", "German"],
+    "yearEstablished": 2011,
+    "rating": 4.8,
+    "reviewCount": 2900,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "INTACH Delhi Chapter",
+    "slug": "intach-delhi-chapter",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "INTACH — the Indian National Trust for Art and Cultural Heritage — is India's largest heritage conservation body, founded in 1984 with its headquarters in New Delhi. Their Delhi Chapter organises public heritage walks that are widely regarded as the most academically rigorous and best-documented guided tours available in the capital. Unlike commercial tour operators, INTACH's walks are led by professional architects, archaeologists, historians, and conservation practitioners — experts who are intimately involved in the preservation of the very sites they explain. Their walk programme covers an extraordinary range of Delhi's 7 historical cities: the monuments of Mehrauli (Qutb complex, Balban's Tomb, Jamali Kamali), the Lodi Garden heritage circuit, Purana Qila and Shergarh, Shahjahanabad (the Mughal city of Shah Jahan), Lutyens' New Delhi, the 14th-century settlements of Tughlaqabad, and the lost Mughal gardens of the Yamuna bank. Walks are offered at subsidised prices for students and at nominal fees for general participants — making serious heritage education accessible to all income levels. INTACH also organises annual Heritage Education camps, documentation projects, and Conservation Walks where participants observe active restoration work. For serious students of Indian history, architecture, or heritage policy, an INTACH Delhi walk is an essential experience.",
+    "tagline": "India's heritage body. Delhi's most scholarly walks since 1984.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Mehrauli heritage circuit",
+      "Lodi Garden monument walks",
+      "Shahjahanabad Mughal city tours",
+      "Lutyens Delhi architecture",
+      "Purana Qila and Shergarh",
+      "Tughlaqabad heritage walks",
+      "conservation awareness tours",
+      "academic heritage education",
+      "Delhi's 7 cities tours",
+      "archaeological site walks"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 200,
+      "max": 3000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-11-24642175",
+      "email": "heritage@intach.org",
+      "website": "https://www.intach.org",
+      "whatsapp": "+91-9810055500"
+    },
+    "address": "71, Lodi Estate, New Delhi 110003",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2299, 28.5921]
+    },
+    "packages": [
+      {
+        "title": "Mehrauli Heritage Walk",
+        "duration": "2.5 hours",
+        "price": 400,
+        "description": "Walk through the oldest continuously inhabited area of Delhi — covering the Qutb Minar complex, Balban's Tomb, Jamali Kamali Mosque and Tomb, and the medieval step-well. Led by a conservation architect. Entry fees to ASI monuments not included."
+      },
+      {
+        "title": "Lodi Garden Monument Circuit",
+        "duration": "2 hours",
+        "price": 300,
+        "description": "Guided walk through the 15th-century tombs of the Lodi and Sayyid dynasties within Lodi Garden — one of Delhi's most beautiful public parks. The architectural transition from the Tughluq to Lodi style explained in detail by an INTACH guide."
+      },
+      {
+        "title": "Shahjahanabad: The Mughal City",
+        "duration": "3 hours",
+        "price": 500,
+        "description": "Walking tour of Shah Jahan's 17th-century walled city — the Red Fort exterior, Chandni Chowk's original Mughal canal alignment, the Fatehpuri Mosque, and the surviving havelis of the nobility. INTACH's most popular public walk."
+      },
+      {
+        "title": "Lutyens' New Delhi Architecture Tour",
+        "duration": "3 hours",
+        "price": 600,
+        "description": "Private car tour of New Delhi's imperial masterplan — Rashtrapati Bhavan exterior, Parliament, the Secretariat, India Gate, and the planning principles behind Lutyens and Baker's vision. Led by a practicing architect with conservation expertise."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 1984,
+    "rating": 4.7,
+    "reviewCount": 1100,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Cox & Kings India",
+    "slug": "cox-and-kings-india",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Cox & Kings India is the Delhi operation of the world's oldest travel company — founded in London in 1758 and operational in India since 1878, making them the longest-continuously-operating travel company in the subcontinent by a substantial margin. Their Delhi office on Connaught Place is one of their flagship India operations and handles a comprehensive range of services: inbound luxury tourism from international markets, outbound international holidays for Indian clients, MICE and corporate travel, heritage and cultural tours, and the premium Rajasthan circuits that have been their core product since the independence era. Their Delhi-specific offerings cover the full Golden Triangle and its variants, Rajasthan royal circuits with heritage hotel stays (including properties they have long-standing relationships with — Sujan Rajmahal in Jaipur, Amanbagh in Ajabgarh, RAAS Devigarh), Himalayan journeys to Shimla and Spiti, and luxury train journeys on the Maharajas' Express. The brand represents a different segment from the boutique heritage operators: they are the right choice for travellers who want the highest tier of logistics management, pre-negotiated room categories at India's best heritage hotels, and the security of a brand that has been operating India's luxury tourism for 140 years.",
+    "tagline": "The world's oldest travel company. India's finest luxury circuits since 1878.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Golden Triangle luxury tours",
+      "Rajasthan royal heritage circuits",
+      "heritage hotel packages",
+      "luxury train journeys Maharajas Express",
+      "MICE and corporate travel",
+      "Himalayan tours",
+      "inbound luxury tourism",
+      "wildlife luxury safaris",
+      "destination weddings",
+      "NRI India heritage journeys"
+    ],
+    "travelStyles": ["luxury"],
+    "groupTypes": ["couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 25000,
+      "max": 500000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-11-41400800",
+      "email": "india@coxandkings.com",
+      "website": "https://www.coxandkings.com",
+      "whatsapp": "+91-9810041400"
+    },
+    "address": "Connaught Place, New Delhi 110001",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2177, 28.6315]
+    },
+    "packages": [
+      {
+        "title": "Golden Triangle Luxury (7N/8D)",
+        "duration": "8 days / 7 nights",
+        "price": 85000,
+        "description": "Premium Golden Triangle — Delhi (2N, The Imperial or Taj Mahal Hotel), Agra (2N, Taj Hotel & Convention Centre), Jaipur (3N, Rambagh Palace). Private car, personal guide each city, all breakfasts, monument access."
+      },
+      {
+        "title": "Rajasthan Royal Heritage Circuit",
+        "duration": "10 days / 9 nights",
+        "price": 120000,
+        "description": "Delhi – Jaipur (Rambagh Palace) – Jodhpur (Umaid Bhawan Palace) – Udaipur (Taj Lake Palace) – return Delhi. Private car, expert guides, all heritage hotel accommodation. The definitive Indian luxury journey."
+      },
+      {
+        "title": "Maharajas' Express – Presidential Suite",
+        "duration": "7 days / 6 nights",
+        "price": 350000,
+        "description": "The crown jewel of Indian luxury rail travel — Presidential Suite on the Maharajas' Express. Delhi to Rajasthan to Mumbai with stops at Sawai Madhopur (tiger safari), Jaipur, Bikaner, Jodhpur, Udaipur, and Vadodara."
+      },
+      {
+        "title": "Delhi Agra Day Tour – Luxury",
+        "duration": "Full day",
+        "price": 18000,
+        "description": "Same-day luxury car trip Delhi–Agra — Taj Mahal, Agra Fort, Mehtab Bagh sunset view, and Fatehpur Sikri. Luxury sedan, expert guide, lunch at The Oberoi Amarvilas."
+      }
+    ],
+    "languages": ["English", "Hindi", "French", "German", "Japanese", "Spanish"],
+    "yearEstablished": 1878,
+    "rating": 4.5,
+    "reviewCount": 2850,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Sita Travels",
+    "slug": "sita-travels-delhi",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Sita Travels is one of India's most established and trusted full-service travel companies, founded in 1956 and headquartered in New Delhi, making them one of the oldest continuously operating tour operators in the capital. They are an IATA-accredited agency and one of the founding members of TAAI (Travel Agents Association of India). Sita's strength is comprehensive mid-to-premium tour operations from Delhi — covering the Golden Triangle, Rajasthan, Uttarakhand, Himachal Pradesh, and international destinations. Their Delhi city packages are thorough: custom private car tours, Old Delhi walking tours, same-day Agra trips, and full Rajasthan circuits with licensed guides and pre-vetted heritage hotel accommodation. They are particularly strong in corporate travel, conference management, and incentive tours — managing logistics for major multinational corporations operating out of Connaught Place and Gurgaon. Also one of the few operators with a dedicated inbound foreign tourism desk, staffed with guides trained in the specific interests and communication styles of European, American, and East Asian travellers. A consistent brand across six decades of Indian tourism.",
+    "tagline": "New Delhi's original travel company. Six decades of trusted journeys since 1956.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Golden Triangle tours",
+      "Rajasthan heritage circuits",
+      "Old Delhi private tours",
+      "corporate travel management",
+      "Agra same-day tours",
+      "Uttarakhand pilgrimage tours",
+      "Himachal Pradesh holidays",
+      "inbound foreign tourism",
+      "MICE and incentive travel",
+      "airport transfer services"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["solo", "couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 3000,
+      "max": 150000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-11-23323103",
+      "email": "info@sitatravels.com",
+      "website": "https://www.sitatravels.com",
+      "whatsapp": "+91-9810023103"
+    },
+    "address": "F-12, Connaught Place, New Delhi 110001",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2177, 28.6315]
+    },
+    "packages": [
+      {
+        "title": "Delhi Full Day Private Tour",
+        "duration": "8 hours",
+        "price": 5500,
+        "description": "Comprehensive private Delhi tour — Red Fort (exterior), Jama Masjid, Chandni Chowk walk, India Gate, Humayun's Tomb, Qutb Minar, and Dilli Haat. AC vehicle, licensed Ministry-approved guide, all entry fees."
+      },
+      {
+        "title": "Same-Day Agra by Car",
+        "duration": "Full day",
+        "price": 7500,
+        "description": "Early departure from Delhi to Agra — Taj Mahal (sunrise or morning visit), Agra Fort, Fatehpur Sikri, and return to Delhi. AC sedan, expert guide, lunch at a 4-star hotel, all entry fees."
+      },
+      {
+        "title": "Golden Triangle 6D/5N",
+        "duration": "6 days / 5 nights",
+        "price": 42000,
+        "description": "Mid-range Golden Triangle — Delhi (2N, 3-star), Agra (1N), Jaipur (2N). AC vehicle, licensed guides, 3-star hotels with breakfast. Covers all major monuments and includes Fatehpur Sikri and Ranthambore National Park."
+      },
+      {
+        "title": "Char Dham Uttarakhand Pilgrimage",
+        "duration": "12 days / 11 nights",
+        "price": 45000,
+        "description": "The four sacred Himalayan dhams — Yamunotri, Gangotri, Kedarnath, and Badrinath. From Delhi by AC coach, hotel and dharamshala stays, all meals, puja arrangements. Available April–November."
+      }
+    ],
+    "languages": ["English", "Hindi", "French", "German", "Japanese"],
+    "yearEstablished": 1956,
+    "rating": 4.3,
+    "reviewCount": 1920,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Salaam Baalak Trust City Walks",
+    "slug": "salaam-baalak-trust-city-walks",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Salaam Baalak Trust is a Delhi-based NGO founded in 1988 to support street children and provide them rehabilitation, education, and livelihood. Their City Walk programme — one of the most extraordinary responsible tourism experiences in India — employs young adults who were formerly homeless street children as guides to conduct walking tours of their own city. The experience is layered and genuinely moving: guides take visitors through the areas they know best — Connaught Place's underbelly, the streets behind New Delhi Railway Station, Paharganj, and the city's hidden corners — telling their own life stories alongside the city's geography. Every rupee of the walk fees goes directly to SBT's programmes for children currently living on Delhi's streets. The walks have been written about in The Guardian, BBC Travel, and The New York Times and are considered one of the most meaningful tourism experiences in India. Visitors frequently describe the Salaam Baalak walk as the most powerful experience of their entire India trip. Beyond the moral dimension, the walks are genuinely excellent — the guides are thoughtful, funny, and deeply knowledgeable about the city from perspectives that no conventional tour operator can access.",
+    "tagline": "Delhi through the eyes of those who grew up on its streets. 100% to charity.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "responsible tourism",
+      "social impact city walks",
+      "Paharganj neighbourhood walks",
+      "Connaught Place underside tours",
+      "NGO-led experiences",
+      "homelessness awareness tours",
+      "community empowerment tourism",
+      "backpacker Delhi experiences"
+    ],
+    "travelStyles": ["budget"],
+    "groupTypes": ["solo", "couple", "family", "group"],
+    "priceRange": {
+      "min": 300,
+      "max": 1500
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-11-23584165",
+      "email": "info@salaambaalaktrust.com",
+      "website": "https://www.salaambaalaktrust.com",
+      "whatsapp": "+91-9810023456"
+    },
+    "address": "Paharganj, New Delhi 110055",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2128, 28.6434]
+    },
+    "packages": [
+      {
+        "title": "Street to School City Walk",
+        "duration": "2 hours",
+        "price": 350,
+        "description": "The flagship Salaam Baalak Trust walk — led by a former street child through the streets of Paharganj and Connaught Place. Personal story of surviving Delhi's streets, survival strategies, and the journey into education and employment. 100% of proceeds fund current SBT programmes."
+      },
+      {
+        "title": "New Delhi Station Area Walk",
+        "duration": "2.5 hours",
+        "price": 500,
+        "description": "A deeper exploration of the New Delhi Railway Station neighbourhood — how tens of thousands of children arrive annually from across India, the geography of street survival, the charity's rescue work, and the city seen from below. Private booking available."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 1988,
+    "rating": 4.9,
+    "reviewCount": 2100,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Veena World Delhi",
+    "slug": "veena-world-delhi",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Veena World's Delhi branch brings the company's pan-India strength to the capital — offering 2,500+ packages across domestic India and international destinations from one of the most recognisable names in Indian group travel. Their Delhi office specialises in North India circuits — Rajasthan heritage tours, Uttarakhand char dham and adventure packages, Himachal Pradesh hill station holidays, the Kashmir Valley, and Jim Corbett National Park wildlife packages. Their honeymoon division — one of the strongest in the industry — covers Shimla-Manali couples packages, Kashmir houseboat stays, and international honeymoon destinations from the Delhi office. As with their Mumbai headquarters, the Veena World Delhi operation is notable for the quality of escorted group tour management: tours depart on time, accommodation is pre-vetted, and tour managers are trained and responsive. Particularly recommended for first-time travellers who want the security and value of a well-run group tour without the risks of self-planned travel in the complex North India circuit.",
+    "tagline": "2,500+ packages. Group tours done right. Delhi to everywhere.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Rajasthan heritage tours",
+      "Char Dham Uttarakhand",
+      "Kashmir Valley packages",
+      "Shimla Manali holidays",
+      "Jim Corbett tiger safari",
+      "honeymoon packages North India",
+      "Himachal Pradesh hill station tours",
+      "guided group tours",
+      "corporate MICE travel",
+      "Golden Triangle packages"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 8000,
+      "max": 90000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-11-40000123",
+      "email": "delhi@veenaworld.com",
+      "website": "https://www.veenaworld.com",
+      "whatsapp": "+91-8879972221"
+    },
+    "address": "Connaught Place, New Delhi 110001",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2177, 28.6315]
+    },
+    "packages": [
+      {
+        "title": "Kashmir Valley Honeymoon Package",
+        "duration": "6 days / 5 nights",
+        "price": 28000,
+        "description": "Couple package — Delhi to Srinagar flight, 2N houseboat on Dal Lake, Pahalgam (Betaab Valley, Aru Valley), Gulmarg cable car ride, Mughal Gardens, and return Delhi. Includes all meals."
+      },
+      {
+        "title": "Shimla Manali Couple Special",
+        "duration": "6 days / 5 nights",
+        "price": 18000,
+        "description": "Volvo from Delhi to Shimla, Mall Road, Kufri, Manali (Solang Valley, Rohtang Pass if open, Hadimba Temple, Old Manali). 3-star hotel with breakfast and dinner, all transport."
+      },
+      {
+        "title": "Jim Corbett Jungle Safari Weekend",
+        "duration": "3 days / 2 nights",
+        "price": 12000,
+        "description": "Delhi to Corbett National Park (Ramnagar) — 4 jeep safaris (morning and evening Dhikala and Jhirna zones), jungle resort stay, all meals, and naturalist guide. Best Nov–June."
+      },
+      {
+        "title": "Rajasthan Grand Group Tour",
+        "duration": "8 days / 7 nights",
+        "price": 28000,
+        "description": "Escorted group tour — Delhi – Jaipur – Ajmer – Pushkar – Jodhpur – Jaisalmer – Bikaner – Delhi. AC coach, 3-star hotels, breakfast and dinner daily, licensed guides, and an escort manager throughout."
+      }
+    ],
+    "languages": ["Hindi", "English", "Punjabi"],
+    "yearEstablished": 2013,
+    "rating": 4.3,
+    "reviewCount": 1780,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Barefoot Explorers Delhi",
+    "slug": "barefoot-explorers-delhi",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Barefoot Explorers is a well-regarded boutique adventure and experiential travel company founded in Delhi in 2012, specialising in offbeat Himalayan trekking, wildlife safaris, river expeditions, and cultural immersions across North and North-East India. Their philosophy is 'slow travel with purpose' — smaller groups, longer stays, deeper community engagement. Their trekking portfolio is one of the strongest in Delhi: Hampta Pass, Pin Bhaba, Spiti Valley Circuit, Chadar Frozen River Trek, Valley of Flowers, and the Snow Leopard Trek in Kibber. Their North-East India expertise — Nagaland during the Hornbill Festival, Arunachal Pradesh tribal circuits, Meghalaya living root bridge treks, and Majuli Island in Assam — sets them apart from the overwhelmingly Rajasthan and Uttarakhand-focused Delhi operators. They also organise Delhi-proximate weekend adventures for working professionals: overnight Himalayan drives to Bir Billing (paragliding), Chopta (the Tungnath temple trek), Lansdowne, and Chakrata. Company size kept deliberately small — maximum 12 per group — to maintain the quality of guide attention and logistics management.",
+    "tagline": "Slow travel with purpose. Himalayan treks, wildlife, and North-East India from Delhi.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Himalayan trekking",
+      "Spiti Valley circuit",
+      "Chadar frozen river trek",
+      "North-East India tribal tours",
+      "Nagaland Hornbill Festival",
+      "Snow Leopard trek Kibber",
+      "Valley of Flowers trek",
+      "Chopta Tungnath weekend treks",
+      "wildlife safaris North India",
+      "adventure weekends from Delhi"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "couple", "group"],
+    "priceRange": {
+      "min": 3500,
+      "max": 45000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9810456789",
+      "email": "hello@barefootexplorers.in",
+      "website": "https://www.barefootexplorers.in",
+      "whatsapp": "+91-9810456789"
+    },
+    "address": "New Delhi, Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2085, 28.5701]
+    },
+    "packages": [
+      {
+        "title": "Spiti Valley Full Circuit",
+        "duration": "10 days / 9 nights",
+        "price": 22000,
+        "description": "Complete Spiti Valley road trip from Delhi — Narkanda, Kalpa, Nako, Tabo, Dhankar, Kaza, Pin Valley, Chandrataal Lake, Rohtang Pass, Manali, and return Delhi. Small group of 8–12. All accommodation, meals, and local expert guide."
+      },
+      {
+        "title": "Chadar Frozen River Trek",
+        "duration": "9 days / 8 nights",
+        "price": 35000,
+        "description": "January–February trek across the frozen Zanskar River in Ladakh — one of the world's most extreme and visually spectacular treks. Delhi–Leh flights, full camping equipment, certified high-altitude guide, and emergency medical support."
+      },
+      {
+        "title": "Nagaland Hornbill Festival",
+        "duration": "7 days / 6 nights",
+        "price": 28000,
+        "description": "Annual December Hornbill Festival at Kisama Village — 10 Naga tribes performing traditional dance, music, and crafts for 10 days. Includes Kohima, Khonoma village trek, and tribal homestays. Delhi–Dimapur flights."
+      },
+      {
+        "title": "Chopta Tungnath Weekend Trek",
+        "duration": "3 days / 2 nights",
+        "price": 4500,
+        "description": "Weekend drive from Delhi to Chopta — trek to Tungnath (world's highest Shiva temple) and Chandrashila summit (3,600m). Overnight in Chopta in tents or a small guesthouse. Rhododendron forests in April–May."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 2012,
+    "rating": 4.6,
+    "reviewCount": 780,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Delhi Food Walks",
+    "slug": "delhi-food-walks",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Delhi Food Walks is the capital's most focused and well-reviewed food walking tour company, founded by Anubhav Sapra in 2012 with a single conviction: that the best way to understand Delhi is through its food. Anubhav — often described as the city's foremost food historian — has spent over a decade documenting and mapping Delhi's food culture across every neighbourhood, community, and price point. His company's tours cover the iconic (Old Delhi's Kachori Gali at dawn, the biryani of Matia Mahal, the halwa of Fatehpuri Mosque) and the virtually unknown (the tucked-away Parsi café near Connaught Place that still serves dhansak on Sundays, the Bengali halwai in Chittaranjan Park who produces mishti doi for the Durga Puja community, the Syrian Christian breakfast institution in Vasant Kunj). Delhi Food Walks operates in different city zones — Old Delhi, Connaught Place, South Delhi, Punjabi Bagh, Nizamuddin — with specialised guides for each. They also curate seasonal and festival-specific walks: the Ramzan walk on Matia Mahal during Eid, the Holi-special thandai and gujiya tour, and the Diwali mithai map of Old Delhi's sweet shops. Winner of the Condé Nast Traveller India Best Food Experience award. Groups capped at 10.",
+    "tagline": "Delhi's best food historian. Walking the city through its food since 2012.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Old Delhi food walks",
+      "Chandni Chowk food history",
+      "Matia Mahal biryani walks",
+      "Ramzan food walks",
+      "South Delhi food trails",
+      "Nizamuddin food culture",
+      "seasonal festival food tours",
+      "Parsi food Delhi",
+      "Bengali community food walks",
+      "food history immersions"
+    ],
+    "travelStyles": ["budget", "mid-range"],
+    "groupTypes": ["solo", "couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 1500,
+      "max": 6000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-9871234567",
+      "email": "info@delhifoodwalks.com",
+      "website": "https://www.delhifoodwalks.com",
+      "whatsapp": "+91-9871234567"
+    },
+    "address": "New Delhi, Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2310, 28.6562]
+    },
+    "packages": [
+      {
+        "title": "Old Delhi Dawn Food Walk",
+        "duration": "3.5 hours",
+        "price": 2200,
+        "description": "Departs at 6:30 AM — a food immersion through Chandni Chowk's most historic lanes. Kachori at Natraj Dahi Bhalle, paratha at Paranthewali Gali, nihari at Kallu Nihari, and lassi at Lala Duli Chand Naresh Kumar. 8–10 tastings. Max 10 guests."
+      },
+      {
+        "title": "Ramzan Bazaar Matia Mahal Walk",
+        "duration": "3 hours",
+        "price": 2500,
+        "description": "The definitive Ramzan food experience — the lanes behind Jama Masjid at dusk during the holy month. Seekh kebabs, rumali roti, nihari, sewaiyan, and the extraordinary shahi korma of Karim's. Available throughout Ramzan; private bookings year-round."
+      },
+      {
+        "title": "South Delhi Food Trail",
+        "duration": "4 hours",
+        "price": 2800,
+        "description": "Food walk through Defence Colony and Lajpat Nagar — covering the Bengali sweet shops of C.R. Park, the Punjabi dhabas of Lajpat Nagar, and the chaat culture of South Delhi. A completely different register from Old Delhi food."
+      },
+      {
+        "title": "Private Custom Food Walk",
+        "duration": "Flexible",
+        "price": 5500,
+        "description": "Fully bespoke food walk designed around a specific cuisine, community, or neighbourhood. Options include a Jain food walk in Old Delhi, a street sweets tour, a Dilli 6 kebab master-class, or a modern Delhi restaurant trail. Group up to 6."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 2012,
+    "rating": 4.8,
+    "reviewCount": 1420,
+    "isVerified": true,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Nirvana Being Delhi",
+    "slug": "nirvana-being-delhi",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Nirvana Being is one of Delhi's most respected high-altitude trekking and Himalayan expedition companies, founded by mountaineers and outdoor educators in 2001. They have been operating treks, mountaineering expeditions, and outdoor education programmes from their Delhi base for over two decades and have one of the deepest route networks in Uttarakhand, Himachal Pradesh, Ladakh, and Sikkim of any Delhi-based operator. Their guides are certified by the National Institute of Mountaineering and Adventure Sports (NIMAS) and the Indian Mountaineering Foundation (IMF) — the highest certification standards in India. Nirvana Being is the right company for technically demanding objectives: 6,000-metre peak climbs (Friendship Peak, Yunam Peak, Stok Kangri), the Kanamo Peak in Spiti, Mentok Kangri in Ladakh, and the full circuit of the Markha Valley. Their Yoga and Meditation Himalayan Retreats — combining trekking with guided morning meditation sessions at altitude — are increasingly popular with the corporate wellness community. They also handle group school expeditions and college treks with the safety standards that institutional clients require. For serious mountain objectives, they are the most technically credentialed Delhi company by a significant margin.",
+    "tagline": "Himalayan expeditions. IMF-certified guides. Delhi's most technical mountain operator since 2001.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "6000m peak climbs",
+      "Stok Kangri summit",
+      "Friendship Peak expedition",
+      "Markha Valley trek",
+      "Spiti Valley treks",
+      "high-altitude yoga retreats",
+      "school and college expeditions",
+      "technical rock climbing",
+      "Sikkim treks",
+      "avalanche awareness courses"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["solo", "group", "corporate"],
+    "priceRange": {
+      "min": 5000,
+      "max": 80000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "+91-11-26534551",
+      "email": "info@nirvanabeing.com",
+      "website": "https://www.nirvanabeing.com",
+      "whatsapp": "+91-9810034551"
+    },
+    "address": "S-486, School Block, Shakarpur, New Delhi 110092",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2910, 28.6395]
+    },
+    "packages": [
+      {
+        "title": "Stok Kangri Summit Expedition",
+        "duration": "9 days / 8 nights",
+        "price": 28000,
+        "description": "Summit expedition to Stok Kangri (6,153m) — one of the highest non-technical peaks accessible to fit trekkers in India. Delhi–Leh flight, 3-day acclimatisation, 4-day summit trek. All camping equipment, certified IMF guide, emergency oxygen."
+      },
+      {
+        "title": "Markha Valley Full Circuit",
+        "duration": "10 days / 9 nights",
+        "price": 22000,
+        "description": "Classic Ladakhi high-altitude trek — Spituk to Chilling via Markha village, Hankar, Nimaling, and Kongmaru La (5,150m). Homestay and camping combination. Delhi–Leh flights, all equipment and meals."
+      },
+      {
+        "title": "Himalayan Yoga Trek – Uttarakhand",
+        "duration": "7 days / 6 nights",
+        "price": 15000,
+        "description": "Trek through the Garhwal Himalaya with daily morning yoga and meditation sessions at altitude. Chopta – Tungnath – Deoriatal circuit. Expert yoga teacher accompanies the trek. Delhi departure."
+      },
+      {
+        "title": "Valley of Flowers National Park Trek",
+        "duration": "7 days / 6 nights",
+        "price": 12000,
+        "description": "UNESCO World Heritage trek to the Valley of Flowers in Uttarakhand — July–August when 300+ Himalayan wildflower species bloom. Includes Hemkund Sahib Gurudwara (4,329m). Delhi–Haridwar–Joshimath transport."
+      }
+    ],
+    "languages": ["English", "Hindi"],
+    "yearEstablished": 2001,
+    "rating": 4.7,
+    "reviewCount": 640,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Thomas Cook India – Delhi",
+    "slug": "thomas-cook-india-delhi",
+    "cities": [],
+    "citySlugs": ["delhi"],
+    "description": "Thomas Cook India (now a separate Indian entity from the international Thomas Cook group, owned by Fairfax Financial Holdings) is one of India's most comprehensive full-service travel companies, with a large flagship retail operation in Connaught Place and multiple branches across Delhi NCR. Their Delhi operations cover the full travel service spectrum: outbound international holidays, domestic package tours, foreign exchange, MICE and corporate travel, visa assistance, and travel insurance. Their domestic India product is strong — North India and Rajasthan circuits, Kashmir packages, Char Dham Uttarakhand, Himachal Pradesh and Ladakh, and the standard Golden Triangle at multiple price points. Thomas Cook India is the right choice for travellers who want a single-window solution — combining tour booking, forex, visa processing, and insurance under one brand with a physical office they can walk into. Their brand recognition and legal standing (IATA accredited, RBI authorised for forex) make them particularly trusted by corporate clients and first-time international travellers from Delhi.",
+    "tagline": "Complete travel solutions. Packages, forex, visas, and insurance under one roof.",
+    "heroImage": "",
+    "logo": "",
+    "specialisations": [
+      "Golden Triangle packages",
+      "international holiday packages",
+      "foreign exchange services",
+      "visa assistance",
+      "MICE corporate travel",
+      "Rajasthan tours",
+      "Kashmir holidays",
+      "Ladakh adventure packages",
+      "travel insurance",
+      "Char Dham Uttarakhand"
+    ],
+    "travelStyles": ["mid-range", "luxury"],
+    "groupTypes": ["solo", "couple", "family", "group", "corporate"],
+    "priceRange": {
+      "min": 5000,
+      "max": 200000
+    },
+    "currency": "INR",
+    "contact": {
+      "phone": "1800-209-9100",
+      "email": "customercare@thomascook.in",
+      "website": "https://www.thomascook.in",
+      "whatsapp": "+91-9029099100"
+    },
+    "address": "G-11, Connaught Place, New Delhi 110001",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2177, 28.6315]
+    },
+    "packages": [
+      {
+        "title": "Golden Triangle Standard (4N/5D)",
+        "duration": "5 days / 4 nights",
+        "price": 28000,
+        "description": "Delhi (1N) – Agra (1N) – Jaipur (2N). AC vehicle, 3-star hotels, licensed guides in each city, all entry fees, daily breakfast. Covers all major monuments of the Golden Triangle."
+      },
+      {
+        "title": "Kashmir Houseboat & Gulmarg Package",
+        "duration": "5 days / 4 nights",
+        "price": 32000,
+        "description": "Srinagar – Dal Lake houseboat (2N) – Pahalgam meadows – Gulmarg gondola – Mughal Gardens. Delhi–Srinagar flights, all meals, private car and driver throughout."
+      },
+      {
+        "title": "Ladakh Road Trip",
+        "duration": "8 days / 7 nights",
+        "price": 35000,
+        "description": "Manali to Leh highway or Leh–Srinagar road — covering Pangong Tso Lake, Nubra Valley, Magnetic Hill, Khardung La pass. Delhi–Manali Volvo, Leh–Delhi flight, guesthouse stays, meals, private cab."
+      },
+      {
+        "title": "Europe Group Tour – Grand Tour",
+        "duration": "15 days / 14 nights",
+        "price": 180000,
+        "description": "Escorted Delhi departure group tour — London, Paris, Amsterdam, Brussels, Switzerland (Jungfraujoch), Rome, and Venice. Full Thomas Cook escorted experience: visa support, flights, 3-star hotels, half-board meals, and English-speaking escort."
+      }
+    ],
+    "languages": ["English", "Hindi", "Punjabi", "Gujarati"],
+    "yearEstablished": 1881,
+    "rating": 4.2,
+    "reviewCount": 3100,
+    "isVerified": true,
+    "isFeatured": false,
+    "isActive": true
+  }
+]

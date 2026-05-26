@@ -1,0 +1,1886 @@
+[
+
+  {
+    "name": "IPL 2026 – Mumbai Indians vs Chennai Super Kings, Wankhede",
+    "slug": "ipl-2026-mi-vs-csk-wankhede-apr23",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "sports",
+    "description": "The biggest rivalry in Indian cricket hits the Wankhede Stadium in the heart of South Mumbai. Mumbai Indians take on Chennai Super Kings — the IPL's own El Clasico — in Match 33 of TATA IPL 2026. Five-time champions MI under Hardik Pandya face MS Dhoni's CSK in what could be one of Dhoni's final IPL seasons at the Wankhede. With Jasprit Bumrah, Rohit Sharma, and Suryakumar Yadav in the MI lineup, and a roaring Wankhede crowd that makes this ground one of the most electric in world cricket, this evening fixture is non-negotiable for any cricket fan in Mumbai. Tickets via BookMyShow. Expect the ground to sell out.",
+    "heroImage": "",
+    "venue": {
+      "name": "Wankhede Stadium",
+      "address": "D Road, Churchgate, Mumbai, Maharashtra 400020",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8252, 18.9388]
+      }
+    },
+    "startDate": "2026-04-23T19:30:00.000+05:30",
+    "endDate": "2026-04-23T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 1000,
+      "max": 25000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Mumbai-Indians", "CSK", "Wankhede", "T20", "Churchgate"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "IPL 2026 – Mumbai Indians vs Sunrisers Hyderabad, Wankhede",
+    "slug": "ipl-2026-mi-vs-srh-wankhede-apr29",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "sports",
+    "description": "Mumbai Indians host Sunrisers Hyderabad in Match 41 of TATA IPL 2026 at Wankhede Stadium. MI's Jasprit Bumrah versus SRH's batting lineup of Abhishek Sharma and Travis Head in a contest of pace against power. The Wankhede's traditionally flat, fast outfield and the sea breeze off the Arabian Sea make evening T20s here among the most high-scoring in the country. With the playoffs race intensifying, both teams will be going all out. The Wankhede's 33,000-capacity crowd will create one of cricket's loudest atmospheres. Book early — Wankhede IPL tickets routinely sell out within hours.",
+    "heroImage": "",
+    "venue": {
+      "name": "Wankhede Stadium",
+      "address": "D Road, Churchgate, Mumbai, Maharashtra 400020",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8252, 18.9388]
+      }
+    },
+    "startDate": "2026-04-29T19:30:00.000+05:30",
+    "endDate": "2026-04-29T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 1000,
+      "max": 25000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Mumbai-Indians", "SRH", "Wankhede", "T20", "Churchgate"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "IPL 2026 – Mumbai Indians vs Lucknow Super Giants, Wankhede",
+    "slug": "ipl-2026-mi-vs-lsg-wankhede-may04",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "sports",
+    "description": "Mumbai Indians host Lucknow Super Giants in Match 47 of TATA IPL 2026 at Wankhede Stadium on May 4. One of the last Wankhede home fixtures of the season as the league stage draws toward its climax. Hardik Pandya leads MI's title charge with the playoffs picture sharpening — both teams need the points. This is also historically one of the most intense fixtures for the crowd given the political heat of the MI-LSG rivalry in recent seasons. Grab your tickets early via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Wankhede Stadium",
+      "address": "D Road, Churchgate, Mumbai, Maharashtra 400020",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8252, 18.9388]
+      }
+    },
+    "startDate": "2026-05-04T19:30:00.000+05:30",
+    "endDate": "2026-05-04T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 1000,
+      "max": 25000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Mumbai-Indians", "LSG", "Wankhede", "T20", "Churchgate"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "IPL 2026 – Mumbai Indians vs Rajasthan Royals, Wankhede",
+    "slug": "ipl-2026-mi-vs-rr-wankhede-may24",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "sports",
+    "description": "Mumbai Indians close out their Wankhede home campaign in TATA IPL 2026 against Rajasthan Royals in Match 69 on May 24. By this stage of the tournament, playoff qualification will be on the line — making this one of the most consequential home games of MI's season. The Rajasthan Royals, with their strong batting depth and spin options, make for a fascinating opponent on the Wankhede's pace-friendly surface. One of the last chances to see Mumbai Indians at home this IPL season.",
+    "heroImage": "",
+    "venue": {
+      "name": "Wankhede Stadium",
+      "address": "D Road, Churchgate, Mumbai, Maharashtra 400020",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8252, 18.9388]
+      }
+    },
+    "startDate": "2026-05-24T19:30:00.000+05:30",
+    "endDate": "2026-05-24T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 1000,
+      "max": 25000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Mumbai-Indians", "Rajasthan-Royals", "Wankhede", "T20", "playoffs"],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "name": "Anubhav Singh Bassi – Kisi Ko Batana Mat, Mumbai",
+    "slug": "anubhav-singh-bassi-kisi-ko-batana-mat-mumbai-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "comedy",
+    "description": "Anubhav Singh Bassi — the Meerut-born stand-up who went from law school to becoming one of India's most-watched comedians online — performs his hit show 'Kisi Ko Batana Mat' (Don't Tell Anyone) at Shanmukhananda Hall, Sion. Bassi's comedy is rooted in the stories of small-town India: family dynamics, childhood misadventures, relationships, and the relentless hustle of growing up in tier-2 India. His laid-back, conversational storytelling style packs 2,700-seat halls and his YouTube specials have crossed 100 million views. His April 24 Mumbai show at Shanmukhananda is the kind of event where the laughter starts in the queue outside. Book via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Shanmukhananda Hall",
+      "address": "Behind Gandhi Market, Comrade Harbanslal Marg, Sion, Mumbai, Maharashtra 400022",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8615, 19.0397]
+      }
+    },
+    "startDate": "2026-04-24T19:00:00.000+05:30",
+    "endDate": "2026-04-24T21:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 1299,
+      "max": 2999,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["comedy", "stand-up", "Anubhav-Singh-Bassi", "Shanmukhananda", "Sion", "storytelling"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Urooj Ashfaq – It's Funny to Me, Mumbai",
+    "slug": "urooj-ashfaq-its-funny-to-me-mumbai-may-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "comedy",
+    "description": "Urooj Ashfaq — one of India's sharpest and most distinctive comedic voices — performs 'It's Funny to Me' at Yashwantrao Chavan Centre, Nariman Point. Urooj's comedy navigates identity, Muslim womanhood in India, awkward family situations, and the absurdities of being visible in ways you didn't ask for. Her delivery is deceptively deadpan, her premises precise. She appeared on Netflix's 'Decoupled' and has been part of the AIB ecosystem for years, but her solo work is where she's at her most original. A rare chance to see one of India's best at an intimate venue in South Mumbai.",
+    "heroImage": "",
+    "venue": {
+      "name": "Yashwantrao Chavan Centre",
+      "address": "General Jagannath Bhosale Marg, Nariman Point, Mumbai, Maharashtra 400021",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8229, 18.9280]
+      }
+    },
+    "startDate": "2026-05-03T19:00:00.000+05:30",
+    "endDate": "2026-05-03T21:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 499,
+      "max": 1499,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["comedy", "stand-up", "Urooj-Ashfaq", "Nariman-Point", "YB-Chavan", "women-in-comedy"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Prashasti Singh – Divine Feminine, NCPA Mumbai",
+    "slug": "prashasti-singh-divine-feminine-ncpa-april-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "comedy",
+    "description": "Prashasti Singh brings her highly anticipated new hour 'Divine Feminine' to the National Centre for the Performing Arts (NCPA), Nariman Point. Known from Netflix's 'Comedy Premium League' and as one of India's most warmly engaging stand-ups, Prashasti's comedy explores body image, relationships, feminism, and the specificities of being a plus-size woman navigating Indian society with zero apology. Her performances at NCPA's Experimental Theatre are among the most charged intimate comedy nights in Mumbai. April 26 show.",
+    "heroImage": "",
+    "venue": {
+      "name": "Experimental Theatre, NCPA",
+      "address": "NCPA Marg, Nariman Point, Mumbai, Maharashtra 400021",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8228, 18.9246]
+      }
+    },
+    "startDate": "2026-04-26T17:00:00.000+05:30",
+    "endDate": "2026-04-26T18:30:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 499,
+      "max": 1499,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["comedy", "stand-up", "Prashasti-Singh", "NCPA", "Nariman-Point", "women-in-comedy", "feminist"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Gaurav Kapoor Live – Shanmukhananda Hall",
+    "slug": "gaurav-kapoor-live-shanmukhananda-may-june-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "comedy",
+    "description": "Gaurav Kapoor — the comedian best known as the host of 'Breakfast with Champions', India's most popular long-form athlete interview show — takes a break from his hosting duties to perform live stand-up at Shanmukhananda Hall, Matunga. Kapoor's comedy is candid, conversational, and has an unusual depth born from years of sitting across sportspeople, actors, and CEOs. His storytelling draws equally on celebrity conversations and everyday middle-class anxieties. Running ongoing dates through May and July. Check BookMyShow for available slots. Tickets start at ₹699.",
+    "heroImage": "",
+    "venue": {
+      "name": "Shanmukhananda Hall",
+      "address": "Behind Gandhi Market, Comrade Harbanslal Marg, Sion, Mumbai, Maharashtra 400022",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8615, 19.0397]
+      }
+    },
+    "startDate": "2026-05-10T19:00:00.000+05:30",
+    "endDate": "2026-07-06T21:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 699,
+      "max": 1999,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["comedy", "stand-up", "Gaurav-Kapoor", "Shanmukhananda", "Sion", "observational"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Vipul Goyal – UNLEASHED, Mumbai",
+    "slug": "vipul-goyal-unleashed-mumbai-june-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "comedy",
+    "description": "Vipul Goyal — the comedian, writer and actor behind the hugely popular web series 'Humorously Yours' and a key voice of the TVF era — performs 'UNLEASHED' live at Vishnudas Bhave Natyagruha in Navi Mumbai (Vashi) on June 15. Goyal's comedy is built on nostalgic storytelling and relatable middle-class wit: the anxieties of growing up with specific Indian parents, engineering college culture, office life, and the peculiar logic of Indian masculinity. His warmth and unhurried pace make for deeply enjoyable, rewatchable sets. Tickets start at ₹899.",
+    "heroImage": "",
+    "venue": {
+      "name": "Vishnudas Bhave Natyagruha",
+      "address": "Sector 16A, Vashi, Navi Mumbai, Maharashtra 400703",
+      "location": {
+        "type": "Point",
+        "coordinates": [73.0076, 19.0756]
+      }
+    },
+    "startDate": "2026-06-15T19:00:00.000+05:30",
+    "endDate": "2026-06-15T21:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 899,
+      "max": 2499,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["comedy", "stand-up", "Vipul-Goyal", "Navi-Mumbai", "Vashi", "nostalgic", "TVF"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Pratibimb Marathi Natya Utsav 2026 – NCPA",
+    "slug": "pratibimb-marathi-natya-utsav-ncpa-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "theatre",
+    "description": "The fifth edition of NCPA's Pratibimb Marathi Natya Utsav — a four-day celebration of Marathi theatre — runs from April 30 to May 3 at the National Centre for the Performing Arts, Nariman Point. Coinciding with Maharashtra Day (May 1), the festival spans the Experimental Theatre, Tata Theatre, and the JBT Museum, showcasing both established and emerging voices in Marathi playwriting and direction. The programme includes full-length plays, staged readings, workshops, and discussions with directors and writers. Pratibimb has become one of the most important platforms for the Marathi theatre ecosystem in Mumbai. Tickets available across shows; check ncpamumbai.com for the schedule.",
+    "heroImage": "",
+    "venue": {
+      "name": "National Centre for the Performing Arts (NCPA)",
+      "address": "NCPA Marg, Nariman Point, Mumbai, Maharashtra 400021",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8228, 18.9246]
+      }
+    },
+    "startDate": "2026-04-30T18:00:00.000+05:30",
+    "endDate": "2026-05-03T21:30:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 200,
+      "max": 1500,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.ncpamumbai.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["theatre", "Marathi", "NCPA", "Nariman-Point", "Pratibimb", "Maharashtra-Day", "performing-arts", "festival"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "The Monk & The Warrior – NCPA, Mahesh Dattani",
+    "slug": "the-monk-and-the-warrior-ncpa-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "theatre",
+    "description": "A creative collaboration between playwright Mahesh Dattani — India's first English-language playwright to win the Sahitya Akademi Award — and director Jonathan Taikina Taylor. In 'The Monk & The Warrior', a documented encounter between Alexander the Great and an Indian monk becomes an epic, cross-cultural love story. Staged at NCPA's Tata Theatre, this production brings together two theatrical traditions — Indian and Western — in a visually rich, emotionally complex piece of work. Dattani's writing is known for its psychological precision and formal adventurousness. Running as part of the NCPA's 2026 season.",
+    "heroImage": "",
+    "venue": {
+      "name": "Tata Theatre, NCPA",
+      "address": "NCPA Marg, Nariman Point, Mumbai, Maharashtra 400021",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8228, 18.9246]
+      }
+    },
+    "startDate": "2026-05-15T19:00:00.000+05:30",
+    "endDate": "2026-05-17T21:30:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 300,
+      "max": 2000,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.ncpamumbai.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["theatre", "English", "NCPA", "Nariman-Point", "Mahesh-Dattani", "Tata-Theatre", "historical", "cross-cultural"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Prithvi Theatre Monsoon Season 2026",
+    "slug": "prithvi-theatre-monsoon-season-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "theatre",
+    "description": "Prithvi Theatre in Juhu — India's most beloved intimate theatre space, founded in 1978 by Shashi Kapoor and Jennifer Kendal — presents its annual monsoon season running June through July 2026. The 200-seat theatre runs a rolling programme of Hindi, English, and Marathi plays across weekends, featuring original works, adaptations, and experimental pieces by Mumbai's finest theatre companies. Every evening at Prithvi includes the ritual of the open-air café courtyard: chai, samosas, and conversations in the rain. The venue is as much a feeling as a space — a cultural institution that has shaped Indian theatre for nearly five decades. Tickets available at prithvitheatre.org and insider.in.",
+    "heroImage": "",
+    "venue": {
+      "name": "Prithvi Theatre",
+      "address": "Janki Kutir, Juhu Church Road, Juhu, Mumbai, Maharashtra 400049",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8270, 19.1006]
+      }
+    },
+    "startDate": "2026-06-06T18:00:00.000+05:30",
+    "endDate": "2026-07-31T21:30:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 200,
+      "max": 800,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.prithvitheatre.org",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["theatre", "Hindi", "Marathi", "English", "Juhu", "Prithvi", "intimate", "monsoon", "performing-arts"],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "name": "Udit Narayan Live – Shanmukhananda Hall",
+    "slug": "udit-narayan-live-shanmukhananda-april-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "concert",
+    "description": "Legendary Bollywood playback singer Udit Narayan performs live at Shanmukhananda Hall, Mumbai on April 26. The voice behind 'Pehla Nasha', 'Papa Kehte Hain', 'Dil To Pagal Hai', 'Dilwale Dulhania Le Jayenge', and decades of Hindi cinema's greatest romantic numbers, Udit Narayan is one of the most beloved voices in Indian music. A live Udit Narayan concert at Shanmukhananda — one of Mumbai's great classical-scale auditoriums — is an evening of pure nostalgia. The 2,700-seat hall fills with three generations of Bollywood fans. Tickets via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Shanmukhananda Hall",
+      "address": "Behind Gandhi Market, Comrade Harbanslal Marg, Sion, Mumbai, Maharashtra 400022",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8615, 19.0397]
+      }
+    },
+    "startDate": "2026-04-26T19:00:00.000+05:30",
+    "endDate": "2026-04-26T22:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 499,
+      "max": 5000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "Bollywood", "Udit-Narayan", "Shanmukhananda", "Sion", "playback-singer", "nostalgia"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Sunburn Mumbai 2026",
+    "slug": "sunburn-mumbai-december-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "concert",
+    "description": "Sunburn — India's biggest and longest-running EDM festival, established in 2007 — returns to Mumbai in December 2026. The annual Sunburn Mumbai edition features a multi-stage format spread across two to three days, headlined by international electronic and dance music artists alongside India's top DJs. Past Mumbai editions have featured acts including Martin Garrix, Alan Walker, Dua Lipa, and Hardwell. The 2026 lineup is yet to be announced, with the festival confirmed to run from December 18. Venue to be announced — check BookMyShow for updates as the date approaches. Early bird tickets typically offer significant savings.",
+    "heroImage": "",
+    "venue": {
+      "name": "Venue To Be Announced, Mumbai",
+      "address": "Mumbai, Maharashtra",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8777, 19.0760]
+      }
+    },
+    "startDate": "2026-12-18T14:00:00.000+05:30",
+    "endDate": "2026-12-20T02:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 2000,
+      "max": 15000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "EDM", "Sunburn", "electronic", "festival", "multi-day", "Mumbai"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "NCPA Monsoon Music Series 2026",
+    "slug": "ncpa-monsoon-music-series-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "concert",
+    "description": "The National Centre for the Performing Arts at Nariman Point launches its annual Monsoon Music Series — curated performances spanning Hindustani classical, Carnatic, jazz, and chamber music running every weekend through June and July. NCPA's five performance spaces — from the Jamshed Bhabha Theatre (1,109 seats) to the intimate Experimental Theatre — each host different programme formats. The pre-concert café terrace with views of the Arabian Sea is a ritual for regulars. Programme details and individual show tickets released rolling on ncpamumbai.com. Book early for popular Hindustani vocal and Carnatic shows.",
+    "heroImage": "",
+    "venue": {
+      "name": "National Centre for the Performing Arts (NCPA)",
+      "address": "NCPA Marg, Nariman Point, Mumbai, Maharashtra 400021",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8228, 18.9246]
+      }
+    },
+    "startDate": "2026-06-07T18:00:00.000+05:30",
+    "endDate": "2026-07-31T21:30:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 300,
+      "max": 3500,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.ncpamumbai.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "classical", "Hindustani", "Carnatic", "jazz", "NCPA", "Nariman-Point", "monsoon", "sea-view"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Mumbai Street Food Festival 2026",
+    "slug": "mumbai-street-food-festival-bkc-may-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "food",
+    "description": "Mumbai's beloved annual street food festival returns to the BKC Open Grounds for a three-day weekend, bringing together 80+ vendors serving the city's greatest bites under one roof — from Chowpatty-style bhel puri and vada pav to Colaba chaat, Dharavi koliwada-style seafood, and fusion takes on Mumbai classics. Live cooking stations, chef demonstrations, competitive street food tastings, and live music make this a full-day family event. The BKC grounds offer easy access from Bandra station and ample open space for the monsoon heat. Entry ₹199-499.",
+    "heroImage": "",
+    "venue": {
+      "name": "BKC Open Grounds",
+      "address": "Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8656, 19.0650]
+      }
+    },
+    "startDate": "2026-05-22T11:00:00.000+05:30",
+    "endDate": "2026-05-24T22:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 199,
+      "max": 499,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["food", "street-food", "vada-pav", "bhel-puri", "BKC", "festival", "family", "Mumbai-cuisine"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Mumbai Craft Beer Festival 2026",
+    "slug": "mumbai-craft-beer-festival-jio-world-june-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "food",
+    "description": "Mumbai's biggest celebration of independent brewing brings 30+ craft breweries — including local names like White Owl, Gateway Brewing Co., and Brewbot — together for a two-day festival at Jio World Convention Centre, BKC. Sample IPAs, wheat beers, stouts, sours, and experimental brews alongside food stalls, live music, and brewery founder Q&A sessions. Entry includes a festival glass and four tasting tokens. Additional tokens available on the day. Jio World Convention Centre is one of Mumbai's most versatile large-format indoor venues, designed for premium events.",
+    "heroImage": "",
+    "venue": {
+      "name": "Jio World Convention Centre",
+      "address": "G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8680, 19.0685]
+      }
+    },
+    "startDate": "2026-06-13T14:00:00.000+05:30",
+    "endDate": "2026-06-14T22:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 799,
+      "max": 1999,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["food", "beer", "craft-beer", "festival", "BKC", "brewery", "adults", "Jio-World"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Koliwada Monsoon Seafood Festival – Versova",
+    "slug": "koliwada-monsoon-seafood-festival-versova-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "food",
+    "description": "The Koli fishing community — Mumbai's original inhabitants — open their Versova Koliwada neighbourhood for a two-day monsoon seafood festival celebrating the city's oldest culinary tradition. Eat bombil (Bombay Duck) fry, surmai curry, rawas tikka, and koliwada-style crab prepared by Koli families on traditional wood-fire stoves. The festival includes guided walks through the fishing village, boat rides on Versova Creek, and live performances of traditional Koli folk music (tarpa). This is one of the most authentic food experiences in Mumbai — the Koli community's cuisine predates the city itself.",
+    "heroImage": "",
+    "venue": {
+      "name": "Versova Koliwada",
+      "address": "Versova Koliwada, Versova, Andheri West, Mumbai, Maharashtra 400061",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8118, 19.1375]
+      }
+    },
+    "startDate": "2026-07-04T12:00:00.000+05:30",
+    "endDate": "2026-07-05T20:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["food", "seafood", "Koli", "Versova", "community", "heritage", "free-entry", "monsoon", "tarpa"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Jehangir Art Gallery – Monsoon Group Exhibition 2026",
+    "slug": "jehangir-art-gallery-monsoon-exhibition-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "exhibition",
+    "description": "Jehangir Art Gallery — Mumbai's oldest and most prominent commercial art gallery, established in 1952 on MG Road in Kala Ghoda, Fort — hosts its annual monsoon group exhibition through June 2026, showcasing works by emerging and established Indian artists across painting, printmaking, sculpture, and mixed media. The gallery's four halls run concurrent exhibitions with different curatorial themes. Entry is free, making this one of Mumbai's most accessible cultural experiences. The Kala Ghoda art district surrounding it — with the CSMVS museum, Max Mueller Bhavan, and Samovar café — rewards an entire afternoon of wandering.",
+    "heroImage": "",
+    "venue": {
+      "name": "Jehangir Art Gallery",
+      "address": "161B, Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8320, 18.9272]
+      }
+    },
+    "startDate": "2026-06-01T11:00:00.000+05:30",
+    "endDate": "2026-06-28T19:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["exhibition", "art", "painting", "free-entry", "Kala-Ghoda", "Fort", "Jehangir", "emerging-artists"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Photography Exhibition – Mumbai Through the Lens, Dr. Bhau Daji Lad Museum",
+    "slug": "photography-exhibition-bhau-daji-lad-museum-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "exhibition",
+    "description": "A curated group photography exhibition at the Dr. Bhau Daji Lad Museum in Byculla — Mumbai's oldest and most beautifully restored museum — showcasing documentary and fine-art photography of the city over the past decade. Featuring work by 20 Mumbai-based photographers, the exhibition covers themes of migration, the monsoon, street life, the textile mills, and Mumbai's coastal communities. The museum itself — a Victorian-era building restored to its 1872 glory, with its Wedgwood-blue interior — is one of the finest museum interiors in Asia. Museum entry: ₹20 (Indian nationals). Open daily except Wednesdays.",
+    "heroImage": "",
+    "venue": {
+      "name": "Dr. Bhau Daji Lad Museum",
+      "address": "91A, Dr. Babasaheb Ambedkar Road, Byculla East, Mumbai, Maharashtra 400027",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8414, 18.9792]
+      }
+    },
+    "startDate": "2026-06-20T10:30:00.000+05:30",
+    "endDate": "2026-07-18T17:30:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 20,
+      "max": 100,
+      "isFree": false
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["exhibition", "photography", "Byculla", "museum", "documentary", "Mumbai-history", "Victorian"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Jewellery World Exhibition Mumbai 2026",
+    "slug": "jewellery-world-exhibition-mumbai-july-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "exhibition",
+    "description": "Jewellery World Exhibition Mumbai returns to The St. Regis Mumbai in Lower Parel from July 24. A three-day trade and consumer exhibition showcasing fine jewellery, precious stones, gold ornaments, silver craftsmanship, and contemporary jewellery design from across India. The exhibition features exhibitors from Rajasthan, Gujarat, Tamil Nadu, and Maharashtra's major jewellery manufacturing hubs, making it one of the most comprehensive jewellery showcases in western India. Entry is free. The St. Regis, Mumbai's most prestigious 5-star address on Senapati Bapat Marg, provides a glamorous setting for the event.",
+    "heroImage": "",
+    "venue": {
+      "name": "The St. Regis Mumbai",
+      "address": "Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra 400013",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8268, 18.9983]
+      }
+    },
+    "startDate": "2026-07-24T10:00:00.000+05:30",
+    "endDate": "2026-07-26T19:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["exhibition", "jewellery", "gold", "trade-show", "Lower-Parel", "St-Regis", "free-entry", "luxury"],
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "name": "Maharashtra Day Celebrations – Shivaji Park, Dadar",
+    "slug": "maharashtra-day-shivaji-park-dadar-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "May 1 marks Maharashtra Day — the 66th anniversary of Maharashtra's formation on May 1, 1960. The main state ceremony is held at Shivaji Park in Dadar West, where the Chief Minister hoists the national flag and a grand parade of school children, NCC cadets, and Maharashtra police marches past. Shivaji Park — the 28-acre maidan that has shaped Mumbaikar identity for generations, the ground where Bal Thackeray held his rallies and where Sachin Tendulkar learnt to bat — transforms into a festival space. The date also coincides with International Workers' Day (May Day). Entry free.",
+    "heroImage": "",
+    "venue": {
+      "name": "Shivaji Park, Dadar",
+      "address": "Shivaji Park, L.J. Road, Dadar West, Mumbai, Maharashtra 400028",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8409, 19.0285]
+      }
+    },
+    "startDate": "2026-05-01T08:00:00.000+05:30",
+    "endDate": "2026-05-01T13:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "Maharashtra-Day", "parade", "Shivaji-Park", "Dadar", "free-entry", "state-celebration"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Eid ul-Adha (Bakri Eid) – Mohammed Ali Road & Haji Ali",
+    "slug": "eid-ul-adha-mohammed-ali-road-mumbai-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "Eid ul-Adha — the Feast of Sacrifice — is the most important festival in the Islamic calendar, and Mumbai's Muslim community celebrates it with extraordinary devotion and warmth. The focal point is Mohammed Ali Road in Bhendi Bazaar, South Mumbai, where Minara Masjid draws thousands for the pre-dawn Salat al-Eid prayer. The streets transform into one of India's greatest food spectacles: biryani, seekh kebab, nihari, sheer khurma, paya, and haleem from vendors who set up through the night. Haji Ali Dargah draws enormous crowds. In 2026, Eid ul-Adha falls on May 27 (subject to moon sighting). The Mohammed Ali Road food experience is accessible to all and free to attend.",
+    "heroImage": "",
+    "venue": {
+      "name": "Mohammed Ali Road & Minara Masjid",
+      "address": "Mohammed Ali Road, Bhendi Bazaar, Mumbai, Maharashtra 400003",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8367, 18.9548]
+      }
+    },
+    "startDate": "2026-05-27T05:30:00.000+05:30",
+    "endDate": "2026-05-27T22:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "Eid", "Bakri-Eid", "Islamic", "Mohammed-Ali-Road", "food", "prayers", "free-entry", "Haji-Ali"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Mumbai Monsoon Festival – Carter Road Bandra & BKC",
+    "slug": "mumbai-monsoon-festival-bandra-bkc-june-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "When the southwest monsoon arrives in Mumbai in mid-June, the city's most dramatic annual transformation begins. The Mumbai Monsoon Festival — a multi-venue celebration held across Carter Road in Bandra, the BKC open grounds, and Sanjay Gandhi National Park — marks the rains with live music designed for open-air monsoon settings, Koli dance performances, rain-themed art installations, and street food from coastal Maharashtra. Carter Road promenade is one of Mumbai's most beloved public spaces: a 3-km seafront strip in Bandra where the city walks, jogs, and watches the sea. The festival makes that seafront come alive.",
+    "heroImage": "",
+    "venue": {
+      "name": "Carter Road Promenade, Bandra",
+      "address": "Carter Road, Bandra West, Mumbai, Maharashtra 400050",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8237, 19.0624]
+      }
+    },
+    "startDate": "2026-06-20T16:00:00.000+05:30",
+    "endDate": "2026-06-21T22:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 299,
+      "isFree": false
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "monsoon", "Bandra", "Carter-Road", "Koli", "music", "rain", "open-air", "street-food"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Ganesh Chaturthi 2026 – Lalbaugcha Raja (11 Days)",
+    "slug": "ganesh-chaturthi-lalbaugcha-raja-mumbai-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "Ganesh Chaturthi 2026 falls on September 14, and for 11 days — September 14 to 24 — Mumbai becomes the most charged city in India. At the epicentre is Lalbaugcha Raja: the world's most famous public Ganesh idol, installed since 1934 at Lalbaug, Parel. The idol — crafted by the Kambli family for over 80 consecutive years — stands 18–20 feet tall. Over 1.5 million devotees visit daily. Two queues: the Navsachi Line (wish-fulfilling; 25–40 hour wait) and Mukh Darshan (3–4 hours). The city hosts over 6,000 public pandals simultaneously, including Khetwadi Ganraj (most elaborate installations), GSB Seva Mandal Matunga (most traditional), and Andhericha Raja (largest western suburbs). The festival closes with the Ganpati Visarjan procession to Girgaon Chowpatty on September 24.",
+    "heroImage": "",
+    "venue": {
+      "name": "Lalbaugcha Raja Pandal, Lalbaug",
+      "address": "Peru Chawl Compound, Dr. Babasaheb Ambedkar Road, Lalbaug, Mumbai, Maharashtra 400012",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8351, 18.9958]
+      }
+    },
+    "startDate": "2026-09-14T05:00:00.000+05:30",
+    "endDate": "2026-09-24T23:59:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "https://www.lalbaugcharaja.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "Ganesh-Chaturthi", "Lalbaugcha-Raja", "Ganeshotsav", "Lalbaug", "Parel", "Hindu", "free-entry", "cultural", "Maharashtra"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Ganpati Visarjan 2026 – Girgaon Chowpatty",
+    "slug": "ganpati-visarjan-girgaon-chowpatty-sept-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "On September 24, 2026 — Anant Chaturdashi, the 11th day of Ganesh Chaturthi — millions of Mumbaikars take to the streets for Ganpati Visarjan, immersing Ganesha idols in the Arabian Sea. Girgaon Chowpatty on Marine Drive is the primary immersion point, the destination of the grandest procession of all: the Lalbaugcha Raja visarjan. The procession travels through central Mumbai over many hours, accompanied by dhol-tasha bands, dancers, and millions chanting 'Ganpati Bappa Morya, Pudhcha Varshi Laukar Ya'. Witnessing this procession — one of India's largest annual public gatherings — is a profound and unforgettable experience. Free to watch from the streets and Chowpatty beach.",
+    "heroImage": "",
+    "venue": {
+      "name": "Girgaon Chowpatty Beach",
+      "address": "Girgaon Chowpatty, Marine Lines, Mumbai, Maharashtra 400007",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8192, 18.9536]
+      }
+    },
+    "startDate": "2026-09-24T08:00:00.000+05:30",
+    "endDate": "2026-09-25T04:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "Ganpati-Visarjan", "Girgaon-Chowpatty", "Marine-Drive", "Hindu", "procession", "free-entry", "immersion"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Janmashtami – ISKCON Juhu Midnight Celebration 2026",
+    "slug": "janmashtami-iskcon-juhu-midnight-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "Janmashtami 2026 falls on August 11. The ISKCON Juhu temple holds Mumbai's grandest celebration: kirtan, bhajan performances, and devotional art through the day, building to a midnight crescendo as Lord Krishna's exact birth moment is marked with conches, abhishek, flowers, and the temple erupting in music and celebration. The following day (August 12), Mumbai's famous Dahi Handi festival takes over — 'Govinda' human pyramid teams from across the city compete to break earthen pots of curd hung 30–40 feet high in Dadar, Andheri, and Worli. Both events are free to attend.",
+    "heroImage": "",
+    "venue": {
+      "name": "ISKCON Temple Juhu",
+      "address": "Hare Krishna Land, Juhu, Mumbai, Maharashtra 400049",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8271, 19.1050]
+      }
+    },
+    "startDate": "2026-08-11T06:00:00.000+05:30",
+    "endDate": "2026-08-12T02:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "Janmashtami", "Krishna", "ISKCON", "Juhu", "Dahi-Handi", "Govinda", "Hindu", "midnight", "free-entry"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Independence Day – Gateway of India & Marine Drive",
+    "slug": "independence-day-mumbai-august-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "August 15, 2026 marks India's 80th Independence Day. The main Mumbai ceremony is at Azad Maidan in Churchgate, with the Maharashtra Governor hoisting the national flag. The Gateway of India and Marine Drive promenade become gathering points — the seafront is lit in the tricolour, and the INS base at Colaba conducts ceremonial drills. Cultural programmes run at Shivaji Park through the morning. The Western Railway HQ, Bombay High Court, BMC headquarters, and Gateway are all illuminated in orange, white, and green through the night. Entry to all public events free.",
+    "heroImage": "",
+    "venue": {
+      "name": "Gateway of India",
+      "address": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8347, 18.9220]
+      }
+    },
+    "startDate": "2026-08-15T06:00:00.000+05:30",
+    "endDate": "2026-08-15T22:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "Independence-Day", "Gateway-of-India", "Marine-Drive", "national-holiday", "free-entry", "80th-anniversary"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Narali Purnima – Koli Coconut Festival, Versova & Worli",
+    "slug": "narali-purnima-koli-fishing-festival-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "festival",
+    "description": "Narali Purnima — the Coconut Full Moon — marks the end of the monsoon fishing ban with offerings of coconuts to the sea by Mumbai's Koli fishing community. In 2026, the festival falls on August 9. Koli fishermen offer coconuts to Varuna (god of the oceans) from decorated boats at Versova Koliwada, Worli Koliwada, Mahim, Dadar Chowpatty, and Juhu simultaneously. The Koli women in traditional nauvari sarees and the synchronized boat processions make this one of Mumbai's most visually spectacular local festivals. Tarpa folk music is performed throughout. Free to witness from the beaches.",
+    "heroImage": "",
+    "venue": {
+      "name": "Versova Koliwada Beach",
+      "address": "Versova Koliwada, Versova, Andheri West, Mumbai, Maharashtra 400061",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8118, 19.1375]
+      }
+    },
+    "startDate": "2026-08-09T06:00:00.000+05:30",
+    "endDate": "2026-08-09T20:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["festival", "Narali-Purnima", "Koli", "fishing", "heritage", "Versova", "coastal", "Maharashtra", "free-entry"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Monsoon Workshop – Analog Film Photography, Bandra",
+    "slug": "monsoon-workshop-analog-film-photography-bandra-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "workshop",
+    "description": "A full-day hands-on workshop on analog film photography run by Mumbai-based photographer collective Camera Obscura. Learn to load a 35mm film camera, shoot in Mumbai's monsoon light, and develop your own negatives in a darkroom. The workshop begins with a 2-hour outdoor shooting walk through Bandra's streets and ends with a darkroom printing session — you leave with developed negatives and prints you made yourself. Maximum 12 participants. No prior photography experience required. All equipment provided. July 11.",
+    "heroImage": "",
+    "venue": {
+      "name": "Camera Obscura Studio, Bandra",
+      "address": "Bandra West, Mumbai, Maharashtra 400050",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8338, 19.0596]
+      }
+    },
+    "startDate": "2026-07-11T09:00:00.000+05:30",
+    "endDate": "2026-07-11T17:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 2500,
+      "max": 2500,
+      "isFree": false
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["workshop", "photography", "film", "analog", "darkroom", "Bandra", "hands-on", "small-group"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Khaki Tours – Mumbai Heritage Walks (Ongoing)",
+    "slug": "khaki-tours-mumbai-heritage-walks-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "workshop",
+    "description": "Khaki Tours is Mumbai's most acclaimed heritage walk organisation, founded by historian Bharat Gothoskar. Their guided walks cover the most layered neighbourhoods of the city: the Victorian-Gothic precinct of Fort and CST, the Art Deco buildings of Marine Drive and Oval Maidan, the Irani cafes and Jewish heritage of Colaba, the Parsi colonies of Dadar, the textile mill history of Lower Parel, the bazaars and havelis of Bhendi Bazaar, and the Portuguese-era churches of Bandra. Each walk lasts 2.5–3 hours with groups capped at 12–15. Walks run multiple times a week throughout the monsoon season — the rain transforms the city's old stone buildings in extraordinary ways. Book via Khaki Tours' website or insider.in. Typically ₹800–1,200 per person.",
+    "heroImage": "",
+    "venue": {
+      "name": "Various Heritage Locations, Mumbai",
+      "address": "Fort, Colaba, Bandra, Lower Parel, Mumbai, Maharashtra",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8347, 18.9220]
+      }
+    },
+    "startDate": "2026-05-01T07:00:00.000+05:30",
+    "endDate": "2026-09-30T12:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 800,
+      "max": 1200,
+      "isFree": false
+    },
+    "bookingUrl": "https://insider.in",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["workshop", "heritage-walk", "Fort", "Bandra", "Colaba", "history", "architecture", "guided", "Parsi", "Art-Deco"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Monsoon Treks – Sanjay Gandhi National Park, Borivali",
+    "slug": "monsoon-treks-sgnp-borivali-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "workshop",
+    "description": "Sanjay Gandhi National Park (SGNP) — the 104 sq km protected forest at Mumbai's northern edge in Borivali — transforms in the monsoon into one of the lushest, most dramatic landscapes in Maharashtra. Guided treks run every weekend July through September. Trails include the Kanheri Caves Buddhist monument trail, the Yeoor hills route, and the waterfall trail to the Vasai Creek viewpoint. Difficulty ranges from easy 3km family walks to challenging 12km hikes. The park's 270-species bird list, resident leopard population (one of the world's few urban leopard habitats), and rare butterflies make this as much a nature experience as a physical one. Entry ₹40. Guided trek fees ₹500–1,500. Organise via BNHS, Treks and Trails India, or Trek Mates India.",
+    "heroImage": "",
+    "venue": {
+      "name": "Sanjay Gandhi National Park",
+      "address": "Borivali East, Mumbai, Maharashtra 400066",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.9081, 19.2147]
+      }
+    },
+    "startDate": "2026-07-04T06:00:00.000+05:30",
+    "endDate": "2026-09-27T14:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 40,
+      "max": 1500,
+      "isFree": false
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["workshop", "trek", "nature", "monsoon", "SGNP", "Borivali", "wildlife", "Kanheri-Caves", "leopard", "guided"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Global Vipassana Pagoda – Buddha Purnima 2026",
+    "slug": "global-vipassana-pagoda-buddha-purnima-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "other",
+    "description": "Buddha Purnima 2026 (Vesak) falls on May 1. The Global Vipassana Pagoda at Gorai — the largest stone dome without any external support in the world, housing relics of the Buddha and accommodating 8,000 meditators simultaneously — organises a one-day mass Vipassana meditation course on this date every year, which it has done since the Pagoda's inauguration. The Pagoda is illuminated and open to all visitors free of charge. Simultaneously, Chaityabhoomi at Dadar — the memorial of Dr. B.R. Ambedkar — becomes a gathering point for Mumbai's large Buddhist community, with prayers, processions, and readings from the Dhammapada. The Ambedkar connection makes Buddha Purnima especially significant in Maharashtra. Accessible by ferry from Gorai jetty.",
+    "heroImage": "",
+    "venue": {
+      "name": "Global Vipassana Pagoda, Gorai",
+      "address": "Gorai Creek, Borivali West, Mumbai, Maharashtra 400091",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.7694, 19.2358]
+      }
+    },
+    "startDate": "2026-05-01T05:00:00.000+05:30",
+    "endDate": "2026-05-01T21:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "Buddhist", "Buddha-Purnima", "Vesak", "meditation", "Vipassana", "Pagoda", "Gorai", "free-entry", "spiritual", "Ambedkar"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Haji Ali Dargah – Qawwali Evenings (Weekly)",
+    "slug": "haji-ali-dargah-qawwali-evenings-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "other",
+    "description": "Every Thursday and Friday evening, the Haji Ali Dargah — a 15th-century mosque and Sufi shrine on a tiny islet in the Arabian Sea, connected to Worli by a 500-metre causeway — hosts live Qawwali performances in its main courtyard. Sufi devotional music in Urdu and Punjabi, sung in honour of the saint Haji Ali Shah Bukhari, performed in one of the most visually dramatic settings in India. The sea surrounds the causeway; at high tide, waves nearly reach the walkway. Open to visitors of all faiths. Free to attend. Best visited at sunset — check tide timings before visiting as the causeway becomes inaccessible at very high tide.",
+    "heroImage": "",
+    "venue": {
+      "name": "Haji Ali Dargah",
+      "address": "Haji Ali, Dargah Road, Worli, Mumbai, Maharashtra 400026",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8088, 18.9827]
+      }
+    },
+    "startDate": "2026-05-01T17:00:00.000+05:30",
+    "endDate": "2026-09-30T21:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "qawwali", "Sufi", "Haji-Ali", "Worli", "spiritual", "free-entry", "weekly", "heritage", "live-music"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Anyma – ÆDEN World Tour Mumbai",
+    "slug": "anyma-aeden-world-tour-mumbai-nov-2026",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "category": "concert",
+    "description": "Italian electronic visionary Anyma (Matteo Milleri) makes his India debut at Mahalaxmi Racecourse on November 21 in what is billed as the most ambitious electronic music production ever staged in India. The ÆDEN World Tour is a fully immersive audiovisual world — melodic techno, cinematic storytelling, and large-scale visual production merged into one live experience. Anyma became the first electronic artist to hold a residency at the Sphere in Las Vegas, and his 'Genesys' trilogy is among the most critically acclaimed electronic music projects of this decade. Tracks: 'Hypnotized', 'Turn On The Lights Again', 'Eternity', 'Welcome To The Opera'. Presented by Sunburn. GA, VIP Deck, and VVIP Table available via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Mahalaxmi Racecourse – Polo Ground",
+      "address": "Mahalaxmi Racecourse, Moses Road, Mahalaxmi, Mumbai, Maharashtra 400034",
+      "location": {
+        "type": "Point",
+        "coordinates": [72.8225, 18.9825]
+      }
+    },
+    "startDate": "2026-11-21T19:00:00.000+05:30",
+    "endDate": "2026-11-22T01:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 3000,
+      "max": 15000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "electronic", "techno", "Anyma", "AEDEN", "Sunburn", "Mahalaxmi-Racecourse", "international", "immersive"],
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "name": "IPL 2026 – Delhi Capitals Home Match (Apr 25)",
+    "slug": "ipl-2026-dc-home-apr25",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "sports",
+    "description": "Delhi Capitals host a crucial TATA IPL 2026 league stage fixture at Arun Jaitley Stadium — one of India's most iconic cricketing venues in the heart of Connaught Place. With the Delhi crowd among the most passionate in the country, an evening T20 here is an electric experience. The Arun Jaitley Stadium's floodlit atmosphere, the roar of 41,000 fans, and the intensity of a playoff-chasing DC side make this an unmissable outing for any cricket lover in the capital. Tickets available via BookMyShow and District by Zomato. Expect the gates to fill fast — Delhi T20s routinely sell out.",
+    "heroImage": "",
+    "venue": {
+      "name": "Arun Jaitley Stadium",
+      "address": "Bahadur Shah Zafar Marg, ITO, New Delhi, Delhi 110002",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2373, 28.6358]
+      }
+    },
+    "startDate": "2026-04-25T15:30:00.000+05:30",
+    "endDate": "2026-04-25T19:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 1540,
+      "max": 20000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Delhi-Capitals", "T20", "Arun-Jaitley-Stadium", "ITO"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "IPL 2026 – Delhi Capitals Home Match (Apr 27)",
+    "slug": "ipl-2026-dc-home-apr27",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "sports",
+    "description": "Delhi Capitals return to Arun Jaitley Stadium for another TATA IPL 2026 home fixture on the evening of April 27. As the league stage heats up and every point becomes critical, this evening match promises high-stakes cricket under the lights. The Arun Jaitley Stadium, recently renovated and one of the oldest international venues in India, offers excellent sightlines and an intimate atmosphere despite its 41,000 capacity. An ideal evening out for families, groups, and die-hard cricket fans alike. Book via BookMyShow or District by Zomato — upper tier tickets are the best value for a full view of the ground.",
+    "heroImage": "",
+    "venue": {
+      "name": "Arun Jaitley Stadium",
+      "address": "Bahadur Shah Zafar Marg, ITO, New Delhi, Delhi 110002",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2373, 28.6358]
+      }
+    },
+    "startDate": "2026-04-27T19:30:00.000+05:30",
+    "endDate": "2026-04-27T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 2700,
+      "max": 20000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Delhi-Capitals", "T20", "Arun-Jaitley-Stadium", "ITO"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Calvin Harris – India Debut, Delhi NCR",
+    "slug": "calvin-harris-india-debut-delhi-ncr-apr19",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "concert",
+    "description": "Calvin Harris — the Scottish producer and DJ who has topped global charts for over a decade with tracks like 'Summer', 'This Is What You Came For', and 'One Kiss' — makes his long-awaited India debut with a three-city run, culminating in Delhi NCR on April 19 at Leisure Valley Ground, Gurugram. His festival-ready set is built for outdoor mega-venues: soaring drops, sing-along anthems, and a production scale rarely seen in India. This is the peak EDM moment of India's 2026 concert calendar. Tickets available via BookMyShow and District by Zomato. Book early — the Bengaluru and Mumbai shows are already generating massive demand.",
+    "heroImage": "",
+    "venue": {
+      "name": "Leisure Valley Ground",
+      "address": "Leisure Valley, Sector 29, Gurugram, Haryana 122022",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.0538, 28.4744]
+      }
+    },
+    "startDate": "2026-04-19T19:00:00.000+05:30",
+    "endDate": "2026-04-19T23:30:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 2500,
+      "max": 15000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "EDM", "Calvin-Harris", "electronic", "international", "Gurugram", "Leisure-Valley", "outdoor"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Scorpions – Rock Tour India, Delhi NCR",
+    "slug": "scorpions-rock-tour-india-delhi-apr24",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "concert",
+    "description": "Legendary German rock band Scorpions bring their decades-spanning catalog to Delhi NCR on April 24 as part of their India tour. Expect 'Rock You Like a Hurricane', 'Wind of Change', 'Still Loving You', and the full greatest-hits setlist delivered with the precision and power that has defined one of rock's most enduring acts. This is classic rock at stadium scale — a rare chance to witness a band that has sold over 100 million records perform live in India. For fans who missed Def Leppard in March, this is your headline rock moment of April. Tickets via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Venue TBC, Delhi NCR",
+      "address": "Delhi NCR, India",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.1025, 28.7041]
+      }
+    },
+    "startDate": "2026-04-24T19:00:00.000+05:30",
+    "endDate": "2026-04-24T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 2000,
+      "max": 20000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "rock", "Scorpions", "international", "classic-rock", "live-music", "Delhi-NCR"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Candlelight Concert – Tribute to Arijit Singh, Sunder Nursery",
+    "slug": "candlelight-tribute-arijit-singh-sunder-nursery-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "concert",
+    "description": "Experience a magical open-air evening at Sunder Nursery — one of Delhi's most beautiful heritage garden venues — as gifted live musicians perform the most beloved songs of Arijit Singh by candlelight. From 'Tum Hi Ho' and 'Channa Mereya' to 'Kesariya' and 'Ae Dil Hai Mushkil', the candlelit ambience of Sunder Nursery's Mughal garden setting transforms each song into something deeply intimate. Candlelight Concerts, new to India, have become one of Delhi's most popular live music formats for couples, families, and music lovers. Strictly limited seating. Book early via BookMyShow or the Candlelight Concerts India website.",
+    "heroImage": "",
+    "venue": {
+      "name": "Sunder Nursery",
+      "address": "Sunder Nursery, Mathura Road, Nizamuddin East, New Delhi, Delhi 110013",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2431, 28.5918]
+      }
+    },
+    "startDate": "2026-04-26T19:00:00.000+05:30",
+    "endDate": "2026-04-26T21:30:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 799,
+      "max": 2500,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "candlelight", "Arijit-Singh", "Bollywood", "live-music", "Sunder-Nursery", "Nizamuddin", "romantic", "outdoor"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Candlelight Concert – Mehfil-e-Sufi, Purana Quila",
+    "slug": "candlelight-mehfil-e-sufi-purana-quila-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "concert",
+    "description": "The ancient ramparts of Purana Quila — Old Fort — become the setting for an enchanting Sufi music evening presented by the Candlelight Concerts series in collaboration with Sabhyata Foundation. As the sun dips below the fort walls and hundreds of candles illuminate the stage, live musicians perform devotional Sufi qawwalis and ghazals in Urdu — a spiritual and musical experience unlike anything else in Delhi's event calendar. Purana Quila's 16th-century architecture, moat, and floodlit towers make this one of the most visually extraordinary open-air venues in India. Perfect for those seeking culture, serenity, and live music. Book via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Purana Quila (Old Fort)",
+      "address": "Purana Quila Road, Near India Gate, New Delhi, Delhi 110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2410, 28.6129]
+      }
+    },
+    "startDate": "2026-04-30T18:30:00.000+05:30",
+    "endDate": "2026-04-30T21:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 799,
+      "max": 2000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "sufi", "qawwali", "candlelight", "Purana-Quila", "heritage", "live-music", "spiritual", "outdoor"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "IPL 2026 – Delhi Capitals Home Match (May 1)",
+    "slug": "ipl-2026-dc-home-may01",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "sports",
+    "description": "Delhi Capitals play host at Arun Jaitley Stadium on May 1 in what could be one of the decisive fixtures of the TATA IPL 2026 league stage as the playoff race tightens. The stadium's unique intimacy for an international ground, its sightlines, and the energy of a Delhi crowd fully behind their side make every home game a memorable occasion. With the top four spots still up for grabs, expect a tense, high-quality game of T20 cricket. Book via BookMyShow or District by Zomato well in advance — evening matches at Arun Jaitley are among the fastest to sell out in the IPL.",
+    "heroImage": "",
+    "venue": {
+      "name": "Arun Jaitley Stadium",
+      "address": "Bahadur Shah Zafar Marg, ITO, New Delhi, Delhi 110002",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2373, 28.6358]
+      }
+    },
+    "startDate": "2026-05-01T19:30:00.000+05:30",
+    "endDate": "2026-05-01T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 4900,
+      "max": 20000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Delhi-Capitals", "T20", "Arun-Jaitley-Stadium", "ITO", "playoffs"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "IPL 2026 – Delhi Capitals Home Match (May 5)",
+    "slug": "ipl-2026-dc-home-may05",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "sports",
+    "description": "Delhi Capitals host their penultimate or final home league game of TATA IPL 2026 on May 5 at Arun Jaitley Stadium. As the tournament approaches its business end, this match could be a must-win for Delhi's playoff ambitions. The Arun Jaitley Stadium's floodlights, the iconic pavilion, and a sell-out home crowd all combine to create one of cricket's most atmospheric weeknight experiences. Great family outing — the ground has excellent food stalls, merchandise, and the buzz of a live IPL match is unparalleled. Tickets on BookMyShow and District.",
+    "heroImage": "",
+    "venue": {
+      "name": "Arun Jaitley Stadium",
+      "address": "Bahadur Shah Zafar Marg, ITO, New Delhi, Delhi 110002",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2373, 28.6358]
+      }
+    },
+    "startDate": "2026-05-05T19:30:00.000+05:30",
+    "endDate": "2026-05-05T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 2200,
+      "max": 20000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Delhi-Capitals", "T20", "Arun-Jaitley-Stadium", "ITO", "playoffs"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "IPL 2026 – Delhi Capitals Home Match (May 8)",
+    "slug": "ipl-2026-dc-home-may08",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "sports",
+    "description": "The final confirmed Delhi Capitals home fixture of TATA IPL 2026's league stage on May 8 at Arun Jaitley Stadium. With the playoff race at its most intense point, this game will draw a packed, passionate crowd. Whatever the playoff situation, seeing live IPL cricket at the Arun Jaitley Stadium — which has hosted Test matches, World Cups, and historic moments in Indian cricket — is an experience worth having. The May evenings in Delhi are warm and perfect for open-air cricket. Don't miss the last home opportunity of the season. Tickets via BookMyShow and District by Zomato.",
+    "heroImage": "",
+    "venue": {
+      "name": "Arun Jaitley Stadium",
+      "address": "Bahadur Shah Zafar Marg, ITO, New Delhi, Delhi 110002",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2373, 28.6358]
+      }
+    },
+    "startDate": "2026-05-08T19:30:00.000+05:30",
+    "endDate": "2026-05-08T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 2200,
+      "max": 20000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["sports", "cricket", "IPL", "Delhi-Capitals", "T20", "Arun-Jaitley-Stadium", "ITO", "league-stage"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Ye (Kanye West) – Live in India, New Delhi",
+    "slug": "ye-kanye-west-live-india-delhi-may-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "concert",
+    "description": "Ye — the artist formerly known as Kanye West — performs his first-ever live concert in India at Jawaharlal Nehru Stadium, New Delhi in May 2026. One of the most genre-defining figures in modern music, Ye's catalog spans hip-hop, gospel, avant-garde, and electronic — from 'The College Dropout' to 'My Beautiful Dark Twisted Fantasy' to 'Donda'. A live Ye show is an immersive audiovisual experience unlike any other. Demand for tickets has been extraordinary since they went on sale via District by Zomato in February. This is a genre-defining, once-in-a-generation event for Delhi. If you don't hold tickets, check verified resale platforms only. Exact date confirmed on ticketing platforms.",
+    "heroImage": "",
+    "venue": {
+      "name": "Jawaharlal Nehru Stadium",
+      "address": "Jawaharlal Nehru Stadium, Bhisham Pitamah Marg, Pragati Vihar, New Delhi, Delhi 110003",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2335, 28.5665]
+      }
+    },
+    "startDate": "2026-05-15T19:00:00.000+05:30",
+    "endDate": "2026-05-15T23:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 3000,
+      "max": 25000,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.district.in",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "hip-hop", "Ye", "Kanye-West", "international", "JLN-Stadium", "Pragati-Vihar", "mega-concert"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Shakira – Feeding India Concert Delhi (Postponed – Dates TBC)",
+    "slug": "shakira-feeding-india-delhi-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "concert",
+    "description": "Shakira's highly anticipated India return — her first in over 19 years — was originally scheduled for Jawaharlal Nehru Stadium, New Delhi on April 15, but has been postponed. New dates have not been announced at time of writing. The 'Feeding India' concert series was expected to be a landmark pop event for Delhi, with Shakira performing her full global hits catalog spanning three decades: 'Hips Don't Lie', 'Waka Waka', 'She Wolf', 'Whenever Wherever', and more. Existing ticket holders are advised to check BookMyShow directly for rescheduled date announcements — tickets are expected to remain valid. Check back regularly for confirmed new dates.",
+    "heroImage": "",
+    "venue": {
+      "name": "Jawaharlal Nehru Stadium",
+      "address": "Jawaharlal Nehru Stadium, Bhisham Pitamah Marg, Pragati Vihar, New Delhi, Delhi 110003",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2335, 28.5665]
+      }
+    },
+    "startDate": "2026-06-01T19:00:00.000+05:30",
+    "endDate": "2026-06-01T22:30:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 2000,
+      "max": 20000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "pop", "Shakira", "international", "postponed", "JLN-Stadium", "Latin-pop", "mega-concert"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "IHFF 2026 – International Health, Sports & Fitness Expo",
+    "slug": "ihff-2026-pragati-maidan-delhi-jun",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "The International Health, Sports & Fitness Expo (IHFF) 2026 returns to Pragati Maidan from June 12–14 — one of the largest health, wellness, and fitness expos globally, and a centrepiece of India's booming fitness industry calendar. IHFF brings together supplement brands, fitness equipment manufacturers, elite athletes, bodybuilding competitions, CrossFit challenges, and wellness speakers across three packed days. Whether you're a gym-goer, a personal trainer, a competitive athlete, or simply curious about nutrition and wellness, IHFF offers a world-class showcase of everything happening in the fitness industry. Entry tickets available at the gate and via online platforms. Great for fitness professionals and enthusiasts alike.",
+    "heroImage": "",
+    "venue": {
+      "name": "Pragati Maidan – Bharat Mandapam",
+      "address": "Pragati Maidan, Mathura Road, New Delhi, Delhi 110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2432, 28.6190]
+      }
+    },
+    "startDate": "2026-06-12T10:00:00.000+05:30",
+    "endDate": "2026-06-14T20:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 500,
+      "max": 3000,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "fitness", "expo", "health", "IHFF", "bodybuilding", "wellness", "Pragati-Maidan", "sports"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Aadyam – Indian Dance Musical, Kamani Auditorium",
+    "slug": "aadyam-dance-musical-kamani-auditorium-jun-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Aadyam Theatre presents a modern Indian dance musical produced by The Dragon Rose Project at Kamani Auditorium, one of Delhi's finest intimate performance spaces near Mandi House. This original production celebrates movement, drama, and live music — weaving classical Indian dance vocabulary with contemporary storytelling. The Dragon Rose Project has been building a reputation for bold, visually striking productions that bridge the gap between tradition and modernity. Running June 14–15 with matinee and evening shows, this is a perfect evening for theatre lovers, performing arts enthusiasts, and those looking for culturally rich experiences in Delhi. Book via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Kamani Auditorium",
+      "address": "1, Copernicus Marg, Mandi House, New Delhi, Delhi 110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2295, 28.6286]
+      }
+    },
+    "startDate": "2026-06-14T16:00:00.000+05:30",
+    "endDate": "2026-06-15T21:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 399,
+      "max": 1500,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "theatre", "dance", "classical", "Aadyam", "Kamani-Auditorium", "Mandi-House", "performing-arts", "live"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Cult Yogathon – International Yoga Day 2026",
+    "slug": "cult-yogathon-yoga-day-delhi-jun21-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Cult.fit brings back its much-loved Yogathon to Delhi on International Yoga Day, June 21, after successful editions across India. Held at the sprawling Indira Gandhi Arena, this energising morning event combines guided group yoga sessions led by Cult's top instructors with a vibrant community atmosphere. Hundreds of practitioners from beginners to advanced yogis gather to celebrate the 12th International Yoga Day together. A perfect morning outing for wellness enthusiasts, fitness lovers, and anyone looking to start their Yoga Day with intention and energy. Entry at ₹499. Register via Cult.fit's app or website. Mats and water provided.",
+    "heroImage": "",
+    "venue": {
+      "name": "Indira Gandhi Indoor Stadium",
+      "address": "Indira Gandhi Indoor Stadium, Gate No. 14, ITO, New Delhi, Delhi 110002",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2414, 28.6379]
+      }
+    },
+    "startDate": "2026-06-21T07:00:00.000+05:30",
+    "endDate": "2026-06-21T10:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 499,
+      "max": 499,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.cult.fit",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "yoga", "wellness", "Cult-fit", "Yoga-Day", "fitness", "ITO", "community", "morning"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Rambo Circus – Talkatora Stadium",
+    "slug": "rambo-circus-talkatora-stadium-delhi-jun-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "The iconic Rambo Circus returns to Delhi with its spectacular lineup of acrobatic acts, daring trapeze performances, juggling, fire acts, and clown comedy — a nostalgic, thrilling experience for all ages. Held over two days at Talkatora Stadium on June 28–29, Rambo Circus is India's most celebrated touring circus and has been delighting audiences across the country for decades. Perfect for families with children, groups of friends, and anyone who wants a break from screens for pure, live spectacle. Tickets start at ₹350 — one of Delhi's most affordable entertainment outings. Book at the venue or via BookMyShow.",
+    "heroImage": "",
+    "venue": {
+      "name": "Talkatora Indoor Stadium",
+      "address": "Talkatora Road, Near Connaught Place, New Delhi, Delhi 110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2015, 28.6337]
+      }
+    },
+    "startDate": "2026-06-28T11:00:00.000+05:30",
+    "endDate": "2026-06-29T21:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 350,
+      "max": 1500,
+      "isFree": false
+    },
+    "bookingUrl": "https://in.bookmyshow.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "circus", "family", "acrobatics", "Rambo-Circus", "Talkatora", "entertainment", "kids", "live-show"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Bharat Tex 2026 – India's Largest Textile Exhibition",
+    "slug": "bharat-tex-2026-pragati-maidan-delhi-jul",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Bharat Tex 2026 — India's largest and most comprehensive textile and apparel exhibition — returns to Pragati Maidan from July 14–17, presented by the Consortium of Textile Export Promotion Councils. Spanning yarns and fibres, fabrics, apparel and fashion, home textiles, technical textiles, handloom, and carpets, this four-day expo is the defining event of India's textile industry calendar. With thousands of exhibitors from across India and global buyers attending, Bharat Tex is as much a trade event as a showcase of India's extraordinary craft heritage — from Banarasi silk to Jamdani weaves to high-performance technical fabrics. Trade visitors and industry professionals should register in advance via the official Bharat Tex portal.",
+    "heroImage": "",
+    "venue": {
+      "name": "Pragati Maidan – Bharat Mandapam",
+      "address": "Pragati Maidan, Mathura Road, New Delhi, Delhi 110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2432, 28.6190]
+      }
+    },
+    "startDate": "2026-07-14T10:00:00.000+05:30",
+    "endDate": "2026-07-17T18:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 500,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.bharattex.in",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "textile", "exhibition", "trade", "Bharat-Tex", "Pragati-Maidan", "handloom", "apparel", "fashion", "B2B"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "International Mango Festival 2026 – Dilli Haat",
+    "slug": "international-mango-festival-dilli-haat-delhi-jul-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Delhi's beloved annual International Mango Festival returns in July — a celebration of India's extraordinary love for the king of fruits. Held at Dilli Haat or Talkatora Gardens, the festival showcases over 500 mango varieties sourced from across India and abroad: Alphonso, Dasheri, Langra, Chausa, Kesar, Himsagar, and dozens of rare regional varieties you won't find in markets. Highlights include mango-eating competitions, mango-cooking demos, mango art installations, cultural performances, and an enormous mango market where you can buy directly from growers. A delightful, uniquely Delhi summer experience — ideal for families. Free or nominal entry. Organised by Delhi Tourism.",
+    "heroImage": "",
+    "venue": {
+      "name": "Dilli Haat, INA",
+      "address": "Sri Aurobindo Marg, Opposite INA Market, New Delhi, Delhi 110016",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2090, 28.5677]
+      }
+    },
+    "startDate": "2026-07-04T10:00:00.000+05:30",
+    "endDate": "2026-07-06T21:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 30,
+      "max": 100,
+      "isFree": false
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "mango", "food", "festival", "Dilli-Haat", "INA", "family", "Delhi-Tourism", "summer", "culture"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Indian DJ Expo 2026 – Bharat Mandapam",
+    "slug": "indian-dj-expo-2026-bharat-mandapam-delhi-jul",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "The Indian DJ Expo 2026 — India's largest professional DJ and music technology exhibition — takes over Bharat Mandapam at Pragati Maidan from July 31 to August 2. Over 250 top international and Indian brands will showcase their latest DJ gear, audio equipment, lighting technology, and music production tools across an enormous exhibition floor. Live DJ performances run throughout the three days, with workshops, masterclasses, and product demonstrations by some of India's and the world's leading DJs and audio engineers. Essential for music professionals, event managers, nightlife industry stakeholders, and serious hobbyists. Trade and public days available. Register via the official Indian DJ Expo website.",
+    "heroImage": "",
+    "venue": {
+      "name": "Bharat Mandapam, Pragati Maidan",
+      "address": "Pragati Maidan, Mathura Road, New Delhi, Delhi 110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2432, 28.6190]
+      }
+    },
+    "startDate": "2026-07-31T10:00:00.000+05:30",
+    "endDate": "2026-08-02T20:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 500,
+      "max": 2000,
+      "isFree": false
+    },
+    "bookingUrl": "https://www.indiandjexpo.com",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "DJ", "music-tech", "expo", "Bharat-Mandapam", "Pragati-Maidan", "electronic", "audio", "live-music", "trade"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Jazz Under the Stars – Monsoon Edition, Nehru Park",
+    "slug": "jazz-under-the-stars-monsoon-nehru-park-delhi-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "concert",
+    "description": "As the monsoon slowly retreats, Delhi gets back into rhythm with 'Jazz Under the Stars' — a refined open-air concert series at the green expanse of Nehru Park in Chanakyapuri. Seamlessly blending live jazz performances with the lush post-monsoon landscape, this series runs from July through September and has become one of Delhi's most beloved cultural evenings. Lay back on the park's grass, sip wine, and lose yourself in saxophone solos, mellow drum beats, and the ambient sounds of monsoon-washed Delhi. Performances by both established and emerging jazz musicians. Entry is free or at a nominal charge. Check event pages and Paytm Insider for specific dates and lineup announcements.",
+    "heroImage": "",
+    "venue": {
+      "name": "Nehru Park",
+      "address": "Nehru Park, Chanakyapuri, New Delhi, Delhi 110021",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.1882, 28.5985]
+      }
+    },
+    "startDate": "2026-07-11T17:00:00.000+05:30",
+    "endDate": "2026-09-26T22:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 500,
+      "isFree": false
+    },
+    "bookingUrl": "https://insider.in",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["concert", "jazz", "outdoor", "Nehru-Park", "Chanakyapuri", "live-music", "monsoon", "free", "weekly"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Independence Day Celebrations 2026 – Red Fort",
+    "slug": "independence-day-red-fort-delhi-aug15-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "India's 80th Independence Day is celebrated with full ceremonial grandeur at the iconic Red Fort on August 15, 2026. The Prime Minister hoists the national flag atop the Lahori Gate and addresses the nation from the ramparts in a live broadcast watched by hundreds of millions. The event features a full military parade, classical music recitals by India's finest performers, patriotic cultural shows representing every state, and a stunning fly-past. The streets around Connaught Place and India Gate light up with installations, making evening walks a delight. Entry to the main ceremony is by government invitation; public access to surrounding areas is free. The Connaught Place area is fully lit and festive from the evening of August 14 through Independence Day.",
+    "heroImage": "",
+    "venue": {
+      "name": "Red Fort (Lal Qila)",
+      "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2410, 28.6562]
+      }
+    },
+    "startDate": "2026-08-15T07:00:00.000+05:30",
+    "endDate": "2026-08-15T12:00:00.000+05:30",
+    "isMultiDay": false,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "Independence-Day", "Red-Fort", "national-event", "parade", "free-entry", "patriotic", "heritage", "Chandni-Chowk"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Footwear India Expo 2026 – Pragati Maidan",
+    "slug": "footwear-india-expo-2026-pragati-maidan-aug",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Footwear India Expo 2026 — one of the most prominent B2B events in India's footwear industry — is held at Pragati Maidan from August 22–24. Bringing together all facets of the footwear sector under one roof: manufacturers, wholesale dealers, distributors, material suppliers, design studios, and e-commerce platforms. The expo facilitates new partnerships, product launches, and large-scale networking within an industry that is booming with rising domestic consumption and export growth. An essential trade event for footwear professionals, brand managers, and retail buyers looking to source and discover the next wave of Indian and international footwear. Register in advance via the official expo portal.",
+    "heroImage": "",
+    "venue": {
+      "name": "Pragati Maidan – Bharat Mandapam",
+      "address": "Pragati Maidan, Mathura Road, New Delhi, Delhi 110001",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2432, 28.6190]
+      }
+    },
+    "startDate": "2026-08-22T10:00:00.000+05:30",
+    "endDate": "2026-08-24T18:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 500,
+      "isFree": false
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "footwear", "expo", "trade", "B2B", "Pragati-Maidan", "fashion", "manufacturing", "retail"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Monsoon Art Exhibitions – Bikaner House",
+    "slug": "monsoon-art-exhibitions-bikaner-house-delhi-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Bikaner House — one of Delhi's most architecturally distinguished art and culture spaces near India Gate — hosts its monsoon season of curated art exhibitions through August and September. This year's rain-inspired programming features textured canvases, mixed-media works, and experimental installations that mirror the mood and visual language of the Delhi monsoon. The venue also runs concept pop-ups centred around architecture, sustainability, and urban design — drawing an elite mix of artists, collectors, well-travelled aesthetes, and students. One-of-a-kind pieces, boutique design dialogues, and experimental fashion make Bikaner House the destination for cultural seekers in Delhi during the monsoon. Entry is free or by donation. Check Bikaner House's social channels for specific show openings.",
+    "heroImage": "",
+    "venue": {
+      "name": "Bikaner House",
+      "address": "Pandara Road, Prithviraj Road, New Delhi, Delhi 110011",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2278, 28.6105]
+      }
+    },
+    "startDate": "2026-08-01T11:00:00.000+05:30",
+    "endDate": "2026-09-30T19:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "art", "exhibition", "gallery", "Bikaner-House", "India-Gate", "monsoon", "design", "free-entry", "culture"],
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Durga Puja 2026 – Pandal Hopping, Chittaranjan Park",
+    "slug": "durga-puja-chittaranjan-park-delhi-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Durga Puja in Delhi — especially in Chittaranjan Park (CR Park), the Bengali heartland of the capital — is among the most immersive cultural experiences the city offers. The five-day festival sees elaborately crafted pandals (temporary structures housing stunning handmade idols of Goddess Durga) transform CR Park and surrounding areas into a festival city. Pandal hopping between the dozens of creatively themed structures is a night-time ritual that draws hundreds of thousands each year. The air fills with dhak drumming, devotional songs, the fragrance of dhoop and flowers, and the warmth of the community. Dhunuchi dance, sindoor khela on Dashami, and immersion processions on Vijaya Dashami make this a deeply moving experience. Free to attend. The festival falls in late September/early October.",
+    "heroImage": "",
+    "venue": {
+      "name": "Chittaranjan Park (CR Park)",
+      "address": "Chittaranjan Park, New Delhi, Delhi 110019",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.2487, 28.5419]
+      }
+    },
+    "startDate": "2026-09-26T17:00:00.000+05:30",
+    "endDate": "2026-09-30T23:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 0,
+      "isFree": true
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "Durga-Puja", "Bengali", "CR-Park", "cultural", "festival", "religious", "free-entry", "pandal", "community"],
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Architecture & Design Pop-ups – Dhan Mill Compound",
+    "slug": "architecture-design-popups-dhan-mill-compound-delhi-2026",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "category": "other",
+    "description": "Dhan Mill Compound in South Delhi — one of the capital's most stylish creative hubs housed in a beautifully repurposed industrial mill complex — hosts a series of concept pop-up events through the July–September period centred around architecture, sustainability, and urban design. Each pop-up draws an eclectic crowd: independent architects, design students, sustainability advocates, artists, and curious minds. Product offerings range from experimental furniture and boutique lighting to artisan homeware and design-forward fashion. Dialogue events, panel discussions, and art installations complement the retail experience. The Dhan Mill complex itself — with its brick warehouse aesthetic and curated cafes — is worth a visit any time. Check @dhanmillcompound on Instagram for specific event dates.",
+    "heroImage": "",
+    "venue": {
+      "name": "Dhan Mill Compound",
+      "address": "100 Feet Road, Chattarpur, New Delhi, Delhi 110074",
+      "location": {
+        "type": "Point",
+        "coordinates": [77.1557, 28.5010]
+      }
+    },
+    "startDate": "2026-07-01T11:00:00.000+05:30",
+    "endDate": "2026-09-30T21:00:00.000+05:30",
+    "isMultiDay": true,
+    "ticketPrice": {
+      "min": 0,
+      "max": 500,
+      "isFree": false
+    },
+    "bookingUrl": "",
+    "externalId": "",
+    "source": "manual",
+    "tags": ["other", "design", "architecture", "pop-up", "Dhan-Mill", "Chattarpur", "sustainability", "art", "lifestyle"],
+    "isFeatured": false,
+    "isActive": true
+  }
+]

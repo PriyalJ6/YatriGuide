@@ -1,0 +1,1410 @@
+[
+  {
+    "name": "Mumbai Local Train",
+    "slug": "mumbai-local-train",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "local-train",
+    "description": "Mumbai's local train network is the undisputed lifeline of the city — a suburban rail system that moves over 7.5 million passengers every single day across three main lines. Operated jointly by Western Railway (WR) and Central Railway (CR), it is one of the densest and most intensely used rail systems in the world. For travellers, it is the fastest and most economical way to cover the length of the city. Trains are classified as Slow (stopping at every station), Fast (express to a midpoint, then all stations), and AC (air-conditioned, full comfort). Tourist Day Passes for unlimited travel on all three lines are available at any suburban station counter.",
+    "tips": [
+      "Avoid travelling between 8:00–10:30 AM and 5:30–8:30 PM — these are extreme peak hours and trains are dangerously overcrowded.",
+      "Women have dedicated 'Ladies' compartments at both ends of every train — these are strictly enforced and are significantly less crowded.",
+      "First Class compartments (marked with a yellow stripe) cost roughly 8× the Second Class fare and are dramatically less crowded — well worth it for tourists.",
+      "Buy a Tourist Day Pass (₹95 for Second Class, ₹310 for First Class for 1 day) at any suburban counter for unlimited travel on all lines.",
+      "The UT (UTS) mobile app lets you buy QR-code tickets directly on your phone — no queuing at counters.",
+      "Stand in the marked zones on the platform for your class; trains stop precisely and doors open for only a few seconds.",
+      "Keep your ticket until you exit the destination station — TT checks are frequent and penalties are steep.",
+      "Carry your luggage close to your body during peak hours; pickpocketing is a concern on crowded platforms.",
+      "Churchgate (Western Line) and CSMT (Central & Harbour Lines) are the southern termini — all major South Mumbai destinations are within walking distance of these stations."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 5,
+      "max": 105,
+      "unit": "per ride",
+      "note": "Second Class single journey: ₹5–₹35 depending on distance. First Class: ₹25–₹105. AC Local: ₹35–₹130. Tourist Day Pass (all lines): ₹95 (2nd class), ₹310 (1st class). Tourist 3-day pass: ₹180 / ₹570. 25% midnight surcharge does not apply. AC locals cost approximately 10× the 2nd class fare."
+    },
+    "routes": [
+      {
+        "name": "Western Line",
+        "from": "Churchgate",
+        "to": "Dahanu Road",
+        "note": "Serves Bandra, Andheri, Borivali, Virar. Key tourist corridor — connects South Mumbai to Bandra and the western suburbs. 60+ stations."
+      },
+      {
+        "name": "Central Line (Main Line)",
+        "from": "CSMT (Chhatrapati Shivaji Maharaj Terminus)",
+        "to": "Kasara / Karjat / Khopoli",
+        "note": "Serves Dadar, Kurla, Thane, Kalyan. Connects CSMT to eastern suburbs and beyond. 50+ stations."
+      },
+      {
+        "name": "Harbour Line",
+        "from": "CSMT",
+        "to": "Panvel (via Belapur) / Goregaon",
+        "note": "Serves Wadala, Chembur, Vashi, Belapur, Panvel. Key link between Mumbai and Navi Mumbai. Also connects to Goregaon via the Andheri branch."
+      }
+    ],
+    "paymentMethods": ["Cash (at counters)", "UPI (UTS app)", "QR Ticket (UTS mobile app)", "Season Pass / Monthly Pass", "Tourist Day/3-day/5-day Pass"],
+    "operatingHours": {
+      "open": "04:00",
+      "close": "01:00",
+      "note": "First trains begin from 04:00 AM. Last trains run around 00:30–01:00 AM depending on the line and direction. Trains run 24/7 on select lines during Ganesh Chaturthi and major festivals."
+    },
+    "frequency": "Every 2–4 minutes during peak hours (7–11 AM, 5–9 PM). Every 5–10 minutes during off-peak. AC locals run less frequently — approximately every 60–90 minutes.",
+    "features": [
+      "Women-only coaches (both ends of every train)",
+      "First Class coaches (yellow stripe, less crowded)",
+      "AC Local trains (10× fare, Metro-like comfort)",
+      "Luggage vans on select long-distance trains",
+      "Wheelchair assistance available at major stations",
+      "Tourist Day / 3-day / 5-day unlimited travel passes",
+      "QR-code mobile ticketing via UTS app"
+    ],
+    "apps": [
+      { "name": "UTS (Unreserved Ticketing System)", "url": "https://play.google.com/store/apps/details?id=co.uts.android.app" },
+      { "name": "NTES (Train running status)", "url": "https://enquiry.indianrail.gov.in/" },
+      { "name": "Where is my Train", "url": "https://whereismytrain.in/" },
+      { "name": "Mumbai Local Train Maps", "url": "https://go4mumbai.com/" }
+    ],
+    "servesAirport": false,
+    "order": 1,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Mumbai Metro",
+    "slug": "mumbai-metro",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "metro",
+    "description": "Mumbai Metro is a rapidly expanding urban rail network now comprising four operational lines covering approximately 68.9 km, with multiple new corridors opening through 2026 and beyond. All trains are fully air-conditioned, automated, and significantly less crowded than the local train network. The flagship Line 3 (Aqua Line) — Mumbai's first underground metro — now runs from Aarey Colony in the north to Cuffe Parade in South Mumbai, passing through BKC, Bandra, and Worli, transforming east-west and north-south connectivity. Smart cards offer discounts and save queuing time.",
+    "tips": [
+      "Line 3 (Aqua Line, underground) is the most useful for tourists — it connects Aarey, Andheri, BKC, Bandra, Worli, and Cuffe Parade in one unbroken corridor.",
+      "Buy a Metro Smart Card for 10–20% fare discounts and to skip the token queue at busy stations.",
+      "Lines 2A and 7 serve the western suburban corridor (Dahisar–Andheri)—useful for those staying in the western suburbs.",
+      "Interchange stations: Andheri (Line 1 ↔ Lines 2A/7), DN Nagar (Lines 1 ↔ 2A), Aarey JVLR (Line 3 ↔ Line 7).",
+      "Metro ticketing accepts UPI payments via QR codes and the MetroConnect3 app at most stations.",
+      "Luggage is limited — oversized bags may be refused at security check.",
+      "Trains are punctual; use the MetroConnect3 app for live train positions and journey planning."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 10,
+      "max": 50,
+      "unit": "per ride",
+      "note": "Distance-based fares: ₹10 (0–3 km), ₹20 (3–6 km), ₹30 (6–9 km), ₹40 (9–12 km), ₹50 (12+ km). Smart Card holders receive 10–20% discount. Return journey tickets also available."
+    },
+    "routes": [
+      {
+        "name": "Line 1 – Blue Line",
+        "from": "Versova (Andheri West)",
+        "to": "Ghatkopar",
+        "note": "11.4 km, 12 stations. Mumbai's original metro (2014). Connects Andheri West across the city to Ghatkopar on the Central Line. Key interchange: Andheri (WR local)."
+      },
+      {
+        "name": "Line 2A – Yellow Line",
+        "from": "Dahisar (East)",
+        "to": "D.N. Nagar (Andheri West)",
+        "note": "18.6 km, 17 stations. Elevated line serving the western suburban corridor. Interchange with Line 1 at D.N. Nagar and Line 7 at Dahisar."
+      },
+      {
+        "name": "Line 3 – Aqua Line (Underground)",
+        "from": "Aarey JVLR (Goregaon East)",
+        "to": "Cuffe Parade",
+        "note": "33.5 km, 27 stations. Mumbai's first fully underground metro. Major stations: Aarey, Jogeshwari, Andheri, JVLR, SEEPZ, BKC, Bandra, Dharavi, Worli, Lower Parel, Dadar, CST, Cuffe Parade. Fully operational as of October 2025."
+      },
+      {
+        "name": "Line 7 – Red Line",
+        "from": "Dahisar (East)",
+        "to": "Andheri (East)",
+        "note": "16.5 km, 13 stations. Runs along the eastern side of the western suburbs. Key stop: Aarey JVLR (interchange with Line 3). Phase extension to CSIA Terminal 2 underway."
+      }
+    ],
+    "paymentMethods": ["Cash (at token counters)", "UPI / QR Code", "Metro Smart Card", "MetroConnect3 App", "Paytm", "WhatsApp QR Ticketing (Line 3)"],
+    "operatingHours": {
+      "open": "05:30",
+      "close": "23:50",
+      "note": "Line 1: 05:30 AM–11:50 PM. Lines 2A & 7: 06:00 AM–10:30 PM. Line 3: 06:30 AM–10:30 PM (from 08:30 AM on Sundays). Check MetroConnect3 app for current schedules as lines expand."
+    },
+    "frequency": "Every 4–7 minutes during peak hours. Every 7–15 minutes off-peak. Lines 2A and 7 run every 6–10 minutes during peak.",
+    "features": [
+      "Fully air-conditioned",
+      "Automated driverless operations (Lines 2A, 3, 7)",
+      "Wheelchair accessible stations with lifts and ramps",
+      "Women-only coaches on all lines",
+      "CCTV and 24×7 security at stations",
+      "Smart Card with 10–20% fare discount",
+      "Real-time train tracking via MetroConnect3 app",
+      "Paid parking available at select terminal stations"
+    ],
+    "apps": [
+      { "name": "MetroConnect3 (Official MMRDA App)", "url": "https://play.google.com/store/apps/details?id=com.mmrda.mconnect" },
+      { "name": "Mumbai Metro One (Line 1 App)", "url": "https://www.mumbaimetroone.com/" }
+    ],
+    "servesAirport": false,
+    "order": 2,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "BEST Bus",
+    "slug": "best-bus-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "bus",
+    "description": "The Brihanmumbai Electric Supply and Transport (BEST) undertaking operates Mumbai's public bus network — over 2,700 buses serving approximately 31 lakh passengers daily across 500+ routes, covering areas the local train and metro do not reach. BEST buses are the best way to travel east-west across South Mumbai, through areas like Colaba, Fort, Kala Ghoda, Nariman Point, and the Western suburbs' cross-streets. Both AC and non-AC (ordinary) variants operate. A significant portion of the fleet is now electric. The BEST mobile app and Chalo app provide real-time bus tracking.",
+    "tips": [
+      "Use the Chalo app or BEST's official app for live bus tracking — this is the single most useful tool for bus travel in Mumbai.",
+      "Exact change is preferred — conductors carry limited change but it's courteous to be prepared.",
+      "Day passes (₹75 for non-AC, ₹150 for AC) are excellent value if you're doing significant touring across the city.",
+      "South Mumbai (Colaba to Fort to Churchgate) is best navigated by BEST bus — the streets are too narrow for comfortable auto-rickshaw rides and taxis charge more.",
+      "Bus stops aren't always clearly labelled — ask the conductor when boarding to alert you at your stop.",
+      "AC buses (marked 'A/C' or with blue branding) are faster and less crowded but cost more.",
+      "Avoid BEST buses during the 8–10 AM and 5:30–8 PM rush if you have luggage or are unfamiliar with routes.",
+      "Many buses terminate at key hubs: CSMT, Colaba Depot, Kurla, Borivali — plan connections accordingly."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 10,
+      "max": 65,
+      "unit": "per ride",
+      "note": "Non-AC fares (effective May 2025): ₹10 (up to 5 km), ₹15 (up to 10 km), ₹20 (up to 15 km), up to ₹60 (up to 50 km). AC fares: ₹12 (up to 5 km), ₹20 (up to 10 km), up to ₹65 (up to 50 km). Day Pass: ₹75 (Non-AC), ₹150 (AC). Monthly Unlimited Pass: ₹1,800."
+    },
+    "routes": [
+      {
+        "name": "South Mumbai Network",
+        "from": "Colaba / CSMT",
+        "to": "Churchgate / Nariman Point / Marine Lines",
+        "note": "Dense network of overlapping short-distance routes — the best way to navigate South Mumbai's heritage districts."
+      },
+      {
+        "name": "Western Suburbs Corridor",
+        "from": "Bandra / Andheri",
+        "to": "Borivali / Goregaon / Malad",
+        "note": "Serves east-west and arterial north-south routes in the western suburbs where local trains don't reach."
+      },
+      {
+        "name": "Extended Services (Beyond Mumbai)",
+        "from": "Mumbai",
+        "to": "Mira Road / Bhayander / Thane / Navi Mumbai",
+        "note": "BEST buses extend beyond city limits. An extra ₹1 applies for trips outside Mumbai Municipal limits."
+      }
+    ],
+    "paymentMethods": ["Cash (on-bus conductor)", "BEST Smart Card", "UPI / QR via Chalo App", "Daily / Monthly Pass"],
+    "operatingHours": {
+      "open": "05:00",
+      "close": "01:00",
+      "note": "Most routes operate 05:00 AM–12:30 AM. A select number of 24-hour routes operate through the night, mainly on key arterial corridors. Check the Chalo app for specific route timings."
+    },
+    "frequency": "Varies by route. High-frequency routes every 3–8 minutes. Less popular routes every 20–30 minutes. Real-time tracking via Chalo app shows live arrival times.",
+    "features": [
+      "500+ routes across Mumbai and extended suburbs",
+      "AC and Non-AC variants",
+      "Electric bus fleet (expanding rapidly)",
+      "Real-time GPS tracking via Chalo app",
+      "Passes for unlimited daily / monthly travel",
+      "Conductor-issued tickets on board",
+      "Senior citizen / student discounts available",
+      "Wheelchair-accessible low-floor buses on select routes"
+    ],
+    "apps": [
+      { "name": "Chalo (Real-time BEST tracking)", "url": "https://chalo.com/" },
+      { "name": "BEST Bus (Official)", "url": "https://www.mybest.in/" }
+    ],
+    "servesAirport": false,
+    "order": 3,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Auto Rickshaw",
+    "slug": "auto-rickshaw-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "auto-rickshaw",
+    "description": "Auto rickshaws are the omnipresent, versatile workhorses of Mumbai's daily transport — three-wheeled CNG vehicles that operate throughout the suburbs (north of Sion/Mahim) and are the fastest, most convenient door-to-door option for short to medium distance trips. They do not operate in South Mumbai (below Sion/Mahim). All autos are legally required to use calibrated electronic meters, and carrying the official fare card is mandatory. The revised government fare structure effective 1 February 2025 sets the rate at ₹26 minimum and ₹17.14 per km. Rapido Autos and Ola Autos offer app-based booking with upfront pricing and live tracking.",
+    "tips": [
+      "Auto-rickshaws are NOT permitted in South Mumbai (south of Sion and Mahim junction) — use taxis or app-cabs there instead.",
+      "Always insist the driver use the meter. If refused, move on and flag the next one.",
+      "The official tariff card (updated February 2025) should be displayed in every auto — minimum fare ₹26, ₹17.14/km.",
+      "A 25% night surcharge applies between 12:00 AM and 5:00 AM.",
+      "Use Ola Auto, Rapido, or inDriver apps for auto booking with upfront fares and driver tracking.",
+      "Share autos operate on fixed routes near railway stations — ask locals or look for signs at auto stands.",
+      "Luggage charges: ₹6 per package larger than 60×40 cm.",
+      "Waiting charges: 10% of the base per-km rate per minute of waiting.",
+      "Don't take autos going the opposite direction of your destination — they often refuse mid-journey or overcharge."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 26,
+      "max": 300,
+      "unit": "per ride",
+      "note": "Minimum fare: ₹26 (effective 1 Feb 2025). Rate: ₹17.14 per km. 25% surcharge between 12 AM–5 AM. A 10 km daytime ride costs approximately ₹153; 10 km at midnight approximately ₹192. Luggage charges ₹6 per large package. Waiting charges: 10% of base rate per minute."
+    },
+    "routes": [],
+    "paymentMethods": ["Cash", "UPI / Google Pay / PhonePe (driver discretion)", "Ola Auto (app-based)", "Rapido (app-based)", "inDriver (app-based)"],
+    "operatingHours": {
+      "open": "05:00",
+      "close": "01:00",
+      "note": "Generally available 05:00 AM–01:00 AM. App-based autos (Rapido, Ola Auto) available 24/7 in high-demand areas. Night surcharge (25% extra) applies 12:00 AM–5:00 AM."
+    },
+    "frequency": "Immediately available at auto stands near railway stations, markets, and residential areas in the suburbs. App-based booking via Ola/Rapido in 2–5 minutes.",
+    "features": [
+      "Metered fare — mandatory by law",
+      "CNG-powered (low emission)",
+      "Fastest option for short suburban trips",
+      "Available throughout Mumbai's suburbs",
+      "App-based booking via Ola Auto and Rapido",
+      "Share autos on fixed routes near stations",
+      "Night surcharge (25%) applies midnight–5 AM",
+      "Official tariff card must be carried in the vehicle"
+    ],
+    "apps": [
+      { "name": "Ola Auto", "url": "https://www.olacabs.com/" },
+      { "name": "Rapido Auto", "url": "https://www.rapido.bike/" },
+      { "name": "inDriver", "url": "https://indriver.com/" }
+    ],
+    "servesAirport": false,
+    "order": 4,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Kaali-Peeli Taxi (Black & Yellow Cab)",
+    "slug": "kaali-peeli-taxi-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "taxi",
+    "description": "The iconic black-and-yellow Premier Padmini taxis — affectionately called kaali-peeli — have been Mumbai's metered taxi symbol for decades. While the vintage Padmini fleet has been largely retired, the kaali-peeli identity lives on in newer CNG Ambassador and compact car taxis, still running on the state's official metered tariff. Unlike auto-rickshaws, taxis operate across all of Mumbai including South Mumbai (Colaba, Fort, Nariman Point, Marine Drive). They are the go-to metered option for South Mumbai travel, airport transfers, and all trips that require door-to-door service with luggage. The government revised fares effective 1 February 2025.",
+    "tips": [
+      "Unlike auto-rickshaws, taxis operate throughout all of Mumbai including South Mumbai.",
+      "Ensure the driver uses the meter. The printed tariff card must be in the vehicle — ask to see it if unsure.",
+      "Minimum fare: ₹31 (for 1.5 km). Rate: ₹20.66/km (non-AC), ₹22.72/km (AC).",
+      "25% night surcharge applies 12:00 AM–5:00 AM. Luggage charges ₹3 per piece above 60 cm.",
+      "Taxis can be hailed from the street in South Mumbai — auto-rickshaws are not available there.",
+      "For airport transfers, negotiate a fixed rate before boarding to avoid fare card confusion, or use Ola/Uber for upfront pricing.",
+      "Uber and Ola (app-based) are now mandated to follow the same base fare structure as kaali-peeli taxis.",
+      "A cab from CSMT to the airport typically costs ₹450–₹650 depending on traffic and cab type."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 31,
+      "max": 600,
+      "unit": "per ride",
+      "note": "Minimum fare: ₹31 (for 1.5 km, effective 1 Feb 2025). Per km: ₹20.66 (non-AC), ₹22.72 (AC). 25% surcharge between 12 AM–5 AM. Luggage: ₹3 per piece above 60 cm. South Mumbai to airport typically ₹450–₹700. Kulcab/AC taxis: min ₹48, ₹37.20/km."
+    },
+    "routes": [],
+    "paymentMethods": ["Cash", "UPI (driver discretion — carry cash as backup)"],
+    "operatingHours": {
+      "open": "00:00",
+      "close": "23:59",
+      "note": "Available 24/7. Night surcharge (25% extra) applies midnight–5 AM."
+    },
+    "frequency": "Readily available on main roads in South Mumbai and near railway stations. Harder to find in residential lanes during peak hours.",
+    "features": [
+      "Operates throughout all of Mumbai (including South Mumbai)",
+      "Metered fare — legally mandatory",
+      "AC and non-AC variants",
+      "CNG-powered",
+      "Luggage space available",
+      "No prior booking required",
+      "Night surcharge (25%) midnight–5 AM"
+    ],
+    "apps": [
+      { "name": "Meru Cabs", "url": "https://www.merucabs.com/" }
+    ],
+    "servesAirport": true,
+    "order": 5,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Ola / Uber (App Cab)",
+    "slug": "app-cab-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "cab",
+    "description": "App-based ride-hailing services — primarily Ola and Uber — are the most convenient point-to-point transport option for visitors to Mumbai. They offer upfront pricing, GPS-tracked rides, digital payment, and a choice of vehicle categories from hatchbacks to SUVs. Since September 2025, MMRTA has mandated that base fares match the official kaali-peeli taxi rate (₹20.66–₹22.72/km), with discounts up to 25% during low demand and surge pricing up to 1.5× during peak hours. Rapido offers an additional bike-taxi option for single passengers navigating traffic quickly.",
+    "tips": [
+      "Book from a pick-up spot slightly away from the main road to avoid cancellations — drivers often cancel when stuck in traffic near popular pick-up points like malls or railway stations.",
+      "Surge pricing is real and aggressive — if the surge is high, wait 5–10 minutes and retry, or walk to a quieter street.",
+      "Airport pick-ups: book at least 15–20 minutes before you exit the arrivals hall. Pre-book for early morning flights.",
+      "Share rides (Ola Share, Uber Pool) are cost-effective but unreliable during peak hours.",
+      "Rapido Bike Taxi is the fastest way through Mumbai traffic for solo riders — not permitted in South Mumbai below Mahim.",
+      "Uber Auto is useful for suburban trips where kaali-peeli taxis are scarce.",
+      "Always confirm the driver's name and plate number before boarding.",
+      "Keep ₹100–₹200 cash as backup in case of payment app failures."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 50,
+      "max": 1500,
+      "unit": "per ride",
+      "note": "Base fare: ₹20.66/km (non-AC), ₹22.72/km (AC) per MMRTA mandate (Sep 2025). Minimum fares: approx ₹50–₹80 for hatchbacks. Surge: up to 1.5×. Discounts up to 25% during low demand. Rapido Bike Taxi: ₹2–₹5/km. Airport rides (South Mumbai to T2): typically ₹500–₹700. Always confirm upfront fare in the app before booking."
+    },
+    "routes": [],
+    "paymentMethods": ["UPI", "Credit / Debit Card", "Ola Money / Paytm", "Cash (select categories)"],
+    "operatingHours": {
+      "open": "00:00",
+      "close": "23:59",
+      "note": "Available 24/7. Driver availability may be lower between 3–5 AM. Surge pricing is highest on weekday mornings (7–9 AM), Friday evenings, and monsoon afternoons."
+    },
+    "frequency": "Typically 2–8 minutes for a cab to arrive in Mumbai's urban areas. Can be longer during extreme peak hours or heavy rain.",
+    "features": [
+      "Upfront pricing — know the fare before booking",
+      "GPS-tracked rides with live sharing",
+      "Multiple vehicle categories (Mini, Sedan, Prime, SUV)",
+      "Bike taxi via Rapido (single passengers)",
+      "Auto booking (Ola Auto, Rapido Auto, Uber Auto)",
+      "In-app payment — no cash required",
+      "Driver rating and feedback system",
+      "SOS emergency button in-app",
+      "Airport pre-booking available"
+    ],
+    "apps": [
+      { "name": "Uber", "url": "https://www.uber.com/in/en/" },
+      { "name": "Ola", "url": "https://www.olacabs.com/" },
+      { "name": "Rapido", "url": "https://www.rapido.bike/" },
+      { "name": "inDriver", "url": "https://indriver.com/" }
+    ],
+    "servesAirport": true,
+    "order": 6,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Ferry Service",
+    "slug": "ferry-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "ferry",
+    "description": "Mumbai's ferry services connect the Gateway of India and Bhaucha Dhakka (Ferry Wharf) to Elephanta Island, Mandwa (for Alibaug), and other coastal destinations. The ferry to Elephanta Caves is a tourist essential — a 60-minute journey across the harbour to a UNESCO World Heritage Site. The Mandwa ferry cuts the Mumbai–Alibaug journey from a gruelling 3–4 hours by road to just 55–65 minutes by sea, making it the standard route for weekend getaways. The M2M Ro-Pax ferry also carries vehicles. Uber Boat services have been introduced in collaboration with the Maharashtra Maritime Board for select routes.",
+    "tips": [
+      "Book Elephanta ferry tickets early — the first departure (9 AM) is the best to beat the heat and the crowds.",
+      "The last Elephanta ferry returns at 5:30 PM — do NOT miss it or you'll be stranded on the island.",
+      "Elephanta Caves are closed on Mondays — plan accordingly.",
+      "For Mandwa/Alibaug, PNP and Maldar ferries are reliable and offer AC options. Book via the operator's website or Redbus.",
+      "The M2M RoPax ferry from Bhaucha Dhakka allows you to bring your car or bike to Alibaug — book online at m2mferries.com.",
+      "Ferries to Mandwa do NOT operate during the monsoon season (roughly June–September) due to rough seas — verify before planning.",
+      "Arrive at the Gateway of India jetty at least 30 minutes before departure — queues can be long on weekends and holidays.",
+      "Carry light — rolling luggage is difficult on ferry gangways.",
+      "Sea sickness tablets recommended for those sensitive to motion during rough water."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 120,
+      "max": 360,
+      "unit": "per ride",
+      "note": "Elephanta Caves ferry (Gateway of India return): approx ₹160 (Indians), ₹260 (foreign nationals). Gateway of India to Mandwa (Alibaug): ₹120–₹185 one-way (Ajanta non-AC ₹120, Maldar non-AC ₹140, PNP AC ₹185). M2M RoPax (Bhaucha Dhakka to Mandwa): ₹360/adult, ₹200/two-wheeler, ₹1,000+/car."
+    },
+    "routes": [
+      {
+        "name": "Gateway of India → Elephanta Island",
+        "from": "Gateway of India, Apollo Bunder, Colaba",
+        "to": "Elephanta Island (Gharapuri)",
+        "note": "60-minute journey each way. Ferries depart 9:00 AM to 2:00 PM, return until 5:30 PM. Closed Mondays. UNESCO World Heritage Site."
+      },
+      {
+        "name": "Gateway of India → Mandwa (Alibaug)",
+        "from": "Gateway of India, Colaba",
+        "to": "Mandwa Jetty (20 km from Alibaug town)",
+        "note": "55–65 minutes. Operators: PNP (AC), Maldar (AC/non-AC), Ajanta (non-AC). Departures 6:00 AM–6:00 PM. Bus included to Alibaug town. Suspended June–September (monsoon)."
+      },
+      {
+        "name": "Ferry Wharf (Bhaucha Dhakka) → Mandwa",
+        "from": "Bhaucha Dhakka, Mazgaon",
+        "to": "Mandwa Jetty",
+        "note": "M2M RoPax: vehicle-carrying Ro-Pax ferry. Carries 500 passengers + 150 vehicles. Year-round service. 1 hour crossing. Book online at m2mferries.com."
+      }
+    ],
+    "paymentMethods": ["Cash (at jetty counters)", "Online (m2mferries.com, RedBus)", "UPI (select operators)"],
+    "operatingHours": {
+      "open": "06:00",
+      "close": "18:00",
+      "note": "First ferries depart from 6:00 AM (Mandwa route) and 9:00 AM (Elephanta route). Last departures around 6:00 PM (Mandwa) and 2:00 PM to Elephanta island; last return from Elephanta at 5:30 PM. Mandwa ferry suspends operations during monsoon (approximately June–September)."
+    },
+    "frequency": "Elephanta: departures every 30 minutes from 9 AM. Mandwa: 25+ departures daily across operators from 6 AM to 6 PM.",
+    "features": [
+      "AC and non-AC cabin options (Mandwa route)",
+      "M2M RoPax carries vehicles, bikes, and pets",
+      "Scenic harbour and open-sea views",
+      "Bus from Mandwa to Alibaug town included in ticket",
+      "Online advance booking available",
+      "Life jackets provided and safety briefing mandatory",
+      "Uber Boat service on select routes (book via Uber app)"
+    ],
+    "apps": [
+      { "name": "M2M Ferries (Online Booking)", "url": "https://m2mferries.com/" },
+      { "name": "RedBus (PNP / Ajanta / Maldar ferry booking)", "url": "https://www.redbus.in/" },
+      { "name": "Uber Boat", "url": "https://www.uber.com/in/en/" }
+    ],
+    "servesAirport": false,
+    "order": 7,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Mumbai Monorail",
+    "slug": "mumbai-monorail",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "monorail",
+    "description": "India's first modern monorail runs on a 20.21 km single elevated line connecting Chembur in eastern Mumbai to Sant Gadge Maharaj Chowk (Jacob Circle) near Mahalaxmi, via Wadala. The route connects three important suburban rail corridors — the Harbour Line (at Chembur), the Central Line (at Wadala), and the Western Line (at Jacob Circle/Mahalaxmi). All coaches are air-conditioned. While the system has faced criticism for low ridership and past operational delays, it remains a useful feeder service for commuters in the eastern belt and offers elevated city views unique to this mode. Note: As of September 2025 the monorail is temporarily shut down for major upgrades.",
+    "tips": [
+      "Check operational status before travelling — the monorail has had periodic shutdowns for maintenance and upgrades.",
+      "Useful primarily as a feeder to Harbour Line at Chembur and Western Line at Jacob Circle.",
+      "Best time to ride for city views: daytime on a clear day — the elevated track gives excellent vistas of Eastern Mumbai.",
+      "Buy a Smart Card to avoid queuing for tokens and save on fare.",
+      "Trains run every 15 minutes — plan your journey accordingly.",
+      "The monorail was shut for major upgrades from September 2025 — confirm restart before visiting.",
+      "Photography is allowed inside coaches and on platforms (not at ticket counters)."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 10,
+      "max": 40,
+      "unit": "per ride",
+      "note": "Distance-based: ₹10, ₹20, ₹30, ₹40 for increasing distances across the 17-station network. Smart Card available (₹150 deposit including ₹50 travel credit). No monthly pass available."
+    },
+    "routes": [
+      {
+        "name": "Line 1 – Chembur to Sant Gadge Maharaj Chowk (Jacob Circle)",
+        "from": "Chembur (near Harbour Line station)",
+        "to": "Sant Gadge Maharaj Chowk, Mahalaxmi",
+        "note": "17 stations, 20.21 km, fully elevated. Major interchanges: Chembur (Harbour Line), Wadala (Harbour Line), Dadar East (Central Line), Lower Parel, Jacob Circle."
+      }
+    ],
+    "paymentMethods": ["Cash (token counters)", "Monorail Smart Card", "UPI (select stations)"],
+    "operatingHours": {
+      "open": "05:00",
+      "close": "00:00",
+      "note": "Normal operating hours: 05:00 AM–12:00 AM. As of September 2025, shut down for major upgrades. Confirm restart before planning your visit."
+    },
+    "frequency": "Every 15 minutes on weekdays, every 20–25 minutes on weekends.",
+    "features": [
+      "Fully air-conditioned coaches",
+      "Elevated panoramic city views",
+      "India's first modern monorail",
+      "Connects Harbour, Central, and Western rail corridors",
+      "Smart Card available",
+      "Wheelchair accessible platforms",
+      "No monthly passes"
+    ],
+    "apps": [
+      { "name": "Mumbai Local Train Maps (includes Monorail)", "url": "https://go4mumbai.com/" }
+    ],
+    "servesAirport": false,
+    "order": 8,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Airport Transfer (CSIA – Mumbai Airport)",
+    "slug": "airport-transfer-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "airport-transfer",
+    "description": "Chhatrapati Shivaji Maharaj International Airport (BOM) has two terminals: T1 (domestic, in Vile Parle) and T2 (both international and select domestic flights, in Sahar, Andheri East). Multiple transport options connect the airport to the city. Pre-paid taxi booths at both terminals are the safest option for first-time visitors. App-based cabs (Uber/Ola) are convenient and typically cheaper. The Mumbai Metro Line 3 (Aqua Line) Phase 2 extension to the airport is under construction and expected to be operational by 2026, which will add a direct metro connection from T2 to central Mumbai and BKC.",
+    "tips": [
+      "Use the Maharashtra Tourism prepaid taxi booth just outside arrivals at T1 and T2 for the safest, most transparent fare — fixed rates, no negotiation needed.",
+      "Uber and Ola work well from the airport — book before you clear customs to have a cab waiting.",
+      "Do NOT accept unsolicited offers from taxi drivers inside the terminal — only use pre-paid booths or booked cabs.",
+      "T2 to South Mumbai (Colaba/Fort): typically ₹600–₹900 by pre-paid taxi or Uber depending on traffic.",
+      "T2 to Bandra/BKC: ₹300–₹500.",
+      "T2 to Andheri (hotel): ₹150–₹250.",
+      "The nearby Andheri Metro Station (Line 1 Blue Line) is a ~20 min auto from T2 — useful for reaching Ghatkopar or Versova quickly.",
+      "Mumbai traffic is notoriously bad — allow at least 90 minutes from South Mumbai to T2 for international departures during peak hours.",
+      "Rapido Bike Taxi to/from airport is technically not permitted but widely used for solo travellers with cabin bags."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 150,
+      "max": 1200,
+      "unit": "per ride",
+      "note": "Pre-paid taxi from T2 to South Mumbai (Colaba/Fort): ₹700–₹1,000. T2 to Bandra/BKC: ₹350–₹550. T2 to Andheri: ₹200–₹350. T1 to Andheri: ₹150–₹250. Uber/Ola typically 10–20% cheaper than pre-paid taxis. Surge pricing during rain, evenings, and flight arrivals/departures can significantly increase fares."
+    },
+    "routes": [
+      {
+        "name": "T2 (International + Domestic) → South Mumbai",
+        "from": "T2 Terminal, Sahar, Andheri East",
+        "to": "Colaba / Fort / Nariman Point / BKC",
+        "note": "45–90 minutes depending on traffic. Western Express Highway → Bandra-Worli Sea Link is the fastest route for South Mumbai. Pre-paid taxi or Uber recommended."
+      },
+      {
+        "name": "T1 (Domestic) → Suburbs",
+        "from": "T1 Terminal, Vile Parle East",
+        "to": "Andheri / Juhu / Bandra West / Western Suburbs",
+        "note": "T1 is closer to the western suburbs. Auto-rickshaw to Vile Parle or Andheri station (15–20 min) then local train is the most economical option."
+      }
+    ],
+    "paymentMethods": ["Cash (pre-paid booth)", "Credit / Debit Card (pre-paid booths, Uber/Ola)", "UPI (Uber/Ola, pre-paid booths)"],
+    "operatingHours": {
+      "open": "00:00",
+      "close": "23:59",
+      "note": "24/7. Pre-paid taxi booths operate round-the-clock. App cabs available at all hours. Note: fewer cabs available 3–5 AM."
+    },
+    "frequency": "Pre-paid taxis: immediate. Uber/Ola: 2–10 minutes from the airport pick-up zone.",
+    "features": [
+      "Pre-paid government taxi booths at T1 and T2 arrivals",
+      "Uber/Ola airport pick-up zones with designated waiting areas",
+      "AC and non-AC cab options",
+      "Fixed-rate pre-paid fares available",
+      "Metro Line 3 (Aqua Line) airport extension under construction (expected 2026)",
+      "Luggage trolleys and porter services at both terminals",
+      "Auto-rickshaw to nearest railway station (T1 only — not T2)"
+    ],
+    "apps": [
+      { "name": "Uber (Airport Pickup)", "url": "https://www.uber.com/in/en/" },
+      { "name": "Ola (Airport Pickup)", "url": "https://www.olacabs.com/" }
+    ],
+    "servesAirport": true,
+    "order": 9,
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "name": "Delhi Metro",
+    "slug": "delhi-metro",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "metro",
+    "description": "The Delhi Metro Rail Corporation (DMRC) network is the backbone of urban transport in the capital — a fully air-conditioned, GPS-tracked rapid transit system spanning over 392 km across 10 colour-coded lines and 288 stations, making it the largest metro network in India and the third-largest in Asia. Launched in 2002 and expanded continuously since, the Delhi Metro connects virtually every major landmark, neighbourhood, shopping district, and tourist destination in the city and its satellite towns (Noida, Gurgaon, Faridabad, Ghaziabad). For tourists, the Metro is the single most reliable, affordable, and comfortable way to navigate Delhi — avoiding the city's notoriously chaotic road traffic entirely. Smart Cards (Metro Cards) offer 10% fare discounts and eliminate queuing at token machines. The Airport Express Line (Line 8, Orange Line) connects New Delhi Railway Station and Indira Gandhi International Airport Terminal 3 in just 19 minutes.",
+    "tips": [
+      "Buy a Metro Smart Card (₹100 deposit, pre-loaded with ₹50) at any station — it gives a 10% discount on every fare and saves you queuing for tokens.",
+      "The Airport Express Line (Orange Line) runs from New Delhi Station to IGI T3 in just 19 minutes — the fastest and most stress-free way to reach the airport.",
+      "Avoid travelling between 8:30–10:00 AM and 5:30–8:00 PM — these are peak hours and trains get extremely crowded on Yellow, Blue, and Red lines.",
+      "Women have dedicated 'Ladies Only' coaches — the first coach at either end of every train. These are significantly less crowded and strictly enforced.",
+      "The Yellow Line (Samaypur Badli to Huda City Centre) and Blue Line (Dwarka Sector 21 to Vaishali/Noida) are the two most useful lines for tourist destinations.",
+      "A Tourist Card for unlimited travel is available at New Delhi, Kashmere Gate, and IGI Airport stations: ₹200 for 1 day, ₹500 for 3 days.",
+      "Keep your Metro token or Smart Card until you tap out at the exit — you cannot exit without it.",
+      "Security checks with baggage X-ray are mandatory at every station — arrive a few minutes early.",
+      "The Momentum 2.0 app and Delhi Metro Rail app show live train positions, route planners, and fare calculators.",
+      "Many central stations (Rajiv Chowk, Central Secretariat, Hauz Khas) have multiple exits — check the exit number before leaving the platform."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 10,
+      "max": 60,
+      "unit": "per ride",
+      "note": "Distance-based fares: ₹10 (0–2 km), ₹20 (2–5 km), ₹30 (5–12 km), ₹40 (12–21 km), ₹50 (21–32 km), ₹60 (32+ km). Smart Card holders receive a 10% discount on every ride. Airport Express Line (New Delhi ↔ IGI T3): ₹60 flat. Tourist Card: ₹200/day or ₹500/3 days for unlimited travel on all lines except Airport Express."
+    },
+    "routes": [
+      {
+        "name": "Yellow Line (Line 2)",
+        "from": "Samaypur Badli",
+        "to": "Huda City Centre (Gurgaon)",
+        "note": "49 stations, 49.3 km. The most important line for tourists — serves Kashmere Gate, Chandni Chowk, Chawri Bazar, New Delhi, Rajiv Chowk (Connaught Place), Central Secretariat, Udyog Bhawan, and HUDA City Centre. Key interchange: Rajiv Chowk (Blue Line)."
+      },
+      {
+        "name": "Blue Line (Line 3 & 4)",
+        "from": "Dwarka Sector 21",
+        "to": "Vaishali / Noida Electronic City",
+        "note": "49 stations. Serves Dwarka, Janakpuri, Rajouri Garden, Rajiv Chowk (Connaught Place), Mandi House, Pragati Maidan, Indraprastha, Yamuna Bank, Noida. Key interchange: Rajiv Chowk (Yellow Line)."
+      },
+      {
+        "name": "Airport Express Line (Line 8 / Orange Line)",
+        "from": "New Delhi Railway Station",
+        "to": "IGI Airport Terminal 3",
+        "note": "6 stations, 22.7 km. Stops: New Delhi, Shivaji Stadium, Dhaula Kuan, Delhi Aerocity, IGI T3. 19-minute journey. Flat fare: ₹60. Separate ticketing from regular Metro. Runs every 10–15 minutes. Luggage racks on every coach. Check-in counters available at New Delhi and Shivaji Stadium stations for select airlines."
+      },
+      {
+        "name": "Violet Line (Line 6)",
+        "from": "Kashmere Gate",
+        "to": "Raja Nahar Singh (Ballabhgarh)",
+        "note": "34 stations. Serves Lal Quila (Red Fort), Jama Masjid, Delhi Gate, ITO, Khan Market, Janpath, Central Secretariat, Nehru Place, Faridabad. Excellent for Old Delhi sightseeing."
+      },
+      {
+        "name": "Red Line (Line 1)",
+        "from": "Shaheed Sthal (New Bus Adda)",
+        "to": "Rithala",
+        "note": "29 stations. Serves Dilshad Garden, Shahdara, Seelampur, Welcome, Inderlok, Rithala. Key interchange: Kashmere Gate (Yellow, Violet, Green Lines)."
+      },
+      {
+        "name": "Green Line (Line 5)",
+        "from": "Inderlok / Brigadier Hoshiyar Singh",
+        "to": "Brigadier Hoshiyar Singh",
+        "note": "22 stations. Serves Ashok Park Main, Punjabi Bagh, Shalimar Bagh. Interchange at Inderlok (Red Line)."
+      },
+      {
+        "name": "Pink Line (Line 7)",
+        "from": "Majlis Park",
+        "to": "Shiv Vihar",
+        "note": "38 stations. Serves Azadpur, Netaji Subhash Place, Durgabai Deshmukh South Campus, Sir Vishweshwaraiah Moti Bagh, Hauz Khas, Vinobapuri, Lajpat Nagar. Important south Delhi connectivity."
+      },
+      {
+        "name": "Magenta Line (Line 8)",
+        "from": "Janakpuri West",
+        "to": "Botanical Garden (Noida)",
+        "note": "25 stations. Serves Dabri Mor, Dashrathpuri, Palam, Saket, Hauz Khas (interchange Yellow Line), Arjan Garh. Connects South Delhi to Noida."
+      }
+    ],
+    "paymentMethods": ["Cash (token machines at every station)", "Metro Smart Card", "UPI / QR Code (select stations)", "Tourist Day/3-Day Card", "NCMC (National Common Mobility Card)", "Credit / Debit Card (token machines)"],
+    "operatingHours": {
+      "open": "05:30",
+      "close": "23:30",
+      "note": "First trains start from 05:30 AM on most lines. Last trains run until approximately 23:00–23:30 PM. Airport Express Line: 04:45 AM–23:30 PM. Timings may vary slightly by line and station — check the DMRC app. On national holidays and festivals, extended service is sometimes offered."
+    },
+    "frequency": "Every 2–5 minutes during peak hours (8–10 AM, 5:30–8 PM) on major lines. Every 5–10 minutes off-peak. Airport Express: every 10–15 minutes throughout the day.",
+    "features": [
+      "Fully air-conditioned on all lines",
+      "Women-only coaches (first coach at each end of every train)",
+      "Wheelchair-accessible stations with lifts and ramps",
+      "Airport Express Line with luggage racks and airline check-in",
+      "Tourist Day Pass and 3-Day Pass available",
+      "Metro Smart Card with 10% fare discount",
+      "CCTV surveillance at all stations",
+      "Real-time train tracking via DMRC app",
+      "In-app route planner and fare calculator",
+      "Paid parking at many terminal stations"
+    ],
+    "apps": [
+      { "name": "Delhi Metro Rail (Official DMRC App)", "url": "https://play.google.com/store/apps/details?id=com.dmrc.dmrcapp" },
+      { "name": "Momentum 2.0 (Metro Navigation)", "url": "https://play.google.com/store/apps/details?id=com.momentum.metro" },
+      { "name": "WhereIsMyTrain", "url": "https://whereismytrain.in/" }
+    ],
+    "servesAirport": true,
+    "order": 1,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "DTC Bus (Delhi Transport Corporation)",
+    "slug": "dtc-bus-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "bus",
+    "description": "The Delhi Transport Corporation (DTC) is Delhi's primary public bus operator, running a fleet of over 4,000 buses — predominantly CNG and increasingly electric — across more than 700 routes covering every corner of the city and its NCR satellite towns. DTC buses are the most comprehensive surface transport network in Delhi, reaching neighbourhoods and destinations that the Metro does not serve. All DTC buses are non-AC (ordinary) or AC (air-conditioned, higher fare). The Cluster Bus Scheme, operated alongside DTC under the Delhi Integrated Multi-Modal Transit System (DIMTS), adds another 3,000+ AC low-floor buses to the network. The Chalo app provides real-time bus tracking for both DTC and Cluster buses. For budget travellers and those exploring areas beyond Metro reach, DTC buses are the most practical option.",
+    "tips": [
+      "Use the Chalo app for real-time bus tracking and route planning — it covers both DTC and Cluster buses and shows live arrival times.",
+      "The DTC's 'Ring Route' buses circle the outer ring road — useful for north-south connections between West and East Delhi without going into the centre.",
+      "AC cluster buses (white with blue branding) are cleaner, more comfortable, and have fixed boarding points — worth paying slightly more.",
+      "Buy a DTC Daily Pass (₹30 unlimited non-AC, ₹50 unlimited AC) at major bus depots or via the Chalo app if you plan to use buses extensively.",
+      "Avoid buses during 8:00–10:30 AM and 5:00–8:00 PM rush hours — buses become extremely crowded on popular routes.",
+      "Women travel free on all DTC buses under the 'Muft Yatra' scheme — simply board and state your destination to the conductor.",
+      "Major bus interchanges: Kashmere Gate ISBT, Anand Vihar ISBT, Sarai Kale Khan ISBT — all connected to the Metro.",
+      "Route numbers starting with '5' are generally South Delhi routes; '4' series for West Delhi; '2' for North Delhi."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 10,
+      "max": 75,
+      "unit": "per ride",
+      "note": "Non-AC DTC fares: ₹10 (up to 5 km), ₹15 (5–15 km), ₹20 (15–25 km), ₹25 (25–35 km). AC Cluster buses: ₹10–₹75 depending on distance. Women travel FREE on all DTC non-AC buses under 'Muft Yatra' scheme (no ticket required for women). Day Pass: ₹30 (non-AC), ₹50 (AC). Monthly Pass: ₹800 (non-AC), ₹1,500 (AC)."
+    },
+    "routes": [
+      {
+        "name": "Old Delhi / Central Delhi Network",
+        "from": "Kashmere Gate ISBT",
+        "to": "Connaught Place / India Gate / Red Fort / Chandni Chowk",
+        "note": "Dense network of routes connecting Old Delhi monuments and Central Delhi's commercial districts. Kashmere Gate ISBT is the major interchange for north and north-east Delhi."
+      },
+      {
+        "name": "South Delhi Corridor",
+        "from": "Sarai Kale Khan ISBT / Nizamuddin",
+        "to": "Defence Colony / Saket / Mehrauli / Hauz Khas / Vasant Vihar",
+        "note": "Serves the residential and commercial heart of South Delhi. Sarai Kale Khan ISBT connects to Hazrat Nizamuddin railway station and Metro."
+      },
+      {
+        "name": "NCR Intercity Routes",
+        "from": "Kashmere Gate / Anand Vihar ISBT",
+        "to": "Gurgaon / Faridabad / Ghaziabad / Noida",
+        "note": "Long-distance AC buses to NCR satellite cities. Anand Vihar ISBT (connected to Metro Blue Line) is the main hub for UP and Uttarakhand interstate services."
+      }
+    ],
+    "paymentMethods": ["Cash (on-bus conductor)", "Chalo App (QR ticketing)", "DTC Smart Card", "Daily / Monthly Pass", "Women travel free (no payment required)"],
+    "operatingHours": {
+      "open": "05:00",
+      "close": "23:30",
+      "note": "Most routes operate 05:00 AM–11:30 PM. Night bus services run on select routes through the night (Route 764, 788 etc.) on key arterial corridors. Check the Chalo app for exact route timings."
+    },
+    "frequency": "Varies by route. High-demand routes every 5–10 minutes. Less popular routes every 20–40 minutes. Chalo app shows real-time arrival times.",
+    "features": [
+      "700+ routes across Delhi and NCR",
+      "AC and Non-AC variants",
+      "Women travel FREE (non-AC, Muft Yatra scheme)",
+      "Real-time GPS tracking via Chalo app",
+      "CNG and electric fleet",
+      "Low-floor wheelchair-accessible AC cluster buses",
+      "Daily and monthly passes available",
+      "Three major ISBTs (Inter-State Bus Terminals) — Kashmere Gate, Anand Vihar, Sarai Kale Khan"
+    ],
+    "apps": [
+      { "name": "Chalo (Real-time DTC & Cluster Bus Tracking)", "url": "https://chalo.com/" },
+      { "name": "Delhi Transport (Official App)", "url": "https://play.google.com/store/apps/details?id=com.dtc.dtcmobileapp" }
+    ],
+    "servesAirport": false,
+    "order": 2,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Auto Rickshaw",
+    "slug": "auto-rickshaw-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "auto-rickshaw",
+    "description": "Auto rickshaws — three-wheeled CNG vehicles — are one of the most ubiquitous forms of transport across Delhi and an essential part of the city's street-level texture. Unlike Mumbai, autos in Delhi operate city-wide, with no geographic restriction. They are ideal for short to medium distance trips, particularly in areas poorly served by the Metro or for last-mile connectivity from Metro stations. All autos are legally required to use calibrated digital meters. The revised fare structure (effective 2023–24) sets the minimum at ₹25 and the running rate at ₹9.50 per km. App-based autos (Rapido, Ola Auto, Uber Auto) have largely solved the notorious 'meter refusal' problem that Delhi autos were once famous for, offering upfront pricing and live tracking.",
+    "tips": [
+      "Use Rapido Auto, Ola Auto, or Uber Auto for transparent upfront pricing and driver tracking — eliminates all fare negotiation.",
+      "If taking a metered auto, always insist on the meter before boarding — if refused, move on. App-booked autos are strongly preferable.",
+      "The revised (2024) fare: minimum ₹25, then ₹9.50/km. A 5 km ride should cost approximately ₹72; a 10 km ride approximately ₹120.",
+      "A 25% night surcharge applies between 11:00 PM and 5:00 AM.",
+      "Autos are the best last-mile option from Metro stations — stands are located at every major station exit.",
+      "Share autos (fixed routes, multiple passengers) operate near many Metro stations and markets — significantly cheaper but less direct.",
+      "Carry small change — ₹10 and ₹20 notes — as auto drivers often claim not to have change.",
+      "Luggage charges: ₹7.50 per large bag over 60×40 cm.",
+      "Tourist tip: negotiate a flat rate for extended sightseeing tours (e.g., a half-day Old Delhi tour) — ₹500–₹800 per hour is reasonable."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 25,
+      "max": 400,
+      "unit": "per ride",
+      "note": "Minimum fare: ₹25. Rate: ₹9.50 per km (revised 2023–24 tariff). 25% night surcharge (11 PM–5 AM). Luggage: ₹7.50 per large package. Typical trips: Connaught Place to Karol Bagh (~5 km) ≈ ₹70; CP to Lodi Road (~6 km) ≈ ₹82; CP to Saket (~12 km) ≈ ₹139. App-based autos (Rapido/Ola) charge similar or slightly higher with upfront pricing. Half-day sightseeing hire: ₹400–₹700 negotiated flat rate."
+    },
+    "routes": [],
+    "paymentMethods": ["Cash", "UPI / Google Pay / PhonePe (driver discretion)", "Rapido Auto (app-based)", "Ola Auto (app-based)", "Uber Auto (app-based)"],
+    "operatingHours": {
+      "open": "05:00",
+      "close": "23:59",
+      "note": "Available throughout the day and into the night. Availability reduces significantly after midnight. 25% night surcharge applies 11 PM–5 AM. App-based autos generally available 06:00 AM–11:00 PM depending on area."
+    },
+    "frequency": "Immediate from auto stands or via app (typically 3–8 minutes). Street hailing varies by area and time of day.",
+    "features": [
+      "City-wide operation (no geographic restriction unlike Mumbai)",
+      "Last-mile connectivity from every Metro station",
+      "App-based booking (Rapido, Ola, Uber) with upfront fares",
+      "Share autos on fixed routes near major Metro stations",
+      "CNG-powered — lower emissions than older vehicles",
+      "Metered fares (mandated by Delhi government)",
+      "Night surcharge clearly regulated",
+      "Good option for extended tourist sightseeing (hourly hire)"
+    ],
+    "apps": [
+      { "name": "Rapido Auto", "url": "https://www.rapido.bike/" },
+      { "name": "Ola Auto", "url": "https://www.olacabs.com/" },
+      { "name": "Uber Auto", "url": "https://www.uber.com/in/en/" }
+    ],
+    "servesAirport": false,
+    "order": 3,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Cycle Rickshaw",
+    "slug": "cycle-rickshaw-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "cycle-rickshaw",
+    "description": "The cycle rickshaw is one of Old Delhi's most iconic and essential transport modes — a manually pedalled three-wheeler that is the only practical way to navigate the labyrinthine lanes of Chandni Chowk, Jama Masjid, Paharganj, and Karol Bagh, where motor vehicles either cannot enter or create gridlock. For tourists, the cycle rickshaw is more than a transport option: it is an experience in itself, offering an unhurried, ground-level view of Old Delhi's streetscape, sounds, and sensory atmosphere. Fares are negotiated before boarding — there are no meters — and the correct approach is to agree a price before you sit down. Prices are very low (₹50–₹150 for most tourist-relevant distances) and haggling is expected. E-rickshaws (battery-powered, slightly faster) now operate on many of the same routes.",
+    "tips": [
+      "Always negotiate and agree on the fare BEFORE boarding — state your destination clearly and confirm the price.",
+      "Typical fares: Chandni Chowk to Red Fort (~1 km): ₹40–₹60. Chandni Chowk to Jama Masjid (~1.5 km): ₹50–₹80. Paharganj to New Delhi Station (~1 km): ₹40–₹60.",
+      "Cycle rickshaws are the ONLY practical way to explore the inner galis (lanes) of Old Delhi — motor vehicles cannot navigate them.",
+      "E-rickshaws (battery-powered) run on slightly longer routes near Metro stations and are cheaper than auto rickshaws for short trips.",
+      "Tipping is appreciated — rickshaw drivers earn very little and a ₹20–₹50 tip on top of the agreed fare is meaningful.",
+      "For a full Old Delhi heritage tour by cycle rickshaw, expect to spend 1.5–2 hours and agree an hourly rate: ₹200–₹300/hour is fair.",
+      "Guided Old Delhi cycle rickshaw tours are available from tourism operators near Delhi Gate and Chandni Chowk Metro station.",
+      "Hold on firmly over cobblestones and speed bumps — the ride can be bumpy in the older lanes."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 30,
+      "max": 300,
+      "unit": "per ride (negotiated)",
+      "note": "No meters — all fares negotiated before boarding. Typical fares: ₹30–₹80 for short Old Delhi hops (under 1 km). ₹80–₹150 for medium distances (1–3 km). Hourly hire for sightseeing: ₹200–₹350/hour. E-rickshaws (battery-powered): similar fares, slightly faster. Haggling is expected — first quote is usually 1.5–2× the reasonable price."
+    },
+    "routes": [
+      {
+        "name": "Old Delhi Heritage Circuit",
+        "from": "Chandni Chowk Metro Station",
+        "to": "Red Fort / Jama Masjid / Spice Market / Paranthe Wali Gali",
+        "note": "The classic tourist route. Most cycle rickshaw drivers near Chandni Chowk Metro know the standard sightseeing circuit. 1.5–2 hours, ₹250–₹400 for the full loop."
+      },
+      {
+        "name": "Paharganj Internal",
+        "from": "New Delhi Railway Station",
+        "to": "Paharganj Main Bazar / Connaught Place",
+        "note": "Essential for budget travellers staying in Paharganj. Short distances, ₹40–₹80."
+      }
+    ],
+    "paymentMethods": ["Cash only"],
+    "operatingHours": {
+      "open": "06:00",
+      "close": "21:00",
+      "note": "Cycle rickshaws operate from early morning until around 9–10 PM. Availability reduces in the evenings and is very limited after dark. Best availability: 8 AM–7 PM."
+    },
+    "frequency": "Available on demand near all Old Delhi Metro stations, major markets (Chandni Chowk, Karol Bagh, Paharganj), and at designated stands.",
+    "features": [
+      "Only practical transport through Old Delhi's inner lanes",
+      "Zero emissions (cycle-powered or electric)",
+      "Iconic Delhi cultural experience",
+      "Guided sightseeing tours available",
+      "E-rickshaw variant (faster, battery-powered)",
+      "No app or card required — cash only",
+      "Negotiated pricing — always agree before boarding"
+    ],
+    "apps": [],
+    "servesAirport": false,
+    "order": 4,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Ola / Uber / Rapido (App Cab)",
+    "slug": "app-cab-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "cab",
+    "description": "App-based ride-hailing — primarily Uber, Ola, and Rapido — is the most convenient, transparent, and comfortable point-to-point transport option for visitors to Delhi. They offer upfront pricing, GPS-tracked rides, digital payment, and a choice of vehicle categories from economy hatchbacks to premium SUVs. Delhi's app cab ecosystem is well-developed and operates city-wide, serving areas that the Metro doesn't reach and offering door-to-door comfort that no other mode provides. Rapido additionally offers bike taxis — the fastest single-passenger option through traffic — as well as autos. InDriver allows passengers to name their own price and negotiate with drivers, often resulting in lower fares. All three services are available 24/7 and serve both Indira Gandhi International Airport terminals.",
+    "tips": [
+      "Uber and Ola are equally reliable in Delhi — it's worth having both apps installed and comparing prices before booking.",
+      "Surge pricing can be aggressive during peak hours (8–10 AM, 6–9 PM), heavy rain, and near major events — try waiting 5–10 minutes or moving the pick-up pin slightly.",
+      "Rapido Bike Taxi is the fastest way through Delhi traffic for solo travellers — typically 30–40% cheaper than an auto for the same distance.",
+      "InDriver lets you bid your own fare — often 15–25% cheaper than Ola/Uber for medium and long distances.",
+      "Always verify the driver's name, photo, and vehicle plate before boarding.",
+      "For airport trips, pre-book at least 30 minutes before you need to leave — demand is high and cancellations are common during peak airport hours.",
+      "Keep ₹100–₹200 cash as backup — UPI failures do happen, especially in basements and tunnels.",
+      "Uber Intercity is the best option for day trips to Agra, Jaipur, or Chandigarh — fixed rates, known driver, AC car.",
+      "Avoid booking from inside the airport arrivals hall — walk to the designated cab pick-up zone outside for faster allocation."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 50,
+      "max": 2000,
+      "unit": "per ride",
+      "note": "Base fares (approx): Economy hatchback: ₹8–₹12/km, minimum ₹50–₹80. Sedan (Uber Go, Ola Mini): ₹10–₹15/km. Prime/Comfort (Sedan): ₹14–₹18/km. SUV/XL: ₹18–₹25/km. Rapido Bike Taxi: ₹3–₹5/km, minimum ₹25. Typical rides: CP to Connaught Place to IGI Airport (~20 km): ₹350–₹500. CP to Lodi Road (~6 km): ₹100–₹150. Surge pricing up to 2–3× during peak hours. Intercity (Delhi to Agra, ~230 km): ₹2,500–₹4,000 one way."
+    },
+    "routes": [],
+    "paymentMethods": ["UPI / Google Pay / PhonePe", "Credit / Debit Card", "Ola Money / Paytm", "Cash (Ola, select Uber categories)"],
+    "operatingHours": {
+      "open": "00:00",
+      "close": "23:59",
+      "note": "Available 24/7. Driver availability is lower between 2–5 AM. Surge pricing is highest on weekday mornings, Friday and Saturday evenings, and during rain. Airport service operates round the clock."
+    },
+    "frequency": "Typically 3–10 minutes in central Delhi and major neighbourhoods. Can be 10–20 minutes in peripheral areas or during peak demand.",
+    "features": [
+      "Upfront pricing before booking",
+      "GPS-tracked rides with live sharing to contacts",
+      "Multiple vehicle categories (Bike, Auto, Economy, Sedan, SUV)",
+      "Rapido Bike Taxi for fast solo travel",
+      "InDriver for negotiated lower fares",
+      "Intercity cab booking (Agra, Jaipur, Chandigarh, etc.)",
+      "In-app SOS emergency button",
+      "Driver rating and feedback system",
+      "Airport pick-up and drop-off at T1, T2, T3",
+      "AC vehicles across all categories"
+    ],
+    "apps": [
+      { "name": "Uber", "url": "https://www.uber.com/in/en/" },
+      { "name": "Ola", "url": "https://www.olacabs.com/" },
+      { "name": "Rapido", "url": "https://www.rapido.bike/" },
+      { "name": "InDriver", "url": "https://indriver.com/" }
+    ],
+    "servesAirport": true,
+    "order": 5,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Delhi Kaali-Peeli Taxi (Radio Cab)",
+    "slug": "radio-cab-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "taxi",
+    "description": "Delhi's traditional metered taxis — black-and-yellow cabs and white radio cabs — have operated since the pre-Independence era and remain a licensed, regulated transport option across the city. All metered taxis must use calibrated digital meters and display the official government tariff card. Radio cab services — Meru, Mega Cabs, and others — offer advance booking, AC vehicles, and fixed-rate airport runs. However, the rise of Uber and Ola has significantly reduced the prominence of traditional metered taxis, and radio cabs are now more commonly used for airport transfers, outstation trips, and by those who prefer advance telephonic booking over apps. Pre-paid taxi booths at IGI Airport remain the most reliable and safest option for first-time arrivals.",
+    "tips": [
+      "Pre-paid taxi booths at IGI Airport Terminals 1, 2, and 3 offer fixed, government-regulated rates — always use these on arrival if you don't have an app cab booked.",
+      "The pre-paid booth rate from IGI T3 to Connaught Place is approximately ₹350–₹450 depending on the time of day — cheaper than most surge-priced Ubers.",
+      "Always insist on the meter for street-hailed cabs — flat rate negotiations typically result in overcharging for tourists.",
+      "Radio cab services (Meru, Mega) allow advance telephonic booking (1 hour ahead) — useful for early morning airport drops.",
+      "White-board (outstation) taxis available at Kashmere Gate, Sarai Kale Khan, and Anand Vihar for inter-city travel to Agra, Jaipur, Haridwar, etc.",
+      "Night surcharge: 25% between 11 PM and 5 AM on all metered taxis.",
+      "AC taxis: ₹2/km surcharge over the base rate — confirm AC status before boarding.",
+      "Keep the receipt from pre-paid booths — it serves as official documentation if there's a dispute with the driver."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 35,
+      "max": 1500,
+      "unit": "per ride",
+      "note": "Minimum fare: ₹35 (non-AC), ₹40 (AC). Running rate: ₹14/km (non-AC), ₹16/km (AC). 25% night surcharge (11 PM–5 AM). Waiting charges: ₹1/minute. Pre-paid from IGI T3 to Connaught Place: ₹380–₹480. Pre-paid to South Delhi: ₹500–₹650. Outstation (Delhi to Agra, ~230 km one way): ₹2,800–₹3,500 negotiated. Radio cab (Meru/Mega): slightly higher base but reliable, traceable, AC."
+    },
+    "routes": [],
+    "paymentMethods": ["Cash", "UPI / Google Pay (driver discretion)", "Credit / Debit Card (radio cabs)", "Pre-paid booth (airport only)"],
+    "operatingHours": {
+      "open": "00:00",
+      "close": "23:59",
+      "note": "Available 24/7. Street-hailed cabs more plentiful during daytime. Radio cabs bookable by phone at any hour. Night surcharge applies 11 PM–5 AM."
+    },
+    "frequency": "Street hailing: available at major taxi stands (railway stations, ISBT, markets). Radio cabs: advance booking 30–60 minutes. Airport pre-paid: immediate on arrival.",
+    "features": [
+      "Pre-paid airport booths at all IGI Airport terminals",
+      "Government-regulated metered fares",
+      "AC and non-AC variants",
+      "Radio cabs with advance telephonic booking",
+      "Outstation / intercity hire available",
+      "Official fare tariff card must be displayed in every cab",
+      "Driver ID and vehicle registration displayed",
+      "Receipt issued by pre-paid booths"
+    ],
+    "apps": [
+      { "name": "Meru Cabs", "url": "https://www.merucabs.com/" },
+      { "name": "Mega Cabs", "url": "https://www.megacabs.com/" }
+    ],
+    "servesAirport": true,
+    "order": 6,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Airport Express Line (Delhi Metro Line 8)",
+    "slug": "airport-express-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "airport-transfer",
+    "description": "The Delhi Airport Express Line — also called the Orange Line or Line 8 of the Delhi Metro — is the fastest, most reliable, and most comfortable way to travel between Indira Gandhi International Airport (Terminal 3) and Central Delhi. Operated by DMRC, it connects New Delhi Railway Station to IGI T3 in just 19 minutes — a journey that takes 45–90 minutes by road depending on traffic. The service runs specifically designed coaches with wider seats, overhead luggage racks, and greater legroom than the standard Metro network. Uniquely, airline check-in counters are available at New Delhi Metro Station and Shivaji Stadium Metro Station, allowing passengers to check in their bags and collect boarding passes before boarding the Express — arriving at the airport needing only to pass through security. The flat fare is ₹60 from any station on the line.",
+    "tips": [
+      "This is the single best way to reach or depart from IGI Airport — 19 minutes to T3 from New Delhi Station, flat ₹60 fare.",
+      "Airline check-in is available at New Delhi Station and Shivaji Stadium Station for select airlines (IndiGo, Air India, GoAir, others) — check your airline's eligibility. Check in your bags here and travel light to the airport.",
+      "The line does NOT serve Terminal 1 (T1 domestic) — T1 is only served by road from the Dhaula Kuan area (approximately ₹150–₹250 by app cab from CP).",
+      "The Airport Metro Express Smart Card is separate from the regular Metro Smart Card — buy it at any Airport Express station.",
+      "First train from New Delhi Station: 04:45 AM. Last train: 23:30. First train from IGI T3: 05:00 AM. Last train: 23:35.",
+      "Trains run every 10–15 minutes throughout the day — no need to rush.",
+      "Luggage racks and wider seats make this genuinely comfortable even with checked-luggage-sized bags.",
+      "The Airport Metro connects to the main Metro network at New Delhi Station (Yellow Line) and Indira Gandhi International Airport (no further Metro connections beyond T3).",
+      "For Terminal 2 (T2): deboard at IGI T3 station and take the free shuttle bus — approximately 10 minutes."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 60,
+      "max": 60,
+      "unit": "per ride (flat fare)",
+      "note": "Flat fare of ₹60 regardless of boarding or alighting station. This applies to all 6 stations: New Delhi ↔ Shivaji Stadium ↔ Dhaula Kuan ↔ Delhi Aerocity ↔ IGI T3. No distance-based pricing. Separate ticketing from the regular Metro network — regular Metro Smart Card NOT valid on Airport Express; buy an Airport Express token or Airport Express Smart Card at any of the 6 stations."
+    },
+    "routes": [
+      {
+        "name": "Airport Express Line",
+        "from": "New Delhi Metro Station (Connaught Place)",
+        "to": "IGI Airport Terminal 3",
+        "note": "19 minutes end-to-end. 6 stations: New Delhi → Shivaji Stadium → Dhaula Kuan → Delhi Aerocity → IGI T3. Operates every 10–15 minutes, 04:45 AM–23:30 PM. Flat ₹60 fare. Luggage racks in every coach. Airline check-in at New Delhi and Shivaji Stadium stations."
+      }
+    ],
+    "paymentMethods": ["Cash (token at station counter)", "Airport Express Smart Card", "Credit / Debit Card (at station)", "UPI / QR Code (at station)"],
+    "operatingHours": {
+      "open": "04:45",
+      "close": "23:35",
+      "note": "From New Delhi Station: First train 04:45 AM, last train 23:30 PM. From IGI T3: First train 05:00 AM, last train 23:35 PM. Trains run every 10–15 minutes throughout the day. No overnight service."
+    },
+    "frequency": "Every 10–15 minutes throughout the day. Journey time: 19 minutes New Delhi ↔ IGI T3.",
+    "features": [
+      "19-minute journey from Connaught Place (New Delhi Station) to IGI T3",
+      "Flat ₹60 fare — all stations",
+      "Luggage racks and wider seats in every coach",
+      "Airline check-in counters at New Delhi and Shivaji Stadium stations",
+      "Fully air-conditioned",
+      "Delhi Aerocity stop (hotels, offices)",
+      "Free shuttle bus from T3 to T2",
+      "Separate Smart Card from regular Metro",
+      "Runs from 04:45 AM — suitable for very early flights"
+    ],
+    "apps": [
+      { "name": "Delhi Metro Rail (Official DMRC App)", "url": "https://play.google.com/store/apps/details?id=com.dmrc.dmrcapp" }
+    ],
+    "servesAirport": true,
+    "order": 7,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Airport Transfer (IGI Airport — Road Options)",
+    "slug": "airport-transfer-delhi-road",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "airport-transfer",
+    "description": "Indira Gandhi International Airport (DEL) serves Delhi from the Dwarka area of south-west Delhi, approximately 16–22 km from Connaught Place depending on the route. It has three operational terminals: T1 (domestic — IndiGo, GoAir, SpiceJet), T2 (currently not in regular use / merged operations), and T3 (international and full-service domestic — Air India, Vistara, Emirates, British Airways, etc.). Road-based transport options include pre-paid taxis, Uber/Ola app cabs, and DTC AC buses. The Airport Metro Express Line (covered separately) is the fastest option to T3. A pre-paid taxi booth is available at all terminals for those arriving without a booking.",
+    "tips": [
+      "The Airport Metro Express (₹60, 19 min to Connaught Place/New Delhi Station) is almost always faster and cheaper than road options for central Delhi destinations — use it unless you have very heavy luggage or need a door-to-door delivery.",
+      "Pre-paid taxi booths are located just outside arrivals at T1 and T3 — they offer fixed government-rate fares, receipts, and full accountability.",
+      "Pre-paid fare from T3 to Connaught Place: approximately ₹450–₹550 (AC cab). To South Delhi (Hauz Khas, Vasant Vihar): ₹500–₹650.",
+      "Uber and Ola pick-up zones are well-signed at T3 arrivals — exit the terminal and follow signs to the designated pick-up area (not the pre-paid zone).",
+      "NEVER accept offers from unlicensed touts inside the terminal — only use pre-paid booths or booked app cabs.",
+      "DTC AC Bus Route 780 (Airport to New Delhi Railway Station via Dhaula Kuan) costs ₹75 and runs every 30 minutes — excellent value for solo travellers with manageable luggage.",
+      "DTC AC Bus Route 757 runs to Sarai Kale Khan ISBT (near Nizamuddin Railway Station) — useful for South and East Delhi.",
+      "Allow at least 90 minutes from Central Delhi to T3 during peak hours (7–10 AM, 5–9 PM). The NH-48 and NH-48 bypass can be severely congested.",
+      "T1 is located approximately 7 km before T3 — if flying from T1, do NOT take the Airport Metro (it only goes to T3)."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 75,
+      "max": 1200,
+      "unit": "per ride",
+      "note": "DTC AC Bus (Route 780, T3 to New Delhi Station): ₹75. Pre-paid AC cab from T3 to Connaught Place: ₹450–₹550. Pre-paid to South Delhi: ₹550–₹750. Uber/Ola from T3 to CP (off-peak): ₹350–₹500. With surge pricing: ₹600–₹900. Uber/Ola to South Delhi: ₹400–₹650. Radio cab advance booking: ₹500–₹700 to CP (fixed rate, no surge)."
+    },
+    "routes": [
+      {
+        "name": "T3 → Central Delhi (Connaught Place / Paharganj / New Delhi Station)",
+        "from": "IGI Airport Terminal 3",
+        "to": "Connaught Place / New Delhi Railway Station / Paharganj",
+        "note": "~16–22 km via NH-48 and Ring Road. 30–60 minutes off-peak, 60–90 minutes during peak hours. App cab, pre-paid taxi, or Metro Express recommended."
+      },
+      {
+        "name": "T3 → South Delhi",
+        "from": "IGI Airport Terminal 3",
+        "to": "Hauz Khas / Saket / Vasant Vihar / Defence Colony",
+        "note": "~12–18 km. 25–50 minutes off-peak. App cab or pre-paid taxi recommended. No direct Metro connection."
+      },
+      {
+        "name": "T1 → West / Central Delhi",
+        "from": "IGI Airport Terminal 1 (Domestic)",
+        "to": "Karol Bagh / Paharganj / Connaught Place / Dwarka",
+        "note": "T1 is not served by Metro. App cab or pre-paid taxi only. ~18–24 km to CP, 30–60 minutes off-peak."
+      },
+      {
+        "name": "DTC AC Bus 780 — T3 to New Delhi Railway Station",
+        "from": "IGI Terminal 3",
+        "to": "New Delhi Railway Station (via Dhaula Kuan, Shankar Road)",
+        "note": "₹75 flat fare. Runs every 20–30 minutes, 04:30 AM–11:30 PM. Best budget option for solo travellers with manageable bags."
+      }
+    ],
+    "paymentMethods": ["Cash (pre-paid booth)", "UPI / Credit / Debit Card (pre-paid booths, Uber/Ola)", "Cash (DTC bus conductor)"],
+    "operatingHours": {
+      "open": "00:00",
+      "close": "23:59",
+      "note": "Pre-paid booths: 24/7. App cabs: 24/7 (reduced availability 2–5 AM). DTC buses: 04:30 AM–11:30 PM. Airport is operational 24/7."
+    },
+    "frequency": "Pre-paid taxi: immediate. App cabs: 3–10 minutes from pick-up zone. DTC Bus 780: every 20–30 minutes.",
+    "features": [
+      "Pre-paid government taxi booths at T1 and T3 arrivals",
+      "Uber/Ola designated pick-up zones at T3",
+      "DTC AC Bus Route 780 (T3–New Delhi Station) — budget option",
+      "DTC AC Bus Route 757 (T3–Sarai Kale Khan ISBT)",
+      "Fixed-rate pre-paid fares with receipt issued",
+      "Radio cab advance telephonic booking available",
+      "Porter and luggage trolley services at all terminals",
+      "Free inter-terminal shuttle bus (T3 ↔ T2)"
+    ],
+    "apps": [
+      { "name": "Uber (Airport Pickup)", "url": "https://www.uber.com/in/en/" },
+      { "name": "Ola (Airport Pickup)", "url": "https://www.olacabs.com/" },
+      { "name": "Meru Cabs (Advance Booking)", "url": "https://www.merucabs.com/" }
+    ],
+    "servesAirport": true,
+    "order": 8,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Delhi RRTS — Rapid Rail Transit System",
+    "slug": "rrts-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "rapid-rail",
+    "description": "The Regional Rapid Transit System (RRTS) is India's first semi-high-speed rail corridor, developed by the National Capital Region Transport Corporation (NCRTC) to connect Delhi with its satellite cities at speeds of up to 180 km/h. The first operational corridor — Delhi–Meerut (Sahibabad to Modipuram) — is currently partially open, with the priority section from Sahibabad to Duhai Depot operational since October 2023. Full connectivity to New Delhi Railway Station is under construction and expected in phases through 2025–26. The RRTS offers a fundamentally different experience from the Metro or local trains: premium air-conditioned coaches, wide reclining seats, Wi-Fi, luggage racks, and business class (called 'Premium') in dedicated coaches — at a journey time of approximately 55 minutes Delhi–Meerut versus 90+ minutes by road.",
+    "tips": [
+      "The RRTS is currently most useful for travellers going to Ghaziabad and Meerut — the Anand Vihar to Meerut section is operational.",
+      "Board at Sahibabad station (near Anand Vihar, connected to Metro Blue Line) for the fastest RRTS access from Central Delhi.",
+      "Premium (business) coaches offer reclining seats, wider spacing, and enhanced service — worth upgrading for longer trips.",
+      "Wi-Fi is available throughout the train — useful for working commuters on the Delhi–Meerut corridor.",
+      "RRTS tickets are available at station counters, via the Yatri Sathi app, and via UPI/QR at station machines.",
+      "For tourists, the RRTS is primarily relevant as a faster alternative to road travel to Ghaziabad — not a city sightseeing tool.",
+      "The New Delhi station RRTS connection (when complete) will make it the most direct high-speed rail link between Connaught Place and the NCR.",
+      "Luggage racks are available in every coach — RRTS is suitable for travellers with full-sized bags."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 20,
+      "max": 150,
+      "unit": "per ride",
+      "note": "Distance-based fares on the operational section (Sahibabad–Duhai Depot): approximately ₹20–₹100 depending on distance. Standard coach: ₹20–₹100. Premium (business) coach: approximately 1.5× standard fare. Fares for the full Delhi–Meerut corridor (when complete) expected to be ₹100–₹150 for the 82 km end-to-end journey in standard class."
+    },
+    "routes": [
+      {
+        "name": "Delhi–Meerut RRTS Corridor (Phase 1 operational)",
+        "from": "Sahibabad (near Anand Vihar, Delhi)",
+        "to": "Duhai Depot (Ghaziabad) — extended to Modipuram (Meerut) in later phases",
+        "note": "Partially operational since October 2023. Full Delhi (New Delhi Station) to Meerut (Modipuram) corridor: 82 km, ~55 minutes. New Delhi station connection under construction (2025–26)."
+      }
+    ],
+    "paymentMethods": ["Cash (station counters)", "Yatri Sathi App", "UPI / QR Code (ticket machines)", "Credit / Debit Card (ticket machines)", "NCMC Card"],
+    "operatingHours": {
+      "open": "06:00",
+      "close": "22:00",
+      "note": "Current operational hours on the Sahibabad–Duhai section: approximately 06:00 AM–10:00 PM. Check NCRTC's official website or Yatri Sathi app for updated timings as new sections open."
+    },
+    "frequency": "Every 15–30 minutes on the current operational section. Will increase to every 5–10 minutes when the full corridor is operational.",
+    "features": [
+      "India's first semi-high-speed regional rail (up to 180 km/h)",
+      "Premium (business) class coaches with reclining seats",
+      "Fully air-conditioned throughout",
+      "On-board Wi-Fi",
+      "Luggage racks in every coach",
+      "Wheelchair-accessible coaches",
+      "Real-time train tracking via Yatri Sathi app",
+      "NCMC card compatibility"
+    ],
+    "apps": [
+      { "name": "Yatri Sathi (Official NCRTC App)", "url": "https://play.google.com/store/apps/details?id=com.ncrtc.yatrisathi" }
+    ],
+    "servesAirport": false,
+    "order": 9,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Interstate Bus (ISBT)",
+    "slug": "isbt-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "intercity-bus",
+    "description": "Delhi has three major Inter-State Bus Terminals (ISBTs) that serve as the primary departure and arrival points for long-distance bus travel across northern India. Kashmere Gate ISBT (the largest, fully connected to Delhi Metro) is the hub for services to Punjab, Haryana, Himachal Pradesh, Uttarakhand, and Uttar Pradesh. Anand Vihar ISBT (Metro Blue Line) primarily handles UP and Uttarakhand services. Sarai Kale Khan ISBT (near Nizamuddin, Metro Violet Line) serves Rajasthan, Madhya Pradesh, and southern NCR destinations. Both government-operated (Haryana Roadways, UPSRTC, HRTC, RSRTC, PEPSU) and private operators (Zingbus, Redbus, IntrCity, Orange Travels) offer AC Volvo coaches, semi-sleeper, and sleeper buses to destinations including Chandigarh, Shimla, Manali, Haridwar, Jaipur, Agra, Lucknow, Dehradun, and Amritsar.",
+    "tips": [
+      "Book AC Volvo interstate buses online via Redbus or AbhiBus at least 24–48 hours in advance for popular routes (Chandigarh, Jaipur, Haridwar) — seats fill fast on weekends.",
+      "Private operators (Zingbus, IntrCity SmartBus) offer significantly more comfortable AC coaches with reclining seats, charging ports, and blankets for a small premium over government buses.",
+      "Kashmere Gate ISBT is directly connected to Delhi Metro (Yellow, Red, and Violet lines) — the most accessible of the three terminals.",
+      "For Rajasthan (Jaipur, Udaipur, Jodhpur), use Sarai Kale Khan ISBT — RSRTC and private operators depart from here.",
+      "The overnight bus (sleeper) from Delhi to Manali (14–16 hours) is a popular and cost-effective way to reach the Himalayas — book via HRTC or Redbus.",
+      "Arrive at the ISBT at least 30 minutes before departure — platforms are large and finding your bus takes time.",
+      "Government AC Volvo buses (HRTC, Haryana Roadways) are reliable and well-maintained — don't overlook them in favour of private operators.",
+      "Luggage storage compartments are under the bus — tag your bags and get a receipt from the conductor."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 200,
+      "max": 2500,
+      "unit": "per ride",
+      "note": "Typical fares: Delhi to Chandigarh (~250 km) — Government AC Volvo: ₹400–₹500, Private AC Volvo: ₹300–₹600. Delhi to Jaipur (~280 km) — AC Volvo: ₹400–₹700. Delhi to Haridwar (~220 km): ₹350–₹600. Delhi to Shimla (~360 km): ₹700–₹1,000. Delhi to Manali (~570 km) Sleeper: ₹1,200–₹2,000. Delhi to Agra (~220 km): ₹200–₹400. Non-AC ordinary buses: approximately 40–60% cheaper."
+    },
+    "routes": [
+      {
+        "name": "Delhi to Chandigarh / Punjab / Himachal Pradesh",
+        "from": "Kashmere Gate ISBT",
+        "to": "Chandigarh / Amritsar / Shimla / Manali / Dharamshala",
+        "note": "Multiple departures daily. Chandigarh: ~4 hours. Shimla: ~7 hours. Manali: ~14 hours (overnight). HRTC and private operators."
+      },
+      {
+        "name": "Delhi to Rajasthan",
+        "from": "Sarai Kale Khan ISBT / Kashmere Gate ISBT",
+        "to": "Jaipur / Jodhpur / Udaipur / Bikaner / Ajmer",
+        "note": "Jaipur: ~5 hours. RSRTC Volvo and private operators. Sarai Kale Khan recommended for Rajasthan routes."
+      },
+      {
+        "name": "Delhi to Uttarakhand / UP",
+        "from": "Anand Vihar ISBT / Kashmere Gate ISBT",
+        "to": "Haridwar / Rishikesh / Dehradun / Lucknow / Varanasi",
+        "note": "Haridwar: ~5 hours. Dehradun: ~6 hours. Lucknow: ~8 hours. UPSRTC and private operators from Anand Vihar."
+      }
+    ],
+    "paymentMethods": ["Cash (counter booking)", "Online (Redbus, AbhiBus, MakeMyTrip)", "UPI (select operators and counters)", "Credit / Debit Card (online booking)"],
+    "operatingHours": {
+      "open": "05:00",
+      "close": "23:59",
+      "note": "ISBTs operate from approximately 04:30 AM (earliest departures) through the night. Overnight sleeper buses to Manali, Leh, Shimla, Jaipur depart between 9 PM–11 PM. Kashmere Gate ISBT has 24-hour operations during peak season."
+    },
+    "frequency": "Varies by route. Popular routes (Delhi–Chandigarh, Delhi–Jaipur): departures every 15–30 minutes. Less popular routes: 2–6 departures per day.",
+    "features": [
+      "Three major ISBTs (Kashmere Gate, Anand Vihar, Sarai Kale Khan)",
+      "AC Volvo semi-sleeper and sleeper buses",
+      "Government and private operators on all major routes",
+      "Online booking via Redbus, AbhiBus, MakeMyTrip",
+      "HRTC, RSRTC, UPSRTC, Haryana Roadways government services",
+      "All ISBTs connected to Delhi Metro",
+      "Retiring rooms and waiting areas at major ISBTs",
+      "Luggage under-bus storage with receipt"
+    ],
+    "apps": [
+      { "name": "Redbus", "url": "https://www.redbus.in/" },
+      { "name": "AbhiBus", "url": "https://www.abhibus.com/" },
+      { "name": "Zingbus", "url": "https://www.zingbus.com/" },
+      { "name": "IntrCity SmartBus", "url": "https://www.intracity.com/" }
+    ],
+    "servesAirport": false,
+    "order": 10,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Delhi Railway Stations",
+    "slug": "railway-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "train",
+    "description": "Delhi is the nerve centre of the Indian Railways network — the city has seven major railway stations, handling over 400 trains and nearly 1 million passengers daily. New Delhi Railway Station (NDLS) is the main and most central terminus, directly connected to the Delhi Metro (Yellow Line and Airport Express Line). Hazrat Nizamuddin (NZM) is the primary departure point for trains to South India and Rajasthan (including the Rajdhani Express and the famous 12001/12002 Bhopal Shatabdi). Old Delhi Railway Station (DLI) is the oldest terminal in the city (1864) and handles trains to North and East India. Anand Vihar Terminal (ANVT) is the fastest-growing terminal, serving Eastern UP and Bihar. Delhi Cantonment, Sarai Rohilla, and Delhi Safdarjung stations handle select services. For tourists, trains to Agra (Taj Mahal) and Jaipur are a major use case — the Gatimaan Express (New Delhi to Agra Cantt, 100 minutes) is the fastest train in India.",
+    "tips": [
+      "Book all long-distance train tickets on IRCTC (irctc.co.in) or the IRCTC Rail Connect app — tickets sell out weeks in advance for popular routes.",
+      "The Gatimaan Express (12049, New Delhi to Agra Cantt) takes just 100 minutes — the fastest way to reach the Taj Mahal by surface transport. Runs Tuesday–Sunday.",
+      "The Shatabdi Express from New Delhi to Jaipur (~4.5 hours) and Chandigarh (~3 hours) is the most comfortable day train option on these routes.",
+      "For same-day bookings when quota is exhausted, try the 'Tatkal' quota (opens 1 day before departure, ~30% premium) or 'Current Booking' (available 4 hours before departure, limited seats).",
+      "Platform Ticket (₹10–₹30 at counters) is required to enter the platform even if you're just dropping someone off.",
+      "New Delhi Station has two sides — Paharganj (side 1) and Ajmeri Gate (side 2) — know which side your coach arrives at to avoid a long walk.",
+      "Pre-paid taxi and Uber/Ola pick-up zones are available outside New Delhi Station. Avoid touts offering 'cheap tickets' or 'tourist offices' inside the station.",
+      "Baggage rules: 70 kg free in Second AC (2A), 50 kg in Third AC (3A), 35 kg in Sleeper class. Luggage kept in the coach on overhead racks or under berths.",
+      "Station prepaid Wi-Fi is available at New Delhi, Hazrat Nizamuddin, and Old Delhi stations — connect with mobile OTP."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 100,
+      "max": 5000,
+      "unit": "per ride",
+      "note": "Sample fares from New Delhi: To Agra (Gatimaan Express, Chair Car): ₹755. To Jaipur (Shatabdi, Chair Car): ₹745. To Mumbai (Rajdhani Express, 3AC): ₹2,060. To Varanasi (3AC): ₹1,200–₹1,500. To Chandigarh (Shatabdi, Chair Car): ₹515. Tatkal surcharge: 30% premium over base fare. Dynamic pricing applies on Rajdhani, Duronto, and Vande Bharat trains — book early for best prices."
+    },
+    "routes": [
+      {
+        "name": "New Delhi → Agra (Taj Mahal Day Trip)",
+        "from": "New Delhi Railway Station (NDLS)",
+        "to": "Agra Cantt / Agra Fort",
+        "note": "Gatimaan Express (12049): 100 minutes, departs 08:10 AM (Tue–Sun). Return: 17:50 PM. Chair Car ₹755, Executive ₹1,505. Book well in advance. Also: Shatabdi Express (slower, ~2 hours), multiple other options."
+      },
+      {
+        "name": "New Delhi → Jaipur",
+        "from": "New Delhi Railway Station (NDLS)",
+        "to": "Jaipur Junction",
+        "note": "Ajmer Shatabdi (12015): ~4.5 hours, departs 06:05 AM. Chair Car ₹745. Multiple Rajdhani/Superfast trains also available. Book via IRCTC."
+      },
+      {
+        "name": "New Delhi / Hazrat Nizamuddin → South India",
+        "from": "Hazrat Nizamuddin (NZM)",
+        "to": "Mumbai / Chennai / Bengaluru / Hyderabad / Kochi",
+        "note": "NZM is the departure hub for Rajdhani and Duronto expresses to South India. Mumbai via Rajdhani: ~16–17 hours. Chennai via Tamil Nadu Express: ~33 hours."
+      },
+      {
+        "name": "New Delhi → Chandigarh / Amritsar / Himachal",
+        "from": "New Delhi Railway Station (NDLS)",
+        "to": "Chandigarh / Amritsar / Kalka (for Shimla Toy Train)",
+        "note": "Chandigarh Shatabdi (3 hours). Kalka Shatabdi for Kalka–Shimla Toy Train connection. Multiple departures daily."
+      }
+    ],
+    "paymentMethods": ["IRCTC (Online)", "IRCTC Rail Connect App", "UPI / Credit / Debit Card (online)", "Cash (station counters — limited availability)", "Paytm / Google Pay via IRCTC"],
+    "operatingHours": {
+      "open": "00:00",
+      "close": "23:59",
+      "note": "Trains run 24/7. IRCTC online booking: 04:30 AM–11:30 PM for Tatkal, 24/7 for advance bookings. Station counters: generally 08:00 AM–08:00 PM (varies by station). Current booking windows open 4 hours before departure at counters."
+    },
+    "frequency": "Over 400 trains depart from Delhi's seven stations daily. Major routes (Delhi–Mumbai, Delhi–Agra, Delhi–Jaipur) have departures every 1–3 hours.",
+    "features": [
+      "7 major railway stations (New Delhi, Nizamuddin, Old Delhi, Anand Vihar, Sarai Rohilla, Delhi Cantt, Safdarjung)",
+      "Gatimaan Express — fastest train in India (160 km/h) for Agra day trips",
+      "Vande Bharat Express — high-speed semi-sleeper to Varanasi, Bhopal, Amritsar",
+      "Rajdhani & Duronto Express — overnight AC service to all major cities",
+      "Tatkal quota for last-minute bookings (30% surcharge)",
+      "Online booking via IRCTC (mandatory for advance tickets)",
+      "Retiring rooms available at New Delhi and Hazrat Nizamuddin stations",
+      "Porter (coolie) services at all major stations",
+      "Wheelchair assistance and priority booking for differently-abled travellers"
+    ],
+    "apps": [
+      { "name": "IRCTC Rail Connect (Official Booking)", "url": "https://www.irctc.co.in/" },
+      { "name": "Where Is My Train", "url": "https://whereismytrain.in/" },
+      { "name": "RailYatri (PNR Status, Train Tracking)", "url": "https://www.railyatri.in/" },
+      { "name": "NTES (National Train Enquiry System)", "url": "https://enquiry.indianrail.gov.in/" }
+    ],
+    "servesAirport": false,
+    "order": 11,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Delhi Hop-On Hop-Off Bus (HOHO)",
+    "slug": "hoho-bus-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "tourist-bus",
+    "description": "The Delhi Hop-On Hop-Off (HOHO) Bus is an open-top, air-conditioned double-decker tourist bus service operated by DTTDC (Delhi Tourism and Transportation Development Corporation) specifically for sightseeing visitors. The service runs two circuits covering the major tourist landmarks of Delhi — the Heritage Circuit (Old and Central Delhi: Red Fort, Jama Masjid, India Gate, Qutub Minar, Humayun's Tomb, Akshardham) and the New Delhi Circuit (Connaught Place, Rashtrapati Bhavan, Parliament, Lodhi Garden, Hauz Khas). Passengers purchase a day pass and can board and deboard at any stop along the route, staying as long as they like at each attraction before catching the next bus. An audio guide in multiple languages (Hindi, English, French, Spanish, German, Japanese) plays automatically at each stop.",
+    "tips": [
+      "Buy the day pass — it is significantly more economical than booking individual stops, and you can re-board as many times as you like.",
+      "Start your HOHO circuit from the New Delhi Railway Station stop or Connaught Place (Shivaji Stadium) for the most convenient access from the Metro.",
+      "The audio guide is available in Hindi, English, French, German, Spanish, Japanese, and Chinese — wear earphones for the best experience.",
+      "Go early — the first bus departs at 09:00 AM and attractions like Qutub Minar and Humayun's Tomb are significantly less crowded before 11 AM.",
+      "The open-top upper deck is the best spot for photography but is exposed to sun and rain — carry sunscreen and water in summer, and an umbrella in the monsoon.",
+      "The HOHO is particularly good for first-time Delhi visitors who want a structured overview before deciding which sites to revisit independently.",
+      "Book tickets online via the DTTDC website or at the New Delhi Railway Station starting point to guarantee a seat, especially on weekends and holidays.",
+      "The full circuit with all stops takes approximately 5–6 hours — plan accordingly."
+    ],
+    "heroImage": "",
+    "images": [],
+    "fare": {
+      "min": 500,
+      "max": 700,
+      "unit": "per day pass",
+      "note": "Day Pass (unlimited boarding): ₹500 for adults, ₹250 for children (5–12 years), children under 5 free. Two-day Pass: ₹700 adults. Tickets available at New Delhi Railway Station departure point, DTTDC offices, and online at delhitourism.gov.in. Foreign nationals: ₹700/day (USD equivalent accepted at counter)."
+    },
+    "routes": [
+      {
+        "name": "Heritage Circuit (Circuit 1)",
+        "from": "New Delhi Railway Station / Shivaji Stadium",
+        "to": "Full loop via major monuments",
+        "note": "Stops: New Delhi Railway Station → Connaught Place → Red Fort → Jama Masjid → Chandni Chowk → India Gate → Humayun's Tomb → Qutub Minar → Akshardham → return. Approximately 5–6 hours for full loop."
+      },
+      {
+        "name": "New Delhi Circuit (Circuit 2)",
+        "from": "Connaught Place / Shivaji Stadium",
+        "to": "Full loop via New Delhi landmarks",
+        "note": "Stops: Connaught Place → Rashtrapati Bhavan → Parliament House → India Gate → National Museum → Lodhi Garden → Hauz Khas → Dilli Haat → return. Approximately 3–4 hours for full loop."
+      }
+    ],
+    "paymentMethods": ["Cash (at departure point)", "Online (delhitourism.gov.in)", "UPI / Credit / Debit Card (at counter)", "Foreign currency (USD/EUR at select counters)"],
+    "operatingHours": {
+      "open": "09:00",
+      "close": "18:00",
+      "note": "First bus departs 09:00 AM. Last pickup at stops approximately 06:00 PM. Buses do not operate on Mondays and during heavy monsoon rain or national emergencies. Check delhitourism.gov.in for current schedule."
+    },
+    "frequency": "Every 30–45 minutes at each stop. Full circuit frequency increases on weekends. Check the DTTDC schedule for precise timings.",
+    "features": [
+      "Open-top double-decker air-conditioned bus",
+      "Hop-on, hop-off format — unlimited re-boarding with day pass",
+      "Multi-language audio guide (Hindi, English, French, German, Spanish, Japanese, Chinese)",
+      "Two circuits — Heritage and New Delhi",
+      "Covers 20+ major tourist attractions",
+      "Day and two-day passes available",
+      "Operated by Delhi Tourism (DTTDC) — official government service",
+      "Good photography opportunity from open top deck"
+    ],
+    "apps": [
+      { "name": "Delhi Tourism (DTTDC)", "url": "https://www.delhitourism.gov.in/" }
+    ],
+    "servesAirport": false,
+    "order": 12,
+    "isFeatured": true,
+    "isActive": true
+  }
+
+]

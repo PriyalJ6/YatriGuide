@@ -1,0 +1,1218 @@
+[
+  {
+    "name": "Colaba Causeway",
+    "slug": "colaba-causeway-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "street-market",
+    "categories": ["street-fashion", "accessories", "jewellery", "handicrafts", "art", "antiques", "footwear", "leather"],
+    "tagline": "Mumbai's most iconic street — where tourists, collectors, and Colaba's bohemian soul collide.",
+    "description": "Colaba Causeway is the spine of South Mumbai's most atmospheric neighbourhood, stretching from the Gateway of India down to the Afghan Church — roughly 1.5 kilometres of continuous street commerce that has defined the way the world imagines Bombay. The pavement stalls, which begin setting up around 10am every day, sell an astonishing density of goods: chunky silver jewellery from Rajasthan, leather bags and sandals, Tibetan singing bowls, Kashmiri embroidered stoles, brass Buddha statues, block-printed kurtas, vintage postcards of colonial Bombay, hand-knitted woollens, and endless variations of the same dream-catcher. What makes Colaba Causeway irreplaceable is the layering: behind the footpath stalls are fixed shops that have been in the same families for three and four generations — Philips Antiques, founded in 1860, is the most famous of these, dealing in East India Company silver and Raj-era furniture. Between the stalls and shops are excellent cafés — Leaping Windows, Koyla, and of course Leopold Café, where Shantaram was partly set — so shopping here is always also a flânerie. The prices are negotiable almost everywhere, and the rule is to offer half the first quoted price and settle around 60-65% of it. Come for the energy as much as the goods.",
+    "knownFor": "Street jewellery, leather bags, Tibetan artefacts, Philips Antiques (1860), and the most atmospheric shopping street in South Mumbai",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8328, 18.9166]
+    },
+    "address": "Shahid Bhagat Singh Road (Colaba Causeway), Colaba, Mumbai 400005",
+    "neighbourhood": "Colaba",
+    "budgetRange": { "min": 200, "max": 5000 },
+    "highlights": [
+      {
+        "name": "Philips Antiques",
+        "description": "Operating since 1860, this is the most respected antique dealer on the street — East India Company silver, colonial-era furniture, original maps of Bombay, and curiosities from the Raj. Not cheap, but everything is authenticated."
+      },
+      {
+        "name": "Cotton World & Bungalow 8",
+        "description": "Two of the better fixed retail stores on the Causeway with quality Indian ethnic wear, resort clothes, and home decor that is several notches above pavement-stall quality."
+      },
+      {
+        "name": "Street Jewellery Cluster (near Regal Cinema end)",
+        "description": "The densest concentration of silver and oxidised metal jewellery stalls is near the northern (Regal Cinema) end. Large rings, jhumkas, statement necklaces — all made in Rajasthan and very well priced."
+      },
+      {
+        "name": "Leather Lane",
+        "description": "A stretch of stalls near the Sassoon Dock end specialising in leather bags, sandals, and belts — most sourced from Dharavi's leather workshops. Quality varies; check stitching carefully."
+      }
+    ],
+    "bestFor": ["Tourists seeking Mumbai souvenirs", "Jewellery and accessories", "Antique hunters", "Street fashion", "Evening walkers"],
+    "bestTimeToVisit": "Weekday late afternoons (4–7pm) — cooler, good light, full stalls but not yet weekend-crowded",
+    "openingHours": "10:00 AM – 10:00 PM",
+    "closedOn": "None (open all 7 days)",
+    "nearestStation": "Churchgate (Western Railway) — 20 min walk; or CST (Central Railway) — 25 min walk",
+    "tips": "Always bargain — it is expected and not rude. Start at 40% of the quoted price. The stalls nearest the Gateway of India are the most tourist-facing and most expensive; walk further south towards Afghan Church for less touristy vendors and better prices. Beware of 'genuine leather' claims — Dharavi leather is real but many bags are rexine. Philips Antiques (look for the red-painted shopfront on a side lane) is worth a detour even if you don't intend to buy. Visit in the evening when the soft golden light makes the whole street photogenic.",
+    "rating": 4.5,
+    "reviewCount": 42000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Chor Bazaar",
+    "slug": "chor-bazaar-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "bazaar",
+    "categories": ["antiques", "furniture", "art", "handicrafts", "accessories", "home-decor"],
+    "tagline": "The Thieves' Market — Mumbai's labyrinthine antique quarter where fortunes hide among the junk.",
+    "description": "Chor Bazaar — literally 'Thieves' Market' — is one of Asia's largest and most historically rich antique markets, spread across Mutton Street and its surrounding lanes in the Muslim-majority Bhendi Bazaar neighbourhood of South Mumbai. The origin of the name is disputed: one story says 'chor' is a corruption of 'shor' (noise), and another — more entertaining — says Queen Victoria's violin was stolen in Bombay and traced back to a stall here. Whatever the etymology, the reality is a densely packed warren of nearly 400 antique and second-hand shops selling an inventory that seems to encompass every object the Indian subcontinent has discarded over three centuries: Raj-era photographs, Parsi furniture, Bollywood film posters from the 1940s to 1980s, Victorian grandfather clocks, ship's bells, Anglo-Indian four-poster beds, early shortwave radios, brass telephones, Art Deco wall panels, antique gramophones, vintage Enfield motorcycle parts, hand-painted miniatures, and piles of absolute inexplicable rubbish from which something wonderful always emerges if you look hard enough. The market has been here since at least the 1840s and many shopkeepers represent fourth-generation businesses. The real Chor Bazaar is experienced on a Friday, when additional vendors spread sheets on the pavement with open-market goods. Everything is negotiable; nothing has a fixed price; and part of the pleasure is not knowing what you'll find.",
+    "knownFor": "Antique furniture, Raj-era collectibles, vintage Bollywood posters, gramophones, colonial curiosities, and Mumbai's most thrilling browsing experience",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8289, 18.9596]
+    },
+    "address": "Mutton Street, Chor Bazaar, Bhendi Bazaar, Mumbai 400003",
+    "neighbourhood": "Bhendi Bazaar",
+    "budgetRange": { "min": 500, "max": 200000 },
+    "highlights": [
+      {
+        "name": "Mutton Street (Main Drag)",
+        "description": "The primary street is lined with the larger, better-stocked dealers — furniture, large statement pieces, and the more expensive curios. This is where you'll find gramophones, grandfather clocks, and Art Deco panels."
+      },
+      {
+        "name": "Friday Open Market",
+        "description": "On Fridays, vendors spread goods on sheets on the pavement outside the fixed shops, creating a more chaotic, exciting version of the bazaar. This is when you find the genuinely unexpected and the genuinely cheap."
+      },
+      {
+        "name": "Bollywood Poster Shops",
+        "description": "Several shops on the side lanes specialise in vintage Bollywood posters, lobby cards, and film memorabilia from the 1940s–80s. These have become increasingly collectible internationally; prices have risen accordingly."
+      },
+      {
+        "name": "Ship Parts & Industrial Lane",
+        "description": "A specific cluster of stalls near the northern end stocks reclaimed ship parts, telegraphs, engine gauges, and industrial-era objects — unusual even by Chor Bazaar's standards."
+      }
+    ],
+    "bestFor": ["Serious antique collectors", "Interior designers", "Bollywood memorabilia seekers", "Vintage furniture hunters", "Curious explorers"],
+    "bestTimeToVisit": "Friday mornings (9am–noon) for the open-air pavement market and maximum inventory",
+    "openingHours": "11:00 AM – 7:30 PM",
+    "closedOn": "None (Friday is the busiest day, not a closure day)",
+    "nearestStation": "Grant Road (Western Railway) — 10 min walk",
+    "tips": "Bring cash — very few shops accept cards or UPI. Do not show excitement about anything; the price will triple. Friday is essential for the full experience. Many pieces are genuine antiques but the market also has a healthy supply of skilfully aged fakes — if provenance matters to you, ask very specific questions and buy only from dealers who can give you written documentation. The restaurant Sarvi nearby (on Nagdevi Street) does excellent Mughlai food if you need a break. Give yourself a minimum of 3 hours — Chor Bazaar cannot be rushed.",
+    "rating": 4.4,
+    "reviewCount": 19800,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Zaveri Bazaar",
+    "slug": "zaveri-bazaar-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "bazaar",
+    "categories": ["jewellery", "wholesale"],
+    "tagline": "The gold capital of India — where ₹5,000 crore changes hands in jewellery every single day.",
+    "description": "Zaveri Bazaar is not just a market — it is the nerve centre of India's jewellery trade. Located in the Kalbadevi neighbourhood of South Mumbai, this dense network of lanes — Sheik Memon Street, Madhavji Street, Shaikh Memon Street — has been the country's primary gold and diamond trading hub since at least the 18th century. The name 'Zaveri' comes from 'zaver', meaning jeweller. Today the bazaar employs upwards of 60,000 people and processes an estimated ₹4,000–6,000 crore in transactions daily, making it one of the world's highest-value per-square-kilometre commercial zones. The inventory spans everything from 22-carat Mughal-style bridal sets (the kind you see in wedding films) to contemporary diamond solitaires, antique kundan work from Rajasthan, temple jewellery from the South, polki sets, silver articles, and tiny gold coins as investment pieces. The experience is overwhelming for the uninitiated — thousands of small shops, most not more than 200 sq ft, each stacked floor to ceiling with glass cases. The jewellers here serve primarily the Indian retail and wholesale trade, and prices are significantly lower than branded jewellery stores in malls, though bargaining is less aggressive than at street markets. Hallmarked 22K and 18K gold is widely available; BIS hallmarking certification is the minimum quality standard to insist upon.",
+    "knownFor": "Bridal gold jewellery, diamond sets, kundan and polki work, wholesale rates, and the highest concentration of jewellery trade anywhere in Asia",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8264, 18.9508]
+    },
+    "address": "Sheik Memon Street, Zaveri Bazaar, Kalbadevi, Mumbai 400002",
+    "neighbourhood": "Kalbadevi",
+    "budgetRange": { "min": 2000, "max": 5000000 },
+    "highlights": [
+      {
+        "name": "Bridal Jewellery Shops (Sheik Memon Street)",
+        "description": "The main street is dominated by bridal jewellery shops — enormous glass-front stores displaying full 22K gold sets. This is where Indian families come to buy wedding jewellery, and the variety of traditional regional designs (Punjabi, Maharashtrian, Gujarati, South Indian) is unmatched anywhere."
+      },
+      {
+        "name": "Kundan & Polki Specialists",
+        "description": "Several lanes off the main street house workshops and retail shops specialising exclusively in kundan (Rajput uncut-gem) and polki (uncut diamond) jewellery — styles originating in Rajasthan and Mughal courts. Many pieces here are genuine heirlooms."
+      },
+      {
+        "name": "Silver Article Wholesale Lane",
+        "description": "A section of the market deals entirely in silver — silverware for puja, silver coins and medallions, silver vessels, and silver jewellery. Wholesale rates make bulk purchases extremely cost-effective."
+      },
+      {
+        "name": "Diamond Dealers (Upper Floors)",
+        "description": "The upper floors of buildings on Madhavji Street are occupied by diamond traders — primarily wholesale, but individual buyers with specific requirements can often purchase loose stones at trade prices."
+      }
+    ],
+    "bestFor": ["Bridal shopping", "Gold and diamond investment buyers", "Wedding jewellery", "Serious jewellery collectors", "Wholesale trade buyers"],
+    "bestTimeToVisit": "Weekday mornings (10am–1pm) — before the afternoon heat and without weekend crowds",
+    "openingHours": "10:00 AM – 7:00 PM",
+    "closedOn": "Sunday",
+    "nearestStation": "Kalbadevi (Metro Line 3) or Charni Road (Western Railway) — 15 min walk",
+    "tips": "Always insist on BIS hallmarked gold — the hallmark guarantees purity and is mandatory on all gold jewellery sold in India. Making charges (the labour cost, separate from metal value) are always negotiable — this is where you save money relative to mall jewellers who charge fixed making charges. Bring your Aadhaar card; purchases above ₹2 lakh require PAN/Aadhaar. Go with a clear idea of what you want (design, weight, budget) — the choice is genuinely infinite and decision paralysis is real. The best shops will show you the kacha (raw) weight versus finished weight honestly; avoid any shop that is vague about this.",
+    "rating": 4.6,
+    "reviewCount": 24500,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Dharavi Leather Market",
+    "slug": "dharavi-leather-market-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "wholesale-market",
+    "categories": ["leather", "footwear", "accessories", "wholesale", "fashion"],
+    "tagline": "The source — factory-direct leather from Asia's largest tannery cluster at a fraction of retail prices.",
+    "description": "Dharavi is known internationally from a film and a novel, but what that narrative almost never mentions is that it is also the site of one of Asia's largest and most productive leather-goods manufacturing clusters. The leather colony in Dharavi — concentrated in the '90 Feet Road' area of Dharavi's Kumbharwada and leather sector zones — processes buffalo hide from across Maharashtra and produces finished leather goods that find their way to export markets, Indian luxury retailers, and global fashion brands. The wholesale market that fronts this production belt runs along 90 Feet Road and the lanes off it, and is one of the best-kept shopping secrets in Mumbai. Bags, belts, wallets, sandals, shoes, jacket leather, and upholstery leather — all produced steps away from where they are sold — are available here at prices that are genuinely 60–80% below what you'd pay at Colaba or in a mall. The leather is primarily buffalo leather (bhaisa chamda) which is thicker and more durable than the cow leather dominant in European goods; finished to various grades. Some vendors also produce genuine lamb and goat leather for softer goods. This is not a curated shopping experience — it is a working industrial area — but for anyone who knows what they want and doesn't need a pretty store, the value is extraordinary.",
+    "knownFor": "Factory-direct buffalo leather bags, belts, footwear, and accessories at 60–80% below retail; the source market for Mumbai's leather supply chain",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.855, 19.0418]
+    },
+    "address": "90 Feet Road, Dharavi Leather Colony, Dharavi, Mumbai 400017",
+    "neighbourhood": "Dharavi",
+    "budgetRange": { "min": 300, "max": 15000 },
+    "highlights": [
+      {
+        "name": "90 Feet Road Wholesale Shops",
+        "description": "The main stretch of finished-goods wholesale shops — bags in every size from clutches to suitcase-sized travellers, displayed in floor-to-ceiling stacks. Most shops here sell to retailers by the dozen but will sell single pieces to individual buyers at wholesale-adjacent prices."
+      },
+      {
+        "name": "Custom Order Workshops",
+        "description": "Several workshops in the lanes off 90 Feet Road take custom orders for bags, belts, and wallets — you choose the leather grade, colour, hardware, and design. Turnaround is typically 3–5 days. The quality of custom work here beats any branded store at a fraction of the cost."
+      },
+      {
+        "name": "Footwear Cluster",
+        "description": "A specific section focuses on leather footwear — sandals, mojris (Rajasthani pointed-toe shoes), kolhapuri chappals, and men's dress shoes. Kolhapuri chappal production here is among the finest in Mumbai."
+      }
+    ],
+    "bestFor": ["Leather bag hunters", "Wholesale buyers", "Custom leather goods", "Budget travellers wanting quality leather", "Interior designers sourcing leather upholstery"],
+    "bestTimeToVisit": "Weekday mornings (9am–12pm) — workshops are open and vendors have time to negotiate",
+    "openingHours": "9:00 AM – 7:00 PM",
+    "closedOn": "Sunday",
+    "nearestStation": "Mahim (Central Railway) — 15 min walk; Dharavi (Metro Line 3)",
+    "tips": "This is a working industrial area, not a tourist market — dress practically (closed shoes, nothing precious). Go with a specific idea of what you want. Feel the leather before buying — good buffalo leather should feel dense and slightly waxy, not spongy or plasticky. Ask specifically for 'full-grain' leather (the best grade) vs 'split' leather (cheaper, less durable). Many shops will insist on minimum quantities — be upfront that you're an individual buyer and most will accommodate. Bringing a Hindi-speaking friend makes a real difference here. The smells are intense near the tannery sections — be prepared.",
+    "rating": 4.2,
+    "reviewCount": 6400,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Mangaldas Market",
+    "slug": "mangaldas-market-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "wholesale-market",
+    "categories": ["fabrics", "ethnic-wear", "wholesale", "fashion"],
+    "tagline": "Mumbai's fabric heartland — where every saree, every curtain, and every fashion designer's vision begins.",
+    "description": "Mangaldas Market in Kalbadevi is the largest textile wholesale market in Mumbai, and one of the most important in India, with over 1,200 shops crammed into a covered arcade and the surrounding streets. It is the source market for the entire city's fabric needs: here, the city's fashion designers buy their raw material, the saree shops of Bhuleshwar source their stock, the tailors of Dharavi buy their suiting fabric, and wedding trousseau shopping often begins. The market's architecture is itself a pleasure — a nineteenth-century covered arcade with iron pillars and a glass-and-iron roof, part of a grand Victorian commercial precinct built during the boom years of the Bombay cotton trade. The fabric selection is staggering: Banarasi silk in every colour and pattern, Kanchivaram silk, Chanderi cotton, Maheshwari weaves, Paithani silk from Paithan, ikkat from Odisha and Andhra, block-printed cotton from Jaipur, georgette and chiffon in 300 shades, linen in textures from coarse to butter-soft, denim, velvet, Lycra, net, and embroidered base fabrics for lehengas and bridal wear. Most shops sell by the metre at wholesale rates; minimum quantities are typically 5 metres but shops will often sell less for a slightly higher per-metre price. This is where you come to get the raw material for a tailor-made wardrobe, bridal outfit, or home furnishing, at a fraction of what a finished garment costs.",
+    "knownFor": "Wholesale fabrics, Banarasi silk, bridal lehenga material, saris by the metre, and the finest textile variety under one roof in Mumbai",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.827, 18.952]
+    },
+    "address": "Mangaldas Lane, Kalbadevi, Mumbai 400002",
+    "neighbourhood": "Kalbadevi",
+    "budgetRange": { "min": 100, "max": 50000 },
+    "highlights": [
+      {
+        "name": "Banarasi Silk Shops (East Wing)",
+        "description": "The eastern section of the covered arcade houses the premium silk dealers, most of whom deal exclusively in Banarasi — the handloom silk weave from Varanasi that is the gold standard of Indian bridal and festive fabric. Some shops here have been operating for over 80 years."
+      },
+      {
+        "name": "Bridal Fabric Lane",
+        "description": "A lane off the main arcade focuses on heavily embellished bridal fabrics — zardozi-worked base cloth, sequin-studded net, Swarovski-set georgette, and the raw material for lehengas and bridal blouses. Fashion designers regularly source here."
+      },
+      {
+        "name": "Cotton and Linen Section",
+        "description": "For non-bridal, everyday fabric needs, a section of the market stocks a world-class range of cotton, linen, chambray, and casual dress fabrics at prices (₹80–400 per metre) that make readymade garments seem absurdly overpriced."
+      },
+      {
+        "name": "Paithani Corner",
+        "description": "A cluster of shops specialises in Paithani — the silk weave from Paithan, Maharashtra, distinguished by its peacock and flower motifs woven in zari and vibrant silk. Genuine Paithani is expensive (₹8,000–40,000 per saree); beware of printed imitations."
+      }
+    ],
+    "bestFor": ["Fashion designers", "Bridal shopping (raw fabric)", "Saree buyers", "Home furnishing fabric", "Tailoring enthusiasts"],
+    "bestTimeToVisit": "Weekday mornings (10am–1pm) — vendors are unhurried and more willing to pull out full stock",
+    "openingHours": "10:00 AM – 7:30 PM",
+    "closedOn": "Sunday",
+    "nearestStation": "Charni Road (Western Railway) — 12 min walk; Kalbadevi (Metro Line 3)",
+    "tips": "Come with a specific colour or fabric type in mind — the choice is overwhelming without a filter. Ask for 'pucca rate' (firm rate) upfront; many shops quote inflated tourist prices. Check the selvage of silk fabrics for warp threads — genuine handloom Banarasi has a slightly uneven selvage from the loom, while power-loom imitations are perfectly uniform (and cheaper). For bridal fabrics, negotiate on quantity — buying all your wedding fabric from one shop usually gets you a substantial discount. Bring your tailoring measurements so you know exactly how much fabric to buy.",
+    "rating": 4.5,
+    "reviewCount": 18200,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Linking Road, Bandra",
+    "slug": "linking-road-bandra-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "lane",
+    "categories": ["street-fashion", "footwear", "accessories", "fashion", "ethnic-wear"],
+    "tagline": "Mumbai's high street — where fast fashion, street style, and the Bandra energy converge.",
+    "description": "Linking Road in Bandra West is Mumbai's answer to Delhi's Sarojini Nagar and Lajpat Nagar combined — a long, loud, energetic strip of pavements stalls and fixed shops that is the first destination for young Mumbaikars who want fashion at street prices. The street runs from Mehboob Studio in the south to Santacruz in the north, but the shopping heart is the 1.5km stretch from Turner Road to the Bandra Flyover. The pavement stalls here — and there are several hundred of them — carry current-season fashion at prices that would seem impossible in any mall: imported fast-fashion pieces from export surplus factories, copies of international brands at ₹200–600, Indian-label seconds and exports, footwear from Agra's factories, and accessories in every material. The fixed shops behind the stalls are more structured — brands like FabIndia, Westside, and Pantaloons occupy larger spaces — but the energy is the pavement. Linking Road has evolved significantly from its purely budget-market roots; the neighbourhood's demographics (young, well-traveled, brand-aware) have pushed many vendors toward better quality, and it is now genuinely possible to find excellent fashion here alongside the usual market fare. Saturday evenings, when the entire length becomes one long moving crowd of young Mumbai, are both the best and most chaotic time to shop here.",
+    "knownFor": "Export surplus fashion, street footwear, accessories, current-season fast fashion at fraction of MRP, and the most energetic street shopping in Western suburbs",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8383, 19.0607]
+    },
+    "address": "Linking Road, Bandra West, Mumbai 400050",
+    "neighbourhood": "Bandra West",
+    "budgetRange": { "min": 150, "max": 3000 },
+    "highlights": [
+      {
+        "name": "Export Surplus Stalls (Turner Road Junction)",
+        "description": "The cluster of stalls near Turner Road is known for export surplus — genuine branded factory extras with original labels, sometimes with minor defects, at 70–90% below retail. H&M, Zara, and domestic brands appear regularly. Stock changes daily."
+      },
+      {
+        "name": "Footwear Row (Central Stretch)",
+        "description": "A long run of stalls and fixed shops focusing on footwear — heels, flats, sneakers, and sandals — most manufactured in Agra and Kanpur at prices between ₹200–800. Quality varies enormously; check sole attachment and stitch quality carefully."
+      },
+      {
+        "name": "Accessories Bazaar",
+        "description": "Hair accessories, bags, sunglasses, belts, scarves, costume jewellery — an entire economy of accessories at ₹50–500. The variety is such that it's difficult to leave empty-handed even on a casual browse."
+      },
+      {
+        "name": "Hill Road Junction (Ethnic Corner)",
+        "description": "Near the Hill Road junction, several stalls specialise in ethnic and fusion wear — cotton kurtas, palazzo pants, dupattas, and Indo-western pieces that reflect Bandra's particular fashion sensibility."
+      }
+    ],
+    "bestFor": ["Young fashion shoppers", "Budget clothing", "Export surplus hunters", "Footwear", "Accessories", "Casual street fashion"],
+    "bestTimeToVisit": "Weekday evenings (5–8pm) — good light, full stalls, less crowded than weekends",
+    "openingHours": "11:00 AM – 10:00 PM",
+    "closedOn": "None (open all 7 days)",
+    "nearestStation": "Bandra (Western Railway) — 10 min walk",
+    "tips": "The pavement stalls are where the value is — don't spend too much time in the fixed shops unless you want a specific brand. For shoes, always try on and flex the sole; most footwear here will not survive more than one monsoon season, but for fashion-forward pieces that you'll wear twice, they're excellent value. Saturday evening is experiential but genuinely difficult to shop — the crowds make it hard to examine anything carefully. Go on a weekday if you're serious about buying.",
+    "rating": 4.3,
+    "reviewCount": 31500,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Fashion Street",
+    "slug": "fashion-street-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "street-market",
+    "categories": ["street-fashion", "footwear", "accessories", "sportswear"],
+    "tagline": "The original cheap-chic strip — South Mumbai's answer to fast fashion, operating since the 1970s.",
+    "description": "Fashion Street is a 300-metre strip of pavement stalls running along the Mahatma Gandhi Road side of Azad Maidan in South Mumbai, opposite Churchgate station — and it has been exactly this since the 1970s, making it one of the oldest street-fashion destinations in the city. Approximately 150 stalls sell ready-made garments, footwear, and accessories in a fairly compressed space, with a business model built on export surplus, factory seconds, and imitation branded wear. The street's location — directly opposite Churchgate station and a short walk from Nariman Point, the city's commercial heart — means its primary customers are office workers, college students from nearby Elphinstone and HR Colleges, and tourists staying in the Colaba belt. The range is broad: T-shirts from ₹100, jeans from ₹300, dresses and tops in current-season styles, Nike and Adidas copies at ₹200–500 (labelled and sold openly as imitations), sports jerseys, ethnic kurtas, and a large accessories section. The prices are among the lowest in the city; the quality is entry-level; and the entire experience is cheerful and efficient in a way that feels distinctly of South Mumbai's working character.",
+    "knownFor": "The cheapest ready-made fashion in South Mumbai, export surplus basics, sports jersey copies, and a 50-year tradition of budget street shopping opposite Churchgate",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8267, 18.9353]
+    },
+    "address": "Mahatma Gandhi Road (opp. Azad Maidan), Fort, Mumbai 400001",
+    "neighbourhood": "Fort",
+    "budgetRange": { "min": 100, "max": 1500 },
+    "highlights": [
+      {
+        "name": "Export Surplus T-Shirt Section",
+        "description": "The best-value section — genuine export surplus T-shirts from Indian garment factories, original labels intact, with minor defects (often invisible). Brands like Van Heusen, Arrow, and international labels appear regularly at ₹80–200."
+      },
+      {
+        "name": "Sports Jersey Row",
+        "description": "Football, cricket, and basketball jerseys — EPL, IPL, NBA — at ₹150–400. These are openly sold as copies and the quality is surprisingly decent for the price. Popular with students and tourists."
+      },
+      {
+        "name": "Western Wear Stalls (Centre Section)",
+        "description": "The central section has the densest concentration of Western women's wear — tops, co-ords, dresses, dungarees — current-season styles at ₹200–600. Good for fashion-forward basics."
+      }
+    ],
+    "bestFor": ["Students and young professionals", "Budget fashion", "Sports jerseys", "Basic wardrobe building", "Tourists seeking affordable fashion"],
+    "bestTimeToVisit": "Weekday mornings (10am–noon) — before the office lunch-break crowd arrives",
+    "openingHours": "10:00 AM – 9:00 PM",
+    "closedOn": "None",
+    "nearestStation": "Churchgate (Western Railway) — 5 min walk",
+    "tips": "This is Mumbai's most accessible fashion market — right off the train and walkable. Bargain on everything; 50% of quoted price is a realistic starting point. Don't buy shoes here unless they're the absolute basics — quality is very low. The stalls with the most people gathered are usually the ones with the best-value stock that day. The market is best on weekdays; on weekends the density of the crowd makes shopping feel like a contact sport.",
+    "rating": 4.1,
+    "reviewCount": 28700,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Crawford Market (Mahatma Jyotiba Phule Mandai)",
+    "slug": "crawford-market-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "bazaar",
+    "categories": ["food", "spices", "handicrafts", "home-decor", "accessories", "toys"],
+    "tagline": "Bombay's oldest market — a Norman Gothic landmark where every smell, colour, and flavour of the city converges.",
+    "description": "Crawford Market — officially renamed Mahatma Jyotiba Phule Mandai in 1999 but known to virtually everyone by its colonial name — is South Mumbai's oldest and most architecturally significant market, inaugurated in 1869. The building, designed by William Emerson (who later designed the Victoria Memorial in Calcutta), is a magnificent Norman Gothic structure with a high trussed roof, ornate carved friezes outside (originally designed by Rudyard Kipling's father, John Lockwood Kipling), and a remarkable working Victorian fountain inside. The market is divided into formal sections: fresh produce (fruit and vegetables on the ground floor), meat and poultry, dry goods and spices, and an outside section with pet animals and birds. But the real Crawford Market is the chaos of wholesale and retail activity that surrounds the Victorian building — hundreds of stalls and shops on the adjacent streets (Lokmanya Tilak Road, Carnac Bunder) selling imported goods, dry fruits, pickles, chocolates, imported biscuits, toys, plastic goods, kitchenware, and everything else. Crawford Market is the most important wholesale import market in the city and many goods (foreign chocolates, imported dry fruits, exotic spices) are available here weeks before they appear in supermarkets, at prices that are hard to beat anywhere. It is also the freshest, most sensory experience in South Mumbai.",
+    "knownFor": "Imported goods, exotic spices, best-priced dry fruits, fresh produce, exotic pets, Victorian architecture, and the largest variety of goods in one South Mumbai location",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8324, 18.9475]
+    },
+    "address": "Lokmanya Tilak Road (Crawford Market), South Mumbai, Mumbai 400001",
+    "neighbourhood": "Fort",
+    "budgetRange": { "min": 200, "max": 10000 },
+    "highlights": [
+      {
+        "name": "Imported Goods Shops (Lokmanya Tilak Road)",
+        "description": "The streets immediately east of the main building are lined with shops selling imported goods — Kinder chocolates in bulk, Belgian biscuits, American candies, foreign energy drinks, imported cheeses, and exotic food products that haven't hit Indian supermarkets yet. Prices are 30–50% below airport duty-free."
+      },
+      {
+        "name": "Dry Fruits and Spice Wholesale",
+        "description": "The wholesale section stocks cashews, almonds, pistachios, saffron, cardamom, and every Indian spice in quantities from 100g to 50kg at wholesale rates. Saffron from Kashmir and Iran here is significantly cheaper (and often better quality) than branded retail."
+      },
+      {
+        "name": "The Victorian Building Interior",
+        "description": "Even if you don't buy, the main market hall deserves a visit for its architecture. The iron columns, the high glass-and-iron roof, the Victorian fountain — and the Lockwood Kipling bas-reliefs on the exterior showing Indian agricultural life — are genuine 19th-century landmarks."
+      },
+      {
+        "name": "Toys and Stationery Street (Carnac Bunder)",
+        "description": "The street north of Crawford Market specialises in toys, stationery, and novelty goods at wholesale prices — the source market for Mumbai's toy retail trade. Individual buyers can purchase single items at only slightly above wholesale."
+      }
+    ],
+    "bestFor": ["Imported food goods", "Spice buying", "Dry fruits", "Architecture lovers", "Wholesale grocery", "Unique food gifts"],
+    "bestTimeToVisit": "Weekday mornings (8am–11am) — freshest produce, least crowded, coolest temperature",
+    "openingHours": "7:00 AM – 7:30 PM",
+    "closedOn": "Sunday",
+    "nearestStation": "CST (Mumbai Central Terminus) — 5 min walk",
+    "tips": "Go early for produce — by noon the choicest fruit is gone. For imported goods, compare prices at 3–4 shops on the same street before buying; competition is fierce and prices vary. The saffron sold in the bazaar is usually the real thing (unlike tourist-area saffron); look for deep red threads with a slightly musty, honey-like smell. The pet section (birds and small animals) is fascinating but can be distressing for animal lovers — many vendors operate in conditions that fall short of modern welfare standards. The Victorian building's exterior friezes are worth photographing before you enter.",
+    "rating": 4.4,
+    "reviewCount": 35600,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Kala Ghoda Art & Craft Precinct",
+    "slug": "kala-ghoda-art-craft-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "arcade",
+    "categories": ["art", "handicrafts", "books", "jewellery", "home-decor", "accessories"],
+    "tagline": "Mumbai's cultural quarter — where independent galleries, craft boutiques, and design studios cluster around the Black Horse.",
+    "description": "Kala Ghoda — named after a black horse statue of King Edward VII that once stood here — is a small but intensely concentrated cultural and design precinct in South Mumbai, roughly bounded by the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (Prince of Wales Museum), the National Gallery of Modern Art, and the Jehangir Art Gallery. Unlike Mumbai's sprawling bazaars, Kala Ghoda is a curated environment: the shops here tend to be independently owned design boutiques, craft galleries, and art spaces that would not feel out of place in London's Marylebone or Berlin's Mitte. The strongest categories are contemporary Indian handicrafts (Madhubani paintings, Warli art, Dhokra tribal brass work, Channapatna wooden toys), handmade jewellery in silver and semi-precious stones, art books and design publications, hand-block-printed textiles, and objects produced by artisan cooperatives from across India. The Kala Ghoda Arts Festival (held every February) concentrates even more creative energy here, but the precinct is worth visiting year-round. Prices are higher than market bazaars because the work is genuinely artisanal and properly attributed to its makers — but this is the right place to buy Indian craft that you know is ethically sourced and will last a lifetime.",
+    "knownFor": "Contemporary Indian craft, tribal art (Warli, Madhubani, Dhokra), design boutiques, art books, and the most curated shopping precinct in Mumbai",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.832, 18.928]
+    },
+    "address": "Kala Ghoda, Fort, Mumbai 400001",
+    "neighbourhood": "Fort / Kala Ghoda",
+    "budgetRange": { "min": 500, "max": 80000 },
+    "highlights": [
+      {
+        "name": "Craft Circle Galleries (MG Road)",
+        "description": "A cluster of permanent craft-focused shops on M.G. Road sells ethically sourced tribal and folk art — Warli paintings from Palghar district, Madhubani works from Bihar, Pattachitra from Odisha. Prices are fixed and fair; every piece has an attribution to its maker."
+      },
+      {
+        "name": "Kitab Khana (Books)",
+        "description": "One of Mumbai's finest independent bookshops, specialising in Indian writing, design, architecture, art, and photography books. A genuine bookshop with knowledgeable staff, a strong events programme, and a café. Don't miss the Mumbai-specific section."
+      },
+      {
+        "name": "Melange & The Bombay Store",
+        "description": "Two of the area's most established design retail stores — both carrying Indian craft, home furnishings, block-printed textiles, and gifts with a curatorial sensibility that distinguishes them from airport gift shops. The Bombay Store is particularly strong on Maharashtra-specific crafts."
+      },
+      {
+        "name": "Dhokra Brass Studios",
+        "description": "Several shops in the lanes off Kala Ghoda Road stock Dhokra — the lost-wax brass casting technique of the Bastar tribes of Chhattisgarh. Figures of tribal deities, animals, and ritual objects in rough, powerful bronze. Among the most distinctive Indian crafts available anywhere."
+      }
+    ],
+    "bestFor": ["Design-conscious shoppers", "Art collectors", "Craft enthusiasts", "Ethical shopping", "Unique gifts", "Book lovers", "Gallery visitors"],
+    "bestTimeToVisit": "Any weekday — the precinct is walkable and unhurried; avoid weekends when galleries can get crowded",
+    "openingHours": "11:00 AM – 8:00 PM (individual shops vary)",
+    "closedOn": "Monday (many galleries closed)",
+    "nearestStation": "CST (5 min walk) or Churchgate (15 min walk)",
+    "tips": "The Kala Ghoda Arts Festival in February transforms the entire precinct into an outdoor arts and crafts fair — if you can plan your visit around it, do. The Jehangir Art Gallery runs changing exhibitions and is free to enter — always check what's on before a visit. For Dhokra and Warli work, the higher price of gallery-sold pieces (vs bazaar copies) is justified by quality and ethical sourcing. Café Mondegar on CSMT road is the right pre- or post-shopping drink spot.",
+    "rating": 4.6,
+    "reviewCount": 14200,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Bhuleshwar Market",
+    "slug": "bhuleshwar-market-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "bazaar",
+    "categories": ["flowers", "ethnic-wear", "jewellery", "home-decor", "handicrafts", "food"],
+    "tagline": "The sacred and the sensory — Mumbai's flower market, temple precinct, and bridal bazaar in one overwhelming experience.",
+    "description": "Bhuleshwar is one of the oldest commercial neighbourhoods in Mumbai, and the market that has grown around the Bhuleshwar Shiva temple is one of the most religiously and culturally specific shopping experiences in the city. The neighbourhood's identity is inseparable from the Mumbadevi Temple — the temple from which 'Mumbai' takes its name — and the commerce here reflects that sacred character. The flower market of Bhuleshwar is the largest in South Mumbai: marigold garlands, tuberose strings, jasmine, roses, and offerings for every Hindu deity sold at dawn by a hundred vendors in the lanes around the temple. Beyond the flowers, the market specialises in the needs of the devout and the bride: glass bangles (Bhuleshwar has the finest bangle shops in Mumbai), religious silver articles, coconut and puja ingredients, silk sarees for religious occasions, nose pins and mangalsutras (the jewellery of the married woman in Maharashtra), and the distinctive Puneri sarees of Maharashtra. The streets — Thakurdwar Road, Bhuleshwar Road, Princess Street — are narrow, intensely busy, and architecturally rich with early 20th-century commercial buildings. Coming here is not merely shopping; it is an immersion in the texture of old Bombay's Hindu commercial culture.",
+    "knownFor": "Flower market at dawn, glass bangles, religious jewellery, Maharashtrian bridal shopping, and the most authentic old-Bombay neighbourhood commercial experience",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.829, 18.9534]
+    },
+    "address": "Bhuleshwar Road, Kalbadevi, Mumbai 400002",
+    "neighbourhood": "Bhuleshwar / Kalbadevi",
+    "budgetRange": { "min": 50, "max": 20000 },
+    "highlights": [
+      {
+        "name": "Flower Market (Dawn)",
+        "description": "The lanes around the Bhuleshwar temple begin filling with flower vendors from 4am onwards, peaking at dawn. Entire truck-loads of marigolds, tuberose, and jasmine are unloaded and strung into garlands. This is one of Mumbai's great sensory experiences — colour, fragrance, and commerce at their most intense."
+      },
+      {
+        "name": "Bangle Shops (Thakurdwar Road)",
+        "description": "Thakurdwar Road is lined with shops selling glass bangles — the chooda (bridal bangles) of Maharashtrian and Gujarati weddings, as well as everyday glass and lac bangles in every colour. The variety here is unmatched anywhere in the city. Bangle fitting (sizing bangles to your wrist) is done in-store with a technique that looks impossible but works every time."
+      },
+      {
+        "name": "Mangalsutra Lane",
+        "description": "A specific section of the market has shops specialising in mangalsutras — the black-beaded gold necklace that marks a married woman in the Maharashtrian tradition — and related Maharashtrian bridal jewellery. Both traditional Kolhapuri designs and contemporary interpretations are available."
+      },
+      {
+        "name": "Puja Samagri Wholesale",
+        "description": "The widest variety and best prices for religious paraphernalia in Mumbai — dhoop, agarbatti, kumkum, vibhuti, silver diyas, brass lamps, and puja thali sets — largely sold wholesale but available by the piece."
+      }
+    ],
+    "bestFor": ["Flower buyers", "Bangle shopping", "Religious articles", "Maharashtrian bridal shopping", "Old Mumbai culture experience", "Dawn photography"],
+    "bestTimeToVisit": "4:30–7:00 AM for the flower market; 10am–noon for bangles and shopping",
+    "openingHours": "4:00 AM – 9:00 PM (flower vendors from 4am; shops from 9am)",
+    "closedOn": "None",
+    "nearestStation": "Charni Road (Western Railway) — 15 min walk; Mumbadevi (Metro Line 3)",
+    "tips": "The flower market is a dawn experience — if you want to see it at its most extraordinary, arrive before 6am. For bangle fitting, the shopkeepers will collapse the bangles around your hand with a technique involving folded cloth — don't be alarmed, it is painless and precise. Bhuleshwar is best explored with a local guide or Hindi-speaking companion who can help navigate the lanes and translate; very few vendors here are English-comfortable. The Mumbadevi Temple itself is worth visiting regardless of your faith — it is one of the most significant temples in the city.",
+    "rating": 4.4,
+    "reviewCount": 21300,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Dadar Flower Market",
+    "slug": "dadar-flower-market-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "wholesale-market",
+    "categories": ["flowers", "food", "wholesale"],
+    "tagline": "The largest flower market in Maharashtra — a pre-dawn explosion of colour that supplies Mumbai's temples, weddings, and florists.",
+    "description": "The Dadar Flower Market — spread across the lanes around Dadar station and the Phule Market — is the wholesale distribution hub for all cut flowers entering Mumbai, and is widely considered the largest flower market in Maharashtra. The market operates from midnight through early morning, when wholesale buyers arrive to purchase flowers that have arrived overnight from farms in Nashik, Satara, Kolhapur, and the Nilgiris. By 4am the market is at peak activity: mountains of orange marigolds, cascading tuberose strings, buckets of Bangalore roses, baskets of Gerberas, chrysanthemum islands, and lotus blossoms — a sensory landscape of colour and fragrance that is genuinely overwhelming. The retail section of the market, which operates from around 5am, is open to individual buyers who can purchase flowers at prices that are a fraction of florist rates: roses at ₹5–10 per stem, marigold garlands at ₹20–40, tuberose strings at ₹15 per strand. The market is surrounded by vegetable and fruit wholesale vendors (the Phule Market), spice dealers, and the famous Dadar Shivaji Market on the other side of the station — making Dadar one of the most complete and authentic wholesale market experiences in the city.",
+    "knownFor": "Maharashtra's largest wholesale flower market, pre-dawn colour and fragrance, roses at ₹5 per stem, marigolds by the cartload, and a wholesale market experience unlike anything else in Mumbai",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8418, 19.0186]
+    },
+    "address": "Near Dadar Station (West), Phule Market Road, Dadar, Mumbai 400028",
+    "neighbourhood": "Dadar",
+    "budgetRange": { "min": 50, "max": 3000 },
+    "highlights": [
+      {
+        "name": "4am Peak Hour",
+        "description": "The market is at its most spectacular between 4–6am when every vendor is fully stocked and the wholesale bidding is active. The light at this hour — artificial market lights on cascades of flowers — is extraordinary for photography."
+      },
+      {
+        "name": "Rose Section",
+        "description": "Dadar receives Bangalore roses — the premium variety from farms in Karnataka — in enormous quantities. At retail rates (₹5–10 per stem), buying a hundred roses here costs less than a single bouquet from a florist."
+      },
+      {
+        "name": "Marigold Wholesale (Seasonal)",
+        "description": "During festival seasons (Diwali, Ganeshotsav, Navratri), the marigold section expands to consume entire streets. Thousands of garlands are sold here daily at ₹20–40 per string — the source supply for Mumbai's religious commerce."
+      },
+      {
+        "name": "Phule Vegetable Market (Adjacent)",
+        "description": "Right next to the flower market, the Phule Market handles the city's vegetable wholesale. Arriving early enough to see both markets simultaneously is a full sensory education in how Mumbai's food and ritual economy actually functions."
+      }
+    ],
+    "bestFor": ["Event and wedding flower buyers", "Early morning photographers", "Wholesale purchasers", "Festival flower buying", "Food and market enthusiasts"],
+    "bestTimeToVisit": "3:30–6:00 AM — the pre-dawn wholesale hours are the essential experience",
+    "openingHours": "12:00 AM – 9:00 AM (peaks 4–6am; winds down sharply after 8am)",
+    "closedOn": "None",
+    "nearestStation": "Dadar (Central and Western Railway) — 8 min walk",
+    "tips": "Wear clothes you don't mind getting pollen and mud on — the market floor is wet and the flowers are literally stacked in all directions. Bring a bag with handles; flower purchases tend to be bulky. Arrive before 5am to see the market at full capacity. Photography is welcomed by most vendors — asking first (a nod and pointing at your camera) is the right gesture. The best coffee in the vicinity is from the chai-and-vada-pav carts on the market periphery, operating from 4am.",
+    "rating": 4.7,
+    "reviewCount": 17900,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Palladium Mall",
+    "slug": "palladium-mall-mumbai",
+    "city": "69dfee1980a40390f02ed1fe",
+    "citySlug": "mumbai",
+    "type": "mall",
+    "categories": ["luxury", "fashion", "jewellery", "accessories", "footwear", "home-decor"],
+    "tagline": "Mumbai's luxury high street — the only place in the city where Gucci, Bottega, and Dior are neighbours.",
+    "description": "Palladium Mall in Lower Parel is the unambiguous pinnacle of luxury retail in Mumbai, and one of the finest luxury malls in India alongside Delhi's DLF Emporio and Select Citywalk. Opened in 2011 as an extension of the High Street Phoenix complex, Palladium was designed from the outset to bring international luxury brands to Mumbai for the first time at scale — and it succeeded. The ground floor and first floor house a roster of international luxury maisons that would not look out of place in Paris's 8th arrondissement or London's Bond Street: Gucci, Bottega Veneta, Burberry, Canali, Dior, Ermenegildo Zegna, Emporio Armani, Michael Kors, Jimmy Choo, Coach, Charles & Keith, and Swarovski. Indian luxury is strongly represented too: Sabyasachi (whose Mumbai flagship here is his largest outside his Calcutta studio), Anita Dongre, Abraham & Thakore, and Manish Arora. The food and hospitality offering is genuinely excellent — the mall's upper floors house Slink & Bardot, Indigo Deli, and the Bombay Brasserie, making Palladium a full evening destination. The architecture is well-considered — a double-height atrium with proper natural light, a design standard well above the typical Indian mall. This is the right destination for serious fashion buyers and anyone who wants to understand where Indian luxury retail has arrived.",
+    "knownFor": "International luxury brands (Gucci, Dior, Bottega Veneta), Sabyasachi Mumbai flagship, Anita Dongre, and the most refined mall retail environment in Mumbai",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [72.8283, 18.9944]
+    },
+    "address": "High Street Phoenix, 462, Senapati Bapat Marg, Lower Parel, Mumbai 400013",
+    "neighbourhood": "Lower Parel",
+    "budgetRange": { "min": 5000, "max": 500000 },
+    "highlights": [
+      {
+        "name": "Sabyasachi Mumbai Flagship",
+        "description": "The most important Indian luxury fashion destination in Mumbai — Sabyasachi's flagship occupies a dramatic double-height space designed like a curated home. Bridal sarees, ready-to-wear, and the signature Bengal tiger jewellery collection. An appointment is recommended for bridal consultation."
+      },
+      {
+        "name": "International Luxury Ground Floor",
+        "description": "The ground floor concentrates the most covetable international brands — Gucci, Bottega Veneta, Dior, and Burberry are the anchors. For international brands, Indian prices are typically 30–40% higher than European retail due to import duties, but the selection and experience are on par with European boutiques."
+      },
+      {
+        "name": "Anita Dongre & Indian Couture Section",
+        "description": "The Indian couture section of Palladium is genuinely strong — Anita Dongre's flagship, Raw Mango (Sanjay Garg's natural-dye silk label), and Ritu Kumar represent different points on the Indian luxury spectrum."
+      },
+      {
+        "name": "Slink & Bardot / Indigo Deli",
+        "description": "Slink & Bardot is one of Mumbai's best mid-market restaurants; Indigo Deli is the city's most reliable all-day café brand. Both are strong enough to justify a mall visit even without a shopping agenda."
+      }
+    ],
+    "bestFor": ["Luxury fashion buyers", "International brand shopping", "Bridal couture (Sabyasachi)", "Indian luxury fashion", "High-end gifting", "Food and retail combined evenings"],
+    "bestTimeToVisit": "Weekday afternoons — the mall is quieter and staff have more time for service",
+    "openingHours": "11:00 AM – 10:00 PM",
+    "closedOn": "None",
+    "nearestStation": "Lower Parel (Central Railway) — 5 min walk; or Elphinstone Road (Central) — 8 min walk",
+    "tips": "For Sabyasachi, booking an appointment for bridal wear is strongly recommended — walk-in service for couture is inconsistent. International luxury prices in India carry a significant import duty premium vs European or duty-free prices; if you're a frequent international traveller, you'll usually do better buying internationally. The High Street Phoenix complex attached to Palladium has more accessible mid-market brands (Zara, H&M, Marks & Spencer) if the Palladium price points are not your target.",
+    "rating": 4.5,
+    "reviewCount": 52000,
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "name": "Chandni Chowk",
+    "slug": "chandni-chowk-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "bazaar",
+    "categories": ["ethnic-wear", "jewellery", "spices", "food", "wholesale", "handicrafts", "accessories", "fabrics"],
+    "tagline": "The oldest and most overwhelming bazaar in Asia — 360 years of trade compressed into one living, roaring street.",
+    "description": "Chandni Chowk is not merely a market; it is the commercial heartbeat of Old Delhi and one of the most historically significant trading arteries in Asia. Laid out by Mughal emperor Shah Jahan in 1650 and designed by his daughter Jahanara Begum, the street was originally bisected by a canal that reflected moonlight — hence 'Chandni' (moonlight) 'Chowk' (square). What remains today is a 1.3-kilometre spine of extraordinary density running from the Red Fort westward to Fatehpuri Mosque, flanked by specialised sub-bazaars that have occupied the same lanes for centuries. The genius of Chandni Chowk lies in its hyperspecialisation: Dariba Kalan is the silver and jewellery street; Kinari Bazaar handles wedding accessories — zari lace, tinsel, and embellishments; Khari Baoli is Asia's largest spice market; Nai Sarak is for stationery and books; Ballimaran is the shoe lane made famous as the neighbourhood of poet Mirza Ghalib; Paranthewali Gali is a narrow lane where the same families have been frying parathas since 1875. The street was extensively pedestrianised and renovated in 2021, which has made it significantly more navigable for visitors without diminishing the essential chaos. The layering of Mughal, British, and post-independence commerce is visible in every block — a 17th-century mosque beside a British-era bank beside a smartphone repair stall. Shopping here demands preparation: know which sub-bazaar serves your purpose, arrive before noon, carry cash, and give yourself at least half a day. There is no comparable experience in Indian retail.",
+    "knownFor": "Dariba Kalan silver jewellery, Khari Baoli spices, Kinari Bazaar wedding accessories, Paranthewali Gali's legendary parathas, and the most complete living Mughal-era bazaar anywhere in the world",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2310, 28.6562]
+    },
+    "address": "Chandni Chowk Road, Old Delhi, Delhi 110006",
+    "neighbourhood": "Old Delhi",
+    "budgetRange": { "min": 100, "max": 500000 },
+    "highlights": [
+      {
+        "name": "Dariba Kalan (Silver Street)",
+        "description": "The jewellery lane of Chandni Chowk has been operational since the Mughal era. Today it is the best place in Delhi for silver jewellery — filigree work, antique-style pieces, and contemporary silver at prices well below mall rates. A few shops here also deal in gold and precious stones. Look for the old havelis (merchant mansions) above the shops — the architecture is as remarkable as the merchandise."
+      },
+      {
+        "name": "Khari Baoli (Asia's Largest Spice Market)",
+        "description": "A short walk from the main street, Khari Baoli is Asia's largest wholesale spice market — a fact that hits you physically as you enter, with cumulative layers of dried red chilli, turmeric, black pepper, cardamom, and dozens of more obscure spices creating an atmosphere that makes your eyes water in the best possible way. Wholesale prices on spices, dried fruits, nuts, herbs, and ayurvedic ingredients are a fraction of supermarket rates. The visuals — sacks of brilliantly coloured spice piled higher than head height — are extraordinary."
+      },
+      {
+        "name": "Kinari Bazaar (Wedding Accessories)",
+        "description": "The lane dedicated to everything that makes a North Indian wedding glitter. Zari and zardosi lace, tinsel decorations, artificial flowers, sequinned borders, wedding turbans (sehras), and the entire taxonomy of North Indian bridal accessories. Also excellent for Diwali and festival decorations. Prices are wholesale; minimums are often negotiable. This is the source market for every wedding decorator in Delhi."
+      },
+      {
+        "name": "Paranthewali Gali (Paratha Lane)",
+        "description": "A narrow lane where three families — the Gaya Prasad Shiv Charan dynasty being the most famous — have been frying parathas stuffed with forty varieties of filling since the 1870s. Rabri paratha, dry fruit paratha, potato paratha, banana paratha — cooked on massive tavas in pure desi ghee and served with tamarind chutney and yoghurt. A mandatory stop that has nothing to do with shopping and everything to do with understanding why people love Old Delhi."
+      },
+      {
+        "name": "Fatehpuri Masjid End (Fabric Wholesale)",
+        "description": "The western end of Chandni Chowk near Fatehpuri Mosque is dominated by fabric wholesale — cotton, silk, brocade, linen, and synthetic blends sold by the metre at wholesale rates. This is where Delhi's tailors and garment manufacturers source material, and where the discerning buyer can find extraordinary fabric at prices unavailable elsewhere in the city."
+      }
+    ],
+    "bestFor": ["Wholesale buyers", "Bridal shopping", "Spice and food shopping", "History and architecture enthusiasts", "Silver jewellery", "Fabric sourcing", "Street food lovers"],
+    "bestTimeToVisit": "Weekday mornings (9am–12pm) — before afternoon heat and maximum crowd; avoid Sunday when several shops close",
+    "openingHours": "9:00 AM – 8:00 PM (sub-bazaars vary; Khari Baoli from 8am)",
+    "closedOn": "Sunday (many shops; Khari Baoli specifically closed Sunday)",
+    "nearestStation": "Chandni Chowk (Yellow Line Metro) — direct access",
+    "tips": "Divide your visit by sub-bazaar and go to each with a specific purpose — trying to see everything without a plan leads to decision paralysis. For spices at Khari Baoli, buy whole spices (not pre-ground) for far superior flavour. In Kinari Bazaar, prices are quoted per metre or per piece; ask for the 'wholesale rate' (thekedari rate) even as an individual buyer — you'll often get it. The best paratha in Paranthewali Gali is Pandit Gaya Prasad Shiv Charan at the entrance of the lane — it is also the most crowded, and deservedly so. Carry only cash; UPI is accepted in some fixed shops but almost nowhere on pavement stalls. The Jain temple on Chandni Chowk road (Digambara Jain temple, near the Red Fort end) has a bird hospital on its upper floor — a surreal and moving detour.",
+    "rating": 4.6,
+    "reviewCount": 87000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Dilli Haat",
+    "slug": "dilli-haat-ina-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "craft-market",
+    "categories": ["handicrafts", "ethnic-wear", "jewellery", "home-decor", "art", "food"],
+    "tagline": "All of India's crafts under one canopy — the government's most successful attempt to bring artisans to the capital.",
+    "description": "Dilli Haat INA (there are now three Dilli Haats in Delhi, but the INA original remains the most significant) is one of the most intelligent retail experiments the Indian government has ever executed. Conceived in 1994 by DCCWS and designed by architect Asha Bhosle (not the singer), the market was built as a rotating, subsidised stall platform where artisans and weavers from every Indian state could sell their crafts directly to Delhi consumers — cutting out the middlemen who typically consume 60-80% of artisan income. The concept succeeded beyond expectations. Today, the INA Haat's 62 permanent craft stalls rotate on a two-week cycle, meaning on any visit you encounter a different configuration of states and crafts. What remains constant is the overall coverage: Madhubani paintings from Bihar, Channapatna wooden toys from Karnataka, blue pottery from Jaipur, Pattachitra scroll paintings from Odisha, Kashmiri walnut-wood carving, pashmina shawls, Bastar Dhokra metal casting, Benarasi brocade, Kanchipuram silk, Manipuri woven textiles, bamboo work from the Northeast, and the intricate embroideries of Lucknow's chikankari. The food court at Dilli Haat — where state food stalls run by the same rotation system — is arguably the best place in Delhi to eat your way across India in a single afternoon: Assamese thali next to Rajasthani dal baati next to Bengali fish curry next to Goan sorpotel. The entry fee (₹30 for adults) has the effect of keeping the market calm and genuine. Dilli Haat is how India presents its best craft inheritance to a domestic urban audience, and it largely succeeds.",
+    "knownFor": "Rotating state craft stalls from all 28 states, direct artisan sales, multi-state food court, Kashmiri textiles, South Indian silk, tribal metalwork, and the best single-stop craft shopping in Delhi",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2090, 28.5678]
+    },
+    "address": "Sri Aurobindo Marg, INA Colony, New Delhi 110023",
+    "neighbourhood": "INA / South Delhi",
+    "budgetRange": { "min": 300, "max": 100000 },
+    "highlights": [
+      {
+        "name": "Rotating State Craft Stalls",
+        "description": "Every two weeks, the stall occupants change, which means Dilli Haat rewards repeat visits. The craft portfolio is curated by DCCWS and favours genuine artisanal work over mass-produced imitations. Ask stall owners about their techniques — most are practising craftspeople, not traders, and are happy to demonstrate."
+      },
+      {
+        "name": "Kashmiri Textiles Corner",
+        "description": "The Kashmiri stalls — which tend to occupy a corner of the market as near-permanent fixtures due to demand — carry pashmina shawls (look for the 4-ply hand-spun quality), Kani weave (the interlocking-weft technique that creates the distinctive pictorial tapestry patterns), and hand-embroidered sozni shawls. Prices are significantly lower than Delhi's commercial Kashmiri stores."
+      },
+      {
+        "name": "State Food Court",
+        "description": "The food court at Dilli Haat operates on the same stall-rotation system as the crafts and is the best place in Delhi to eat representative food from states you might never otherwise encounter — Sikkim, Manipur, Assam, Chhattisgarh. The Gujarat stall's dal dhokli and the Rajasthan stall's laal maas are reliably outstanding."
+      },
+      {
+        "name": "Jewellery Section",
+        "description": "The jewellery stalls cover tribal silver from Rajasthan and Madhya Pradesh, contemporary Dhokra-cast metal pieces, beaded work from Gujarat, Bidriware from Karnataka, and meenakari from Jaipur. Prices are fixed (this is artisan-direct retail with government oversight) but are fair and significantly below commercial jewellery stores."
+      }
+    ],
+    "bestFor": ["Craft collectors", "Ethical shopping", "One-stop India crafts", "Food tourism", "Gift buying", "Textile enthusiasts", "Weekend family outings"],
+    "bestTimeToVisit": "Weekday afternoons — the market is less crowded and artisans have time to talk; avoid holiday weekends when it fills completely",
+    "openingHours": "10:30 AM – 9:00 PM",
+    "closedOn": "None (open all 7 days)",
+    "nearestStation": "INA (Yellow Line Metro) — 5 min walk",
+    "tips": "Check the DCCWS website or call ahead to see which states are currently represented — the rotation schedule is posted. Fixed prices at Dilli Haat mean the bargaining culture of other markets doesn't apply; the prices shown are the actual prices. For pashmina, do the ring test (a genuine pashmina shawl passes through a finger ring) and burn test (genuine pashmina burns like hair, not plastic) — fake pashmina is widely sold everywhere in Delhi and the Dilli Haat selection is more trustworthy than commercial shops. The food court is at its most interesting during regional food festivals (announced on the noticeboard at the entrance).",
+    "rating": 4.4,
+    "reviewCount": 48000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Sarojini Nagar Market",
+    "slug": "sarojini-nagar-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "street-market",
+    "categories": ["street-fashion", "footwear", "accessories", "export-surplus", "ethnic-wear"],
+    "tagline": "Delhi's fashion democracy — branded export surplus and street style at prices that make mall shopping feel criminal.",
+    "description": "Sarojini Nagar Market is the most democratically loved shopping destination in Delhi — a sprawling complex of fixed shops, covered arcades, and open pavement stalls in South Delhi that has been the backbone of working-class and middle-class Delhi fashion for over five decades. The market's defining product is export surplus: garments manufactured in Delhi's massive export garment industry for international brands (H&M, Zara, Gap, Next, Marks & Spencer) that were rejected for minor faults — a misaligned seam, a small stain, an incorrect size label — and redirected into this market at prices that are 80–95% below what the same garment would sell for internationally. The labels are cut out, but the garment is otherwise identical. At peak times — Saturday and Sunday afternoons — Sarojini becomes one of the most densely crowded retail environments in India, with every shop fronted by a pavement stall and every lane between the stalls jammed with shoppers moving in two directions simultaneously. The merchandise is refreshed constantly: the turnover of export surplus is irregular and batch-driven, which means what you see today will be gone in a week. Regular Sarojini shoppers come every two weeks and know which stall managers call them when new stock arrives. Beyond export surplus, the market has a strong section of domestic fashion — printed cotton kurtas, leggings, palazzo pants, sarees, and the cycle of fast-fashion that Delhi's garment factories produce in enormous volume. The food periphery of Sarojini is also genuinely good — the pav bhaji and chaat stalls on the outer ring have been here for decades.",
+    "knownFor": "Export-surplus branded garments at 80–95% below retail, fast fashion, printed kurtas, and the quintessential Delhi shopping experience for value fashion",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.1992, 28.5745]
+    },
+    "address": "Sarojini Nagar Market, Sarojini Nagar, New Delhi 110023",
+    "neighbourhood": "Sarojini Nagar",
+    "budgetRange": { "min": 100, "max": 5000 },
+    "highlights": [
+      {
+        "name": "Export Surplus Blocks (Inner Arcade)",
+        "description": "The inner covered arcades of the main market are the highest concentration of export surplus — this is where you find the H&M and Zara-quality pieces. Prices range from ₹150 to ₹800 for most garments. The key is to go through everything; the good pieces are mixed with mediocre ones and there is no curation. Budget two hours for a serious pass through the arcades."
+      },
+      {
+        "name": "Pavement Stalls (Outer Ring)",
+        "description": "The pavement stalls on the outer ring of the market trade in cheaper domestic fast fashion — kurtas from ₹100, three-for-₹200 deals on socks, leggings at ₹120. This is where Delhi college students buy their wardrobe. Quality is variable but prices are extraordinary. Bargaining is aggressive and expected here."
+      },
+      {
+        "name": "Footwear Lane",
+        "description": "One lane of the market specialises in footwear — juttis (Punjabi embroidered shoes), kolhapuri sandals, block-heeled mules, and both domestic and export-surplus Western shoes. Prices are ₹200–800 for most pieces. The juttu selection is particularly strong and significantly cheaper than Dilli Haat or boutique stores."
+      },
+      {
+        "name": "Accessories and Jewellery Stalls",
+        "description": "Scattered through the market are stalls selling oxidised silver jewellery, beaded earrings, hair accessories, belts, and bags. These are mostly Rajasthan-manufactured and extremely well priced. The sunglasses stalls carry export surplus optical-grade frames at ₹100–300."
+      }
+    ],
+    "bestFor": ["Value fashion hunters", "Export surplus garments", "Student shoppers", "Casual kurtas and ethnic wear", "Footwear", "Weekend shopping trips"],
+    "bestTimeToVisit": "Weekday mornings (10am–1pm) — best stock, least crowded; weekends are maximum crowd but also maximum energy",
+    "openingHours": "10:00 AM – 8:30 PM",
+    "closedOn": "Monday",
+    "nearestStation": "Sarojini Nagar (Yellow Line Metro) — 7 min walk",
+    "tips": "Go early in the week — the best export surplus pieces get picked over quickly. Learn to identify export surplus from domestic stock: look for fabric quality, construction finishing, and the tell-tale cut label stub inside the collar or waistband. Bargaining works differently here: pavement stalls are very negotiable (offer 60%), fixed shops are lightly negotiable (10–15% off). Don't go on a Saturday afternoon unless you genuinely enjoy being in a crowd of 50,000 people in a 200-metre radius. Bring a large tote bag — the market's pace doesn't allow for careful accumulation in small bags. The pav bhaji at the stalls outside the south entrance is one of the better versions in South Delhi.",
+    "rating": 4.3,
+    "reviewCount": 74000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Khan Market",
+    "slug": "khan-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "market",
+    "categories": ["books", "fashion", "home-decor", "food", "luxury", "jewellery"],
+    "tagline": "Delhi's most expensive retail address — where diplomats, journalists, and old money buy books, wine, and bespoke kurtas.",
+    "description": "Khan Market has the distinction of being among the most expensive retail real estate in Asia — repeatedly ranking alongside Bond Street in London and Fifth Avenue in New York in commercial property valuation surveys. It occupies about 300 metres of prime Lutyens' Delhi real estate between Lodhi Road and Subramania Bharti Marg, and its clientele is what urban sociologists call the 'Khan Market crowd' — a shorthand in Delhi political culture for the English-speaking, liberal, professionally established residents of South Delhi, Lutyens' Delhi, and diplomatic enclaves. The market was originally built in 1951 as a refugee rehabilitation market for Partition migrants and was named after Khan Abdul Jabbar Khan. It evolved slowly through the 1960s and 70s into a neighbourhood market, then accelerated dramatically from the 1990s onwards as the diplomatic and media communities of nearby Chanakyapuri and Jorbagh drove up footfall and rents. Today the market's 150-odd shops are a careful mix of the old and new: Bahrisons Booksellers (est. 1953), one of the finest independent bookshops in India, sits alongside Good Earth (India's most refined home decor brand), Anokhi (the Jaipur block-print brand's Delhi flagship), the Full Circle bookshop and café, and a restaurant row that includes Latitude 28, Amici, Big Chill, and the famous Bengali Sweet House. It is the market where Delhi buys curated Indian crafts, good literature, and excellent food in a single civilised hour. Rents have pushed out many original occupants and several critics argue Khan Market has become too homogenised; this is a fair point, but the quality of what remains is genuinely high.",
+    "knownFor": "Bahrisons Booksellers, Good Earth home decor, Anokhi block prints, the 'Khan Market crowd', and the most curated and upscale neighbourhood market in Delhi",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2271, 28.5999]
+    },
+    "address": "Khan Market, New Delhi 110003",
+    "neighbourhood": "Khan Market / Lutyens' Delhi",
+    "budgetRange": { "min": 500, "max": 200000 },
+    "highlights": [
+      {
+        "name": "Bahrisons Booksellers (Est. 1953)",
+        "description": "One of Delhi's — and India's — most beloved independent bookshops, run by the Bahri family for three generations. The selection is extraordinary for Indian fiction, Indian history, Indian art and architecture, and current affairs. The staff have genuine knowledge and the shop hosts regular author events. Prices are fixed MRP (no discounts) but the selection justifies every rupee."
+      },
+      {
+        "name": "Good Earth",
+        "description": "India's most prestigious home decor and lifestyle brand, rooted in Indian craft traditions but reinterpreted through a sophisticated contemporary lens. Block-printed linens, handmade ceramics, artisanal candles, Kashmiri crewelwork cushions, and Indian fine dining tableware. Expensive relative to craft markets, but the design quality and material finishing are in a different league. The Khan Market store is their most complete."
+      },
+      {
+        "name": "Anokhi",
+        "description": "The Jaipur-based brand that pioneered ethical Indian block-print garment retail for educated urban consumers. Hand-block-printed cotton kurtas, shirts, dresses, and home textiles using traditional Rajasthani techniques with contemporary colour and pattern. Prices are higher than Sarojini Nagar but the quality of fabric, printing, and ethical sourcing is not comparable."
+      },
+      {
+        "name": "Restaurant Row",
+        "description": "The back lane of Khan Market has a strong restaurant cluster: Big Chill (one of Delhi's most enduringly popular café-restaurants, famous for pasta and cheesecake), Amici, and a handful of other mid-to-upscale options. Bengali Sweet House, the market's oldest food institution, does Kolkata-style sweets and a surprisingly good North Indian thali."
+      }
+    ],
+    "bestFor": ["Book lovers", "Curated Indian home decor", "Block-print fashion", "Diplomatic community", "Upscale dining", "Gifting"],
+    "bestTimeToVisit": "Weekday mornings — parking and pace are manageable; weekends and evenings can be difficult to navigate",
+    "openingHours": "10:00 AM – 9:00 PM (restaurants until 11pm)",
+    "closedOn": "Some shops closed Sunday",
+    "nearestStation": "Khan Market (Violet Line Metro) — 5 min walk",
+    "tips": "Parking in Khan Market is genuinely difficult — take the Metro or auto-rickshaw. Good Earth prices are high but the annual sale (typically in January and July) offers 20–30% reductions. Bahrisons frequently hosts author signings and talks — follow their social media for events. The market's back lane (the inner road behind the main market) is quieter and has several interesting smaller shops that first-time visitors miss entirely. Bengali Sweet House is cash-only and closes early — arrive before 8pm for sweets.",
+    "rating": 4.5,
+    "reviewCount": 58000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Lajpat Nagar Central Market",
+    "slug": "lajpat-nagar-central-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "market",
+    "categories": ["ethnic-wear", "fabrics", "jewellery", "accessories", "home-decor", "street-fashion"],
+    "tagline": "The heartbeat of South Delhi's Punjabi commercial culture — the finest sarees, suits, and bridal wear outside of Chandni Chowk.",
+    "description": "Lajpat Nagar Central Market is the dominant commercial hub of South Delhi's largest Punjabi residential neighbourhood, and it is one of those markets that perfectly mirrors the culture of the people it serves. The original settlers of Lajpat Nagar were largely Punjabi refugees from the 1947 Partition — families from Lahore, Rawalpindi, and Multan who brought with them a specific commercial energy, an appetite for bright colour, and an understanding of the good things in life that has defined the neighbourhood ever since. The Central Market, built in the 1950s on a grid layout around a wide central pedestrian road, today extends across several blocks and contains nearly 400 shops, most of them family-run for two and three generations. The core merchandise is women's ethnic wear: salwar-kameez suits in cotton, silk, and georgette; heavily embroidered party wear; Banarasi and Kanjeevaram sarees; phulkari dupattas (the Punjabi embroidery tradition using silk thread on a cotton base); and an extraordinary selection of bridal lehengas that are aggressively priced relative to boutique stores. The Central Market also has a strong accessories section — artificial jewellery (imitation gold and kundan sets), bangles, and bridal accessories that are the backbone of every Delhi middle-class wedding. Food within the market is excellent — the market has several legendary restaurants including Sonu's Halwai and Roshan Di Kulfi, and the pav bhaji and chaat carts on the main strip are among the best in the city.",
+    "knownFor": "Embroidered Punjabi suits and phulkari, Banarasi sarees, bridal lehengas, imitation bridal jewellery, and South Delhi's best street food in a market setting",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2369, 28.5672]
+    },
+    "address": "Central Market, Lajpat Nagar II, New Delhi 110024",
+    "neighbourhood": "Lajpat Nagar",
+    "budgetRange": { "min": 300, "max": 80000 },
+    "highlights": [
+      {
+        "name": "Phulkari and Punjabi Suit Shops",
+        "description": "The most distinctive merchandise of Lajpat Nagar is phulkari — the Punjabi embroidery technique using silk thread woven on cotton base to create geometric and floral patterns. The best shops here carry authentic phulkari dupattas and suits, distinguishable from machine-made imitations by the irregularity of handwork and the density of the thread. Prices range from ₹800 for machine-made versions to ₹8,000 for genuine hand-embroidered phulkari."
+      },
+      {
+        "name": "Saree Section (Block C & D)",
+        "description": "Lajpat Nagar's saree shops are among the best-stocked in South Delhi — Banarasi brocade, Kanjivaram silk, Lucknowi chikankari, Bandhani from Gujarat, and the everyday cotton sarees of Maharashtra and Bengal. Prices are negotiable at most shops. The range at the mid-budget level (₹1,500–8,000) is excellent."
+      },
+      {
+        "name": "Bridal Accessories Street",
+        "description": "A specific block of the market specialises in everything a North Indian bride needs except the dress itself: imitation jewellery sets (polki-look, kundan-look, gold-plated temple sets), chooda (Punjabi bridal bangles), maang tikka, nath, and the dozens of hair and hand ornaments of a full Punjabi wedding. Prices are dramatically lower than jewellery shops."
+      },
+      {
+        "name": "Food Carts and Halwais",
+        "description": "The food of Lajpat Nagar is inseparable from the shopping experience. The Roshan Di Kulfi stall near the main roundabout has been here since the 1940s; the pav bhaji carts on the main strip are excellent; and several halwai shops produce old-Lahori sweets — til rewdi, gur ke ladoo, and besan barfi — that are increasingly hard to find anywhere else."
+      }
+    ],
+    "bestFor": ["Women's ethnic wear", "Phulkari and Punjabi embroidery", "Bridal accessories", "Saree shopping", "Budget party wear", "Street food"],
+    "bestTimeToVisit": "Weekday evenings (5–8pm) when the market is fully active and street food carts are at their best; avoid Saturday afternoons",
+    "openingHours": "10:30 AM – 9:00 PM",
+    "closedOn": "Monday",
+    "nearestStation": "Lajpat Nagar (Violet Line Metro) — 5 min walk",
+    "tips": "The best phulkari shops are in the inner lanes of the market — the main street shops cater to tourists with machine-made substitutes. Ask specifically for 'haath ka kaam' (handwork) and check the back of the embroidered section to distinguish genuine hand-embroidery from machine work. For sarees, prices are quoted for the drape length (5.5 metres); blouse fabric is extra. Lajpat Nagar is best navigated by walking one block at a time — the layout is a grid and it is easy to miss entire sections by staying on the main drag.",
+    "rating": 4.4,
+    "reviewCount": 61000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "DLF Emporio",
+    "slug": "dlf-emporio-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "mall",
+    "categories": ["luxury", "fashion", "jewellery", "accessories", "footwear", "home-decor"],
+    "tagline": "India's finest luxury mall — the only address in the country where Dior, Valentino, and Sabyasachi share a corridor.",
+    "description": "DLF Emporio in Vasant Kunj is widely recognised as the finest luxury retail mall in India — a distinction it has held since its opening in 2008 with a consistency that has survived the rise of several competitors. The building itself — a climate-controlled, six-storey structure with a dramatic central atrium, stone floors, and lighting designed for luxury — is the right physical container for what it houses: the most complete collection of international luxury brands under one roof in the subcontinent. The ground and first floors carry the established European luxury houses: Louis Vuitton, Christian Dior, Gucci, Prada, Salvatore Ferragamo, Valentino, Bottega Veneta, Burberry, Hugo Boss, Versace, Armani, and Canali. The upper floors are where Emporio distinguishes itself from international competitors by giving equal prominence to Indian luxury — Sabyasachi (whose Delhi flagship here is the brand's definitive expression), Tarun Tahiliani, Manish Malhotra, Abraham & Thakore, Ritu Kumar, and a curated selection of emerging Indian luxury designers. The jewellery offer is exceptional: Tanishq's premium Mia line, Nirav Modi, Hazoorilal, and international watchmakers including Rado and Omega. The food and hospitality offering includes Threesixty (a Marriott restaurant) and a rooftop bar. DLF Emporio is where old Delhi money buys wedding couture, where visiting NRIs invest in luxury Indian fashion, and where Delhi's corporate elite shops internationally without the international plane ticket.",
+    "knownFor": "India's most complete international luxury brand roster, Sabyasachi Delhi flagship, Tarun Tahiliani and Manish Malhotra couture, premier Indian and international jewellery, and the definitive luxury retail experience in the country",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.1497, 28.5495]
+    },
+    "address": "DLF Emporio Mall, Nelson Mandela Marg, Vasant Kunj, New Delhi 110070",
+    "neighbourhood": "Vasant Kunj",
+    "budgetRange": { "min": 8000, "max": 5000000 },
+    "highlights": [
+      {
+        "name": "Sabyasachi Delhi Flagship",
+        "description": "The most important destination for Indian luxury fashion in Delhi — and arguably in India. The Emporio store is Sabyasachi's largest and most theatrically presented retail space: a double-height interior designed as a curated inhabited space, with the Bengal tiger motif running through the architecture. Bridal sarees (₹80,000–500,000), Bengal tiger jewellery, ready-to-wear, and home accessories. Bridal consultations require appointments booked weeks in advance."
+      },
+      {
+        "name": "International Luxury Floor",
+        "description": "The ground floor concentration of Louis Vuitton, Dior, Gucci, Prada, and Valentino is on par with comparable luxury malls in Dubai or Singapore for service and selection. Prices reflect Indian import duties (typically 30–40% above European retail), but the experience and brand authenticity are unimpeachable. The LV store is Delhi's largest and most fully stocked."
+      },
+      {
+        "name": "Tarun Tahiliani",
+        "description": "India's most internationally recognised couturier — his Emporio store carries his complete prêt-à-couture line, bridal wear, and his saree collection (the draped sari gown that has become a signature). Tahiliani's work fuses Mughal textile traditions with contemporary structure; the price reflects that craftsmanship."
+      },
+      {
+        "name": "Jewellery Level",
+        "description": "The jewellery offering at Emporio is the strongest in any Delhi mall: Nirav Modi's dramatic diamond solitaires, Hazoorilal (Delhi's oldest jewellery house), Orra (contemporary diamonds), and a selection of boutique fine jewellers. For watches, Rado and Omega maintain full showcase boutiques."
+      }
+    ],
+    "bestFor": ["International luxury fashion", "Indian couture and bridal", "Luxury gifting", "Premium watches and jewellery", "Corporate and diplomatic clientele", "NRI fashion investment"],
+    "bestTimeToVisit": "Weekday afternoons — the mall is significantly quieter and staff attention is undivided; wedding season (Oct–Feb) brings maximum bridal shopping energy",
+    "openingHours": "11:00 AM – 9:30 PM",
+    "closedOn": "None",
+    "nearestStation": "Vasant Vihar (Pink Line Metro) — 15 min auto-rickshaw; no direct Metro access",
+    "tips": "For Indian couture (Sabyasachi, Tarun Tahiliani), appointment-based visits for bridal consultation are standard and strongly recommended — walk-ins are served but not with full attention. International brand prices at Emporio carry the full Indian import duty; if you travel internationally regularly, major purchases are always better made at duty-free or abroad. The annual sale (typically in January and August) at Emporio offers some of the few genuine luxury discounts available in India. Valet parking is available and recommended — the parking structure is large but navigating it independently is time-consuming.",
+    "rating": 4.6,
+    "reviewCount": 43000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Janpath Market",
+    "slug": "janpath-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "street-market",
+    "categories": ["street-fashion", "accessories", "jewellery", "handicrafts", "ethnic-wear", "home-decor"],
+    "tagline": "The tourist street done right — Janpath is where you find the whole of India's craft output in one negotiable, raucous kilometre.",
+    "description": "Janpath — meaning 'People's Road' — runs south from Connaught Place through the heart of New Delhi, and the market that has colonised its pavements and the adjacent Tibetan Market is the best general-purpose craft-and-accessories shopping street in the capital. What makes Janpath work is the combination of Tibetan refugee traders (present since the early 1960s when Tibetan exiles settled in Delhi after the Chinese annexation of Tibet) and Rajasthani and Gujarati craft vendors who have occupied the outer pavement stalls since the 1970s. The result is a street that sells — within a hundred metres — Tibetan singing bowls, silver jewellery from Jaipur, block-printed cotton kurtis, leather sandals, Kashmiri papier-mâché boxes, Rajasthani mirror-work bags, printed bedcovers, carved wooden figures, aromatic incense, and every category of accessory from bangles to brass door knockers. The Tibetan Market (a covered arcade running perpendicular to Janpath) is the more organised section, where Tibetan families sell genuine Himalayan crafts: yak-bone jewellery, Buddhist prayer wheels, silver gau (prayer boxes), thangka paintings, and the characteristic turquoise-and-coral-bead necklaces of Tibetan women. The outer stalls are more chaotic but often cheaper. Janpath is bargaining territory — the opening prices are typically 3–5x the fair price, and the negotiation is understood to be part of the transaction. Tourists flock here, which has driven some prices up, but compared to airport shops or hotel boutiques, Janpath remains excellent value.",
+    "knownFor": "Tibetan handicrafts, Rajasthani silver jewellery, block-printed cotton, leather accessories, and the most accessible tourist craft market in central Delhi",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2195, 28.6249]
+    },
+    "address": "Janpath Road, Connaught Place, New Delhi 110001",
+    "neighbourhood": "Connaught Place",
+    "budgetRange": { "min": 100, "max": 15000 },
+    "highlights": [
+      {
+        "name": "Tibetan Market (Covered Arcade)",
+        "description": "The covered section of Janpath Market is operated primarily by Tibetan refugee families and carries genuine Himalayan crafts that are harder to find elsewhere in Delhi. Thangka paintings (hand-painted Buddhist scroll art), prayer wheels, Tibetan singing bowls, yak-bone and turquoise jewellery, and silver gau pendants. The families here have been in the same stalls for two and three generations — the provenance of their Tibetan crafts is more reliable than the street stalls."
+      },
+      {
+        "name": "Silver Jewellery Row",
+        "description": "The outer pavement stalls of Janpath have an excellent concentration of Jaipur-style silver jewellery — oxidised silver earrings, chunky statement necklaces, beaded bracelets, and toe rings. Quality varies enormously; the silver content is real in most cases (German silver/alpaca is the exception, which is a copper-nickel alloy) but the craftsmanship varies. Inspect construction before buying."
+      },
+      {
+        "name": "Block-Print Cotton Section",
+        "description": "The fabric and garment section of Janpath carries block-printed cotton kurtis, kurta sets, dupattas, and the bedcovers (razais and duvet covers) that are the most popular buy for visitors. Prices at ₹200–600 for a kurti are significantly below boutique prices for comparable work. Genuine hand-block printing is identifiable by slight irregularity; machine-printed copies are available too."
+      },
+      {
+        "name": "Leather Accessories Stalls",
+        "description": "A cluster of stalls at the southern end of Janpath specialises in leather — bags, belts, sandals, and wallets sourced from Agra and Delhi's leather factories. Buffalo leather at these prices (₹300–1200) is good value, though inspection is important. The Kolhapuri sandal stalls here have the best selection of their type in central Delhi."
+      }
+    ],
+    "bestFor": ["Tourists and first-time Delhi visitors", "Silver jewellery", "Tibetan handicrafts", "Block-print cotton", "Budget accessories", "Souvenir shopping"],
+    "bestTimeToVisit": "Weekday mornings (10am–1pm) — best selection and less aggressive bargaining pressure than evenings",
+    "openingHours": "10:00 AM – 8:00 PM",
+    "closedOn": "Sunday (Tibetan Market closed; outdoor stalls may operate)",
+    "nearestStation": "Rajiv Chowk (Yellow and Blue Lines) — 7 min walk",
+    "tips": "Start your bargaining at 25–30% of the quoted price; the final settled price is typically 40–50%. Do not buy the first item you like — walk the entire market first to understand the price range for what you want, then come back to the best vendor. The covered Tibetan arcade prices are slightly higher but more reliable for quality. Genuine thangka paintings require significant time and skill; very cheap thangkas (under ₹1,500) are machine-printed reproductions. For silver, ask the vendor to confirm whether the piece is sterling silver (92.5%), alpaca/German silver (nickel alloy), or plated — the answers will be revealing. Being direct and cheerful in bargaining produces better results than aggressive tactics.",
+    "rating": 4.2,
+    "reviewCount": 55000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Karol Bagh Market",
+    "slug": "karol-bagh-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "market",
+    "categories": ["bridal-wear", "jewellery", "ethnic-wear", "electronics", "footwear", "accessories"],
+    "tagline": "Delhi's bridal heartland — where every family in North India comes to build a daughter's trousseau.",
+    "description": "Karol Bagh is one of Delhi's oldest and densest commercial neighbourhoods — a Partition-era market that grew from a refugee rehabilitation settlement into the city's primary bridal and trousseau market. The geography of Karol Bagh commerce runs across several interconnected streets — Ajmal Khan Road (the main artery), Bank Street, Arya Samaj Road, and the lanes between them — with different specialisations stacked on top of each other in a density that rewards careful navigation. The bridal jewellery shops of Karol Bagh are its greatest claim to significance: dozens of large jewellery houses on Ajmal Khan Road and Bank Street selling gold bridal sets (22K), diamond solitaires, polki and kundan sets, and silver articles at prices that — despite Karol Bagh's upmarket drift in recent years — remain 15–30% below equivalent mall stores. The bridal wear shops — lehengas, embroidered sarees, bridal salwar suits — represent the full range from mass market to semi-bridal couture. Beyond bridal, Karol Bagh has an excellent electronics market on Gaffar Market Road (one of Delhi's best sources for mobile phones, accessories, and second-hand electronics), a strong footwear section (particularly in the lanes off Ajmal Khan Road), and a wholesale fabric market (Moti Nagar end) that supplies Delhi's tailoring community. The food culture of Karol Bagh — Old Delhi–style street food adapted for a wealthier neighbourhood — is excellent: the paranthe at Roshan Di Kulfi, the chhole bhature at Nand Di Hatti, and the decades-old halwai shops.",
+    "knownFor": "Gold and diamond bridal jewellery, bridal lehengas, Gaffar Market electronics, wholesale fabric, and the most complete North Indian trousseau-building experience in one neighbourhood",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.1896, 28.6516]
+    },
+    "address": "Ajmal Khan Road, Karol Bagh, New Delhi 110005",
+    "neighbourhood": "Karol Bagh",
+    "budgetRange": { "min": 500, "max": 2000000 },
+    "highlights": [
+      {
+        "name": "Jewellery Showrooms (Ajmal Khan Road & Bank Street)",
+        "description": "The premium jewellery belt of Karol Bagh runs the length of Ajmal Khan Road and into Bank Street — large glass-front showrooms carrying BIS-hallmarked 22K gold bridal sets, diamond jewellery, and silver. Major names include PC Jeweller, Brijwasi, and several long-established family houses. Making charges are negotiable; prices are more competitive than mall stores for equivalent quality."
+      },
+      {
+        "name": "Gaffar Market (Electronics)",
+        "description": "A short walk from the main road, Gaffar Market is one of Delhi's best electronics markets — new and refurbished mobile phones, accessories, laptop components, headphones, and consumer electronics at prices well below retail. The market also has a robust second-hand phone trade. Buyer awareness is required: check IMEI numbers on phones and ask for bills for new purchases."
+      },
+      {
+        "name": "Bridal Lehenga Street",
+        "description": "Several streets off Ajmal Khan Road specialise in bridal and semi-bridal lehengas — the heavy embroidered three-piece ensembles worn by North Indian brides. The range is from ₹5,000 for a ready-made party lehenga to ₹200,000 for a heavily hand-embroidered bridal piece. Custom stitching with fabric of your choice is available from most shops."
+      },
+      {
+        "name": "Wholesale Fabric (Moti Nagar Side)",
+        "description": "The western end of the Karol Bagh commercial area near Moti Nagar has a significant wholesale fabric market — brocade, georgette, chanderi, and raw silk sold by the metre. This is where Delhi's boutique tailors source their fabric; individual buyers are welcome and the prices reflect wholesale rates."
+      }
+    ],
+    "bestFor": ["Bridal jewellery shopping", "Trousseau building", "Electronics and mobile phones", "Bridal lehengas", "Wholesale fabric", "Complete North Indian wedding shopping"],
+    "bestTimeToVisit": "Weekday mornings — before the afternoon heat and without weekend bridal shopping crowds; the market is at its busiest in wedding season (Oct–Feb)",
+    "openingHours": "10:30 AM – 9:00 PM",
+    "closedOn": "Sunday (many shops)",
+    "nearestStation": "Karol Bagh (Blue Line Metro) — 5 min walk",
+    "tips": "For gold jewellery, always check the BIS hallmark and ask for the karigar (making charge) separately from the metal value — this is where price negotiation is most productive. In Gaffar Market, verify IMEI numbers on any mobile phone purchase against the box IMEI and the phone's dialled *#06# IMEI; ask for a proper tax invoice. Bridal lehenga fitting and customisation typically takes 2–4 weeks; plan shopping visits accordingly if buying for a specific wedding date. The best paranthe in Karol Bagh is at Roshan Di Kulfi on the main road — a Partition-era institution that has been feeding the neighbourhood since 1946.",
+    "rating": 4.3,
+    "reviewCount": 66000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Paharganj Main Bazaar",
+    "slug": "paharganj-main-bazaar-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "bazaar",
+    "categories": ["backpacker-shopping", "ethnic-wear", "accessories", "handicrafts", "footwear", "street-fashion"],
+    "tagline": "The backpacker bazaar of Asia — where budget travellers, sadhus, and exporters have shopped side by side for half a century.",
+    "description": "Paharganj Main Bazaar occupies a singular position in Delhi's commercial geography: it is simultaneously the city's most internationally famous street market (appearing in every traveller's handbook from the Lonely Planet to the Rough Guide for fifty years) and one of its most genuinely authentic commercial lanes. The bazaar runs from New Delhi Railway Station's western exit through approximately 1.5 kilometres of dense, narrow commercial street, splitting into lanes and sub-lanes that accommodate a staggering variety of trade. The original commercial profile of Paharganj — wholesale in textiles and garments for Delhi's export trade — is still visible in the upper floors of buildings where fabric wholesale continues. Below, the street has been colonised since the 1970s by a backpacker economy catering to the budget travellers who use New Delhi Station and the cheap hotels behind the bazaar. The commercial mix that resulted is extraordinary: shops selling embroidered patchwork bags from Rajasthan, printed hippie trousers, silver jewellery with turquoise and lapis, aromatic incense and essential oils, bongs and counterculture paraphernalia, Himalayan trekking gear (much of it export surplus from The North Face and Patagonia), cheap cotton kurtis, hand-drum sets, and all the physical material of the overlander trail. Adjacent to this is authentic local commerce — hardware stores, mobile repair shops, the neighbourhood's own saree and fabric stores. Paharganj does not curate or edit itself for anyone, which is precisely why it remains interesting.",
+    "knownFor": "Export-surplus trekking and outdoor gear, Rajasthani patchwork accessories, silver jewellery, backpacker fashion, aromatic essential oils, and the most raucously multicultural bazaar in Delhi",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2128, 28.6434]
+    },
+    "address": "Main Bazaar Road, Paharganj, New Delhi 110055",
+    "neighbourhood": "Paharganj",
+    "budgetRange": { "min": 100, "max": 10000 },
+    "highlights": [
+      {
+        "name": "Rajasthani Craft and Bag Shops",
+        "description": "The most distinctive merchandise of Paharganj's tourist-facing market is Rajasthani craft: embroidered mirror-work bags, elephant-print bedspreads, block-printed cotton cloth sold by the metre, and the patchwork sling bags made from recycled Rajasthani quilt fragments that have become a globally recognised product of this market. Prices are negotiable and begin at ₹150 for smaller bags."
+      },
+      {
+        "name": "Export Surplus Outdoor Gear",
+        "description": "Several shops on the main bazaar and adjacent Ram Nagar lane carry export surplus outdoor and trekking gear — North Face fleeces, Patagonia base layers, Columbia waterproofs, Marmot sleeping bags — sourced from Delhi's export rejection pipeline at 60–80% below international retail. Quality inspection is required but genuine finds are regular. The best shops are on the first floors of buildings, not the street-level stalls."
+      },
+      {
+        "name": "Silver and Stone Jewellery",
+        "description": "Paharganj's jewellery shops cater to the traveller aesthetic: chunky silver rings with semi-precious stones (lapis lazuli, turquoise, garnet, moonstone), Tibetan-style pendants, rudraksha malas, and the hippie-trail jewellery vocabulary developed over fifty years of backpacker commerce. Most pieces are genuine silver and real stones at prices from ₹200."
+      },
+      {
+        "name": "Aromatic Oils and Incense",
+        "description": "The essential oil and incense trade is one of Paharganj's more genuine specialisations — shops carry Indian-produced essential oils (rose, jasmine, vetiver, sandalwood, patchouli) from Kannauj (India's perfume town) at wholesale rates, as well as dhoop sticks, resin incense, and agarbatti at prices that are a fraction of export market rates."
+      }
+    ],
+    "bestFor": ["Budget travellers", "Backpacker fashion", "Trekking gear on a budget", "Rajasthani craft bags", "Aromatic oils and incense", "Silver jewellery", "Export surplus outdoor wear"],
+    "bestTimeToVisit": "Morning (9am–noon) — cooler and less crowded; evenings (6–9pm) are more atmospheric but densely crowded",
+    "openingHours": "9:00 AM – 10:00 PM (varies by shop; most open by 10am)",
+    "closedOn": "None (open all 7 days)",
+    "nearestStation": "New Delhi (Yellow Line Metro) — direct exit onto bazaar; also RK Ashram Marg (Blue Line) — 10 min walk",
+    "tips": "The rule of thumb for bargaining in Paharganj is to offer 30% of the first quoted price and settle between 40–50%. Items described as 'silver' range from genuine sterling to nickel alloy — ask for sterling specifically and negotiate accordingly. Shops on the upper floors of buildings (look for staircases off the main lane) tend to have better selection of genuine export surplus at lower prices than street-level stalls. Carry a water bottle — the main bazaar is narrow and humid. The area around the bazaar has several good budget restaurants; the South Indian places near the station are reliable and cheap.",
+    "rating": 4.1,
+    "reviewCount": 38000,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "INA Market",
+    "slug": "ina-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "wholesale-market",
+    "categories": ["food", "spices", "international-groceries", "vegetables", "wholesale"],
+    "tagline": "Delhi's most cosmopolitan food market — where Dilli's diplomatic community and professional cooks find ingredients the rest of the city can't.",
+    "description": "INA Market — formally the Indira Gandhi Indoor Market — is the most interesting food market in Delhi for anyone who cooks seriously or eats internationally. Located near the diplomatic enclave of Chanakyapuri, the market developed from the 1960s onwards to serve the large diplomatic and expatriate community that required ingredients unavailable in the standard Delhi wholesale markets. What resulted is a market with a personality unlike any other in the city: side by side, it carries the standard Delhi vegetable and fruit wholesale trade, the highest concentration of imported and international groceries in North India, and a world-class selection of fresh and dry spices. The import grocery section is the market's most distinctive feature — entire shops here carry Thai curry pastes, French mustards, Italian olive oils, Japanese soy sauces, Middle Eastern tahini, Mexican chipotles, and the full range of Southeast Asian condiments, all imported and sold at prices significantly below department stores. The spice section of INA is also exceptional — fresh whole spices sold by weight, spice blends, dried herbs, and the specialist spices (star anise, mace, true cinnamon, asafoetida of various grades) that are hard to source in quality elsewhere in Delhi. The meat and fish section at INA is among the best in South Delhi — fresh produce, cleaned and cut to specification, with cuts and preparation styles catering to the international community (rack of lamb, deboned fish fillets, cleaned squid). For a certain kind of Delhi resident — the food-serious, internationally minded home cook — INA is the city's most important market.",
+    "knownFor": "Delhi's largest selection of imported international groceries, exceptional whole spices, quality fresh meat and fish, Thai and Southeast Asian ingredients, and the market of choice for Delhi's diplomatic and restaurant community",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2085, 28.5701]
+    },
+    "address": "INA Market, Sri Aurobindo Marg, INA Colony, New Delhi 110023",
+    "neighbourhood": "INA / Diplomatic Enclave",
+    "budgetRange": { "min": 100, "max": 20000 },
+    "highlights": [
+      {
+        "name": "Import Grocery Shops",
+        "description": "The import grocery shops in the interior of INA carry the widest selection of international packaged ingredients available in North India — Thai, Korean, Japanese, Italian, French, and Middle Eastern products. Shops like Sita Ram & Sons, Oriental Exports, and half a dozen others have been supplying Delhi's embassies and restaurants for decades. Prices are marked up from import cost but significantly below supermarket chains."
+      },
+      {
+        "name": "Spice and Dry Goods Section",
+        "description": "The spice vendors at INA sell whole and ground spices by weight at wholesale rates — quality is consistently higher than packaged supermarket spices. Of particular note: the fresh turmeric and ginger section, the selection of Kashmiri saffron (verifiable quality with vendors who have been here for years), and the unusual spice section carrying mace, true cinnamon bark, dried kachri (a souring agent), and several spices used in specific regional Indian cuisines that are genuinely hard to find elsewhere."
+      },
+      {
+        "name": "Meat and Poultry Section",
+        "description": "The meat vendors at INA are some of the best in South Delhi — fresh chicken (live-to-order or fresh-killed), mutton cuts by specification, pork (catering to the international community), and occasional game. The fish section carries both freshwater and sea fish cleaned and filleted to request. The vendors here understand how international cooks want meat prepared."
+      },
+      {
+        "name": "Fruit and Vegetable Wholesale",
+        "description": "INA's produce section carries a wider range of specialty and imported fruits and vegetables than typical Delhi markets — baby vegetables, specialty mushrooms, imported cheese (from several European producers), and seasonal produce from different Indian states. Prices are significantly below the premium supermarkets nearby."
+      }
+    ],
+    "bestFor": ["Serious home cooks", "International grocery shopping", "Spice sourcing", "Restaurant and catering procurement", "Imported specialty ingredients", "Diplomatic community"],
+    "bestTimeToVisit": "Weekday mornings (9am–noon) — freshest produce, best selection, least crowded",
+    "openingHours": "8:00 AM – 8:00 PM",
+    "closedOn": "Sunday (most shops)",
+    "nearestStation": "INA (Yellow Line Metro) — 3 min walk",
+    "tips": "For imported groceries, ask for the 'fresh shipment' — importers receive containers every 2–4 weeks and some products are near their sell-by date from the previous batch. The best spice vendors know their sources; asking where a spice comes from (which state, which producer) distinguishes the knowledgeable vendors from mere resellers. For saffron, insist on the Kashmiri origin certification and do the water test in-store — genuine saffron releases colour slowly from one end of the strand. The meat vendors at INA will butcher to any specification if you call ahead with the cut you need.",
+    "rating": 4.5,
+    "reviewCount": 22000,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Connaught Place",
+    "slug": "connaught-place-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "market",
+    "categories": ["fashion", "books", "food", "jewellery", "home-decor", "luxury"],
+    "tagline": "The civic centre of the capital — a Georgian colonnade where Lutyens' vision meets 21st-century retail.",
+    "description": "Connaught Place — named after the Duke of Connaught and built to the designs of RobertTor Russell between 1929 and 1933 — is the commercial and civic heart of New Delhi, and one of the finest pieces of colonial urban design in Asia. The concentric Georgian colonnades — Inner Circle, Middle Circle, and Outer Circle — are connected by seven radial blocks (A through G in the inner ring, further blocks beyond), creating a planned commercial district of extraordinary architectural coherence. Nearly a century after its construction, CP (as Delhiites call it) remains one of the city's most trafficked commercial zones — a mix of flagship retail, international food chains, legacy institutions, and street-level commerce that functions simultaneously as a business district and a shopping destination. The flagship retail offer has evolved considerably: the old-school tailors, shoe shops, and gift emporiums of the 1980s have been largely displaced by international fast fashion (Zara, H&M, Uniqlo, Marks & Spencer), electronics, and food and beverage chains. But CP retains genuine anchors: The Khadi Gramodyog Bhavan (the government's largest khadi store — handspun and handwoven cotton and silk at prices that represent direct artisan value), Cottage Industries Emporium (the multi-state craft emporium that is a curated version of the country's entire handicraft output), and Wengers (the legendary 1926 bakery-deli that has been serving Delhi's office workers since before Independence). The underground Palika Bazaar — the subterranean market beneath CP's central park — adds a chaotic, cheap complement to the colonnade's relative order.",
+    "knownFor": "Khadi Gramodyog Bhavan, Cottage Industries Emporium, the Georgian colonnade architecture, Wengers bakery, and the most central mixed retail experience in the capital",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2177, 28.6315]
+    },
+    "address": "Connaught Place, New Delhi 110001",
+    "neighbourhood": "Connaught Place",
+    "budgetRange": { "min": 200, "max": 100000 },
+    "highlights": [
+      {
+        "name": "Khadi Gramodyog Bhavan (Block A, Inner Circle)",
+        "description": "The flagship store of the Government of India's Khadi and Village Industries Commission — and the best place in Delhi to buy genuine hand-spun, hand-woven khadi. Cotton, silk, and wool khadi by the metre (for tailoring), readymade kurtas and shirts, handmade khadi paper products, and honey from village apiaries. Prices reflect the actual cost of handwork and are extremely fair — far below the boutique mark-up on 'ethical' Indian cotton. The October 2 Gandhi Jayanti sale (30% off) is one of Delhi's best retail days."
+      },
+      {
+        "name": "Central Cottage Industries Emporium (Janpath Entry)",
+        "description": "The CCIC's Delhi outlet is the government's attempt at a curated multi-state craft retail store — six floors of handicrafts from every Indian state, with fixed prices and a quality standard that is above market-stall grade but below boutique retail. Excellent for Pashmina shawls, Kashmiri carved walnut, Bidriware, bronze, and the full range of Indian weaving traditions. No bargaining (fixed prices) but consistently reliable quality."
+      },
+      {
+        "name": "Palika Bazaar (Underground)",
+        "description": "Beneath Connaught Place's central park is a subterranean market of 350-odd stalls selling electronics, mobile accessories, clothing, and miscellaneous goods. It has the energy of Gaffar Market with the geography of a basement. Bargaining is essential and aggressive. Good for mobile phone accessories, cheap fashion, and the thrill of navigating a subterranean bazaar."
+      },
+      {
+        "name": "Wengers (A-Block, Inner Circle)",
+        "description": "Wengers has been in the same A-Block location since 1926 and has served the Delhi bureaucracy, diplomatic corps, and general public through every era of the Republic. The deli section sells European-style cold cuts, pickles, and packaged goods; the bakery produces the same puffs, pastries, and bread it has made for a century. An institution that is worth visiting for its history as much as its product."
+      }
+    ],
+    "bestFor": ["Khadi and handloom textiles", "Government craft emporiums", "International retail flagships", "Visiting Delhi institutions", "Food and café hopping", "Architecture appreciation"],
+    "bestTimeToVisit": "Evenings (6–9pm) when the colonnades are lit and the outdoor culture of CP is at its most pleasant; mornings for Khadi and craft shopping",
+    "openingHours": "10:00 AM – 9:00 PM (restaurants until 11pm; some shops earlier closing)",
+    "closedOn": "Varies by shop; most open all 7 days",
+    "nearestStation": "Rajiv Chowk (Yellow and Blue Lines) — underground access directly into CP",
+    "tips": "The Khadi store in October has a 30% Gandhi Jayanti sale (October 2) — the queue is long but the discounts on genuine handspun fabric are the best value in Delhi retail. CP's Block N on the outer circle has a concentration of good mid-range restaurants; the inner circle food options are more tourist-facing and expensive. The underground Rajiv Chowk Metro station is the most crowded in Delhi — avoid the evening rush (6–8pm) if you're Metro-dependent. Be aware of the famous 'CP gem scam' — well-dressed strangers who befriend visitors and lead them to overpriced shops for commission; the scam is decades old and still active.",
+    "rating": 4.3,
+    "reviewCount": 95000,
+    "isFeatured": true,
+    "isActive": true
+  },
+
+  {
+    "name": "Sunder Nagar Market",
+    "slug": "sunder-nagar-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "market",
+    "categories": ["antiques", "art", "home-decor", "jewellery", "handicrafts"],
+    "tagline": "Delhi's quiet antique quarter — where museum-quality pieces and old money have browsed side by side since the 1950s.",
+    "description": "Sunder Nagar Market occupies a charming leafy enclave in Central Delhi — a crescent of low-rise shops built around a garden square in one of the most exclusive residential neighbourhoods of Lutyens' Delhi. The market was designed in the 1950s as a neighbourhood amenity for the senior civil servants and diplomats of the adjacent bungalow colonies, and the character of those original customers — educated, well-travelled, particular about quality — shaped what the market became: the finest concentration of antique dealers, art galleries, and high-quality craft retailers in Delhi. Unlike Chor Bazaar in Mumbai (with which it is most usefully compared), Sunder Nagar is not chaotic. The shops are permanent, the merchandise is curated, prices are often marked, and the dealers — many representing second and third generations — know the provenance of what they sell. The antique and art offer covers miniature paintings from the Mughal and Rajput schools, 19th-century Company School paintings, antique bronze and stone sculptures (with the legal documentation that serious dealers provide), Raj-era furniture, colonial silverware, and early Indian photography. The jewellery shops carry antique and antique-reproduction pieces of genuine quality — tribal silver from Rajasthan, Georgian-era Mughal revival pieces, and original Mughal jewellery for serious collectors. Sunder Nagar is where Delhi's art collectors, interior decorators, and knowledgeable foreign buyers come when they want to spend seriously on Indian antiques without the chaos of old-city markets.",
+    "knownFor": "Mughal and Rajput miniature paintings, antique bronzes, Company School art, tribal jewellery, colonial silverware, and the most serene and serious antique market in Delhi",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.2428, 28.6017]
+    },
+    "address": "Sunder Nagar Market, Sunder Nagar, New Delhi 110003",
+    "neighbourhood": "Sunder Nagar / Central Delhi",
+    "budgetRange": { "min": 2000, "max": 5000000 },
+    "highlights": [
+      {
+        "name": "Miniature Painting Galleries",
+        "description": "Several shops in Sunder Nagar specialise in authentic Mughal, Rajput, and Pahari school miniature paintings — a centuries-old tradition of depicting court life, hunting scenes, and religious narrative in finely ground mineral pigments on paper or ivory. Authentication is critical; reputable dealers provide certificates and, for significant purchases, independent expert opinion. Original 18th–19th century miniatures start at ₹50,000; contemporary workshop pieces are also available and clearly labelled."
+      },
+      {
+        "name": "Bronze and Stone Sculpture Dealers",
+        "description": "A cluster of dealers in the market carries antique (and high-quality reproduction) bronze and stone sculpture — Chola bronzes, Rajasthani sandstone relief panels, and Central Indian temple fragments. Dealing in genuine antiquities requires export documentation under the Antiquities Act; all reputable dealers here provide this for pieces above 100 years old. Reproduction bronze of museum quality is also available without legal complications."
+      },
+      {
+        "name": "Colonial Silverware and Furniture",
+        "description": "The Raj-era furniture and silverware dealers of Sunder Nagar are among the best in India — Anglo-Indian campaign furniture, silver trophies and racing cups from British India, Victorian silver dressing table sets, and the silver cigarette cases, inkwells, and personal effects of British-era India. Quality, as throughout this market, is authenticated and priced accordingly."
+      },
+      {
+        "name": "Tribal and Antique Jewellery",
+        "description": "The jewellery shops in Sunder Nagar occupy a different register from the bridal jewellery markets of Chandni Chowk or Karol Bagh. The focus here is on museum-quality tribal silver from Rajasthan, Gujarat, and Orissa; on 19th-century Mughal revival pieces in gold and enamel; and on the Kundan and Meenakari work of the pre-independence era. These are collector pieces for buyers who know what they're looking for."
+      }
+    ],
+    "bestFor": ["Serious antique collectors", "Interior decorators", "Art investors", "Miniature painting collectors", "Diplomatic and expatriate buyers", "Museum-quality gift sourcing"],
+    "bestTimeToVisit": "Weekday mornings (11am–1pm) — when dealers are available for unhurried conversation and the market is at its quietest",
+    "openingHours": "11:00 AM – 7:00 PM",
+    "closedOn": "Sunday",
+    "nearestStation": "Khan Market (Violet Line) — 10 min walk; no direct Metro stop",
+    "tips": "Relationship-building in Sunder Nagar matters more than in any other Delhi market — the best pieces often don't appear in shop windows but emerge through conversation with dealers who trust the buyer's knowledge and intent. If you're buying something significant (above ₹1 lakh), ask for documentation of provenance and, for pieces claimed to be more than 100 years old, a certificate under the Antiquities Act. The garden square at the centre of the market is genuinely pleasant — have a coffee at the central kiosk before or after shopping. Photography inside most shops requires permission.",
+    "rating": 4.6,
+    "reviewCount": 8500,
+    "isFeatured": false,
+    "isActive": true
+  },
+
+  {
+    "name": "Mehrauli Village Market",
+    "slug": "mehrauli-village-market-delhi",
+    "city": "69e9a0ed6218934f7a40fd87",
+    "citySlug": "delhi",
+    "type": "market",
+    "categories": ["home-decor", "handicrafts", "vintage", "art", "antiques", "ethnic-wear"],
+    "tagline": "Delhi's most atmospheric design quarter — boutique studios, antique dealers, and handloom galleries in a medieval village.",
+    "description": "Mehrauli is the oldest continuously inhabited urban settlement in Delhi — a village that has been inhabited since the 10th century and which contains, within its lanes, the Qutb Minar complex, the tomb of Adham Khan, the 14th-century Jamali Kamali mosque, and hundreds of medieval dargahs. In the last two decades, this medieval geography has attracted a community of design studios, antique dealers, textile boutiques, and independent restaurants that have made the village one of the most interesting addresses for serious shopping in Delhi. What exists is not a market in the conventional sense — there is no central bazaar or planned commercial district — but a scatter of remarkable independent shops through the village lanes. The anchor stores are all design originals: Zaza Patiala (home furnishings using traditional craft techniques), Akar (natural-dye textile studio), Gulabo (Rajasthani and North Indian couture), Qila (curated antique and vintage home decor), and Good Earth's workshop-outlet in the adjacent area. The defining character of Mehrauli's retail is the integration of the commercial with the historic — you browse textiles in a shop that is built into a Mughal-era gateway, or examine ceramics in a studio next to a 13th-century step-well. The best approach is to spend a half-day walking the village lanes in conjunction with a visit to the Qutb Minar complex, stopping into studios as you encounter them.",
+    "knownFor": "Design boutiques and textile studios, antique home decor, the Qutb Minar complex setting, medieval village atmosphere, and Delhi's most architecturally embedded shopping experience",
+    "heroImage": "",
+    "images": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [77.1855, 28.5220]
+    },
+    "address": "Mehrauli Village, Near Qutb Minar, New Delhi 110030",
+    "neighbourhood": "Mehrauli",
+    "budgetRange": { "min": 1000, "max": 300000 },
+    "highlights": [
+      {
+        "name": "Textile and Natural Dye Studios",
+        "description": "Several of Mehrauli's design boutiques specialise in natural-dye and handwoven textiles — a strand of the slow-fashion movement that has found a home in the historic lanes. Akar and similar studios produce limited-run sarees, yardage, and garments using indigo, madder, pomegranate rind, and other plant dyes on handloom cotton and silk. These are high-value, ethically produced pieces for buyers who understand what they're paying for."
+      },
+      {
+        "name": "Antique and Vintage Home Decor",
+        "description": "Qila and several associated dealers carry a well-curated selection of antique and vintage home decor — old haveli doors and windows repurposed as wall art, 19th-century colonial furniture, antique ceramic tiles from Rajasthan, and the distinctive patinated metalwork of Mughal-era domestic objects. The selection is edited and of consistent quality."
+      },
+      {
+        "name": "Contemporary Craft and Design",
+        "description": "The design studios of Mehrauli — a loosely affiliated community of makers who have chosen this location precisely for its distance from mainstream Delhi retail — produce ceramics, leather goods, handmade paper products, jewellery, and textile accessories using traditional Indian techniques with contemporary design sensibility. Prices reflect the individual studio economics of small-batch production."
+      }
+    ],
+    "bestFor": ["Design enthusiasts", "Natural textile collectors", "Antique home decor", "Slow-fashion advocates", "Architecture and history combined with shopping", "Gifting high-quality Indian craft"],
+    "bestTimeToVisit": "October to March — Delhi winters make the outdoor village navigation pleasant; summer heat makes walking the lanes arduous",
+    "openingHours": "11:00 AM – 7:00 PM (individual studios vary; some by appointment)",
+    "closedOn": "Monday (most studios)",
+    "nearestStation": "Qutb Minar (Yellow Line Metro) — 15 min walk through the village",
+    "tips": "This area rewards unhurried exploration — treat it as a day out combining the Qutb Minar complex with shopping rather than a targeted shopping trip. Many studios are also working ateliers where you can watch production — ask if you can observe the dyeing or weaving process. Not all studios are open every day; calling ahead is advisable for specific destinations. The village lanes around Adham Khan's Tomb have the highest concentration of interesting shops.",
+    "rating": 4.5,
+    "reviewCount": 11200,
+    "isFeatured": false,
+    "isActive": true
+  }
+
+]
